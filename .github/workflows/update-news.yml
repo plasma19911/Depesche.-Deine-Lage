@@ -2,7 +2,7 @@ name: Nachrichten aktualisieren
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # alle 3 Stunden (UTC)
+    - cron: "0 * * * *"    # einmal pro Stunde (UTC), jeweils zur vollen Stunde
   workflow_dispatch:          # Knopf zum manuellen Auslösen
 
 permissions:
