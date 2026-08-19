@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T09:52:48.858737+00:00",
+  "generated": "2026-08-19T10:59:18.141527+00:00",
   "sections": [
     {
       "id": "deutschland",
@@ -1195,13 +1195,6 @@
           "summary": "",
           "source": "Deutsche Bahn",
           "published": "2026-08-12T11:40:00+00:00"
-        },
-        {
-          "title": "Polizei-News Berlin Treptow-Köpenick, 12.08.2026: Schüsse auf einen Mann",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFZZN1JDd2otYjJEd19MVEtTRWM4Wnk0ZEFScEhPX1VhOHVQQTFfWTEtT3FZVk94cHI1bnB1eTE0WWJOQ18zQmpIX0FKY0o4THlkUUZfZm02ZFNuLWZTRjZVQm1jdERvMXJDamcwS1ZpdUFKQTFBUnFnY3Z3ck9VOEIydjFvUjFaMlhkd2F0UUVFdFUxQ3Via3cwblNON0FhY1J2Smh6bWJGbUVlQ0JYX0l2X010NDZSc1E?oc=5",
-          "summary": "",
-          "source": "News.de",
-          "published": "2026-08-12T10:51:01+00:00"
         }
       ]
     },
@@ -1210,6 +1203,20 @@
       "title": "Wissenschaft",
       "days": 7,
       "items": [
+        {
+          "title": "Astronomie mit dem Fernglas: Der Nordamerikanebel und sein blasser Nachbar",
+          "link": "https://www.spektrum.de/news/nordamerikanebel-und-schleiernebel/2328601",
+          "summary": "Im Sternbild Schwan verstecken sich zwei ästhetische Gasnebel, die Sie mit einem Fernglas beobachten können – eine echte Herausforderung.",
+          "source": "Spektrum",
+          "published": "2026-08-19T11:30:00+00:00"
+        },
+        {
+          "title": "Bilder der Woche: Rekordtemperaturen im Mittelmeer",
+          "link": "https://www.spektrum.de/alias/bilder-der-woche/klimawandel-rekordwaerme-im-mittelmeer/2340470",
+          "summary": "Fast überall an Europas Küsten ist das Meerwasser extrem warm. Ohne den Klimawandel wären solche Temperaturen praktisch unmöglich, betonen Forscher.",
+          "source": "Spektrum",
+          "published": "2026-08-19T11:00:00+00:00"
+        },
         {
           "title": "Medikamente im Alter – Was absetzen, was weitergeben?",
           "link": "https://www.spektrum.de/podcast/springer-medizin-was-absetzen-was-weitergeben/2340206",
@@ -1223,20 +1230,6 @@
           "summary": "Der ungeplante Hackerangriff eines KI-Modells von OpenAI auf Computer einer anderen KI-Firma ließ Alarmglocken läuten. Neue Maßnahmen sollen das künftig verhindern.",
           "source": "Spektrum",
           "published": "2026-08-19T10:00:00+00:00"
-        },
-        {
-          "title": "Psychologie: Warum sich unser \"wahres Ich\" oft stark verändert",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVNaRkFhZVBnWFJpRWdxOVZCNElhZmJqQzBXYy1GR0k0Z2lBNEpzMUs1WXNmTE8xdmcxNGhSOXNqQ0dQQ1hBX05DZzJZTE5POVY0Zjg5M0l2R0tJaUhsRS1qUFBYMnVXZm1YaUNSa0NneERkQXR2eVNZZVVxMmJYcEk2bmh2M2lndWN3QjFXdFhnTThRYWN0NzF1TjJkWVpJQ1hyOERsT2lUMDVyOUhhU3JsbDMyM0d6UjFXODVNblVIZ2hmRVFMVzZn?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-19T09:32:32+00:00"
-        },
-        {
-          "title": "Gefräßige Tintenfische überschwemmen die Nordsee",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajE0YmFYT1FyaEYzVmpkdGdlX1VlVnNlcGpPbXpZcVcwSlJBSWVXeVdaT3RTdkxZSVBjMkxyTEtESk9xZDN1R1VkUkMzbDN6Qkdua0FzNG9JaHJZX3c5QmpfTllRaExTdll5U1o3QzR0MWhtX0VOSWRBN0RXMGtJTnZCQXlXNHRHYmQ4Um9SZU9vTE5SQjBqbjNER0xNQQ?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-19T09:27:00+00:00"
         },
         {
           "title": "Australische Rotrückenspinne: Mit Rückwärtssalto gegen den Tod nach dem Sex",
@@ -1274,139 +1267,6 @@
           "published": "2026-08-19T07:00:00+00:00"
         },
         {
-          "title": "Jamal Musiala leidet an \"neurologischer Dysfunktion\"",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmItbV85ZFRXaHRLVWREWjdWc3NkLWRlalVRclBBWndVNVQtdDFrcnk0WmhidzJOSGZOdF80VkVnN2dERjBfNjhjYkFfZ2dOSGZrazRpeGRGX3QyaXdjZkp0LVNQUkRETm14NnFjbG1EOWp5enk4dVZVQXdJTHRYVFhHZERjaGU2QUV6amZkeF9BMmxHb0Z3OWhxY1dwcXhjcnJjZGRxVkhKTnlCTlpqOFZxUFduNFhkeTZPOTZaUlM2d0V5RDVqUXJJRmR2eG0wVWZaQ1E3YnBLT2J1Mnln?oc=5",
-          "summary": "",
-          "source": "n-tv.de",
-          "published": "2026-08-19T06:43:23+00:00"
-        },
-        {
-          "title": "„Echte Black Boxes“: Studie warnt eindringlich – KI-Tools gefährden die Grundlagen von Wissenschaft",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONnRTV1F5bXVqeUJaa3pjVzB1REpsZG1qMktfc0g4NnRra3lGaXZMRVhLUkNVRHdmMUU5UzIxUjVORzIzaEZIN0J0cHNhTThxVmdsdEFpTHlMS0FFSndaZ1NQYjJ2QmpaZlpnY0FwZ1poUGZDTkpwVUdJSEJmZkFrb2thU1FFRWs1cmQwX0xjWnNfSHotNDhJdHRBYUlDcW9V?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-19T06:35:42+00:00"
-        },
-        {
-          "title": "Nasa zeigt Mondkrater nach SpaceX-Einschlag: 18-Meter-Delle im Staub",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVNObUc4cGFUcmJQdXp0V2VUbDVBWlZYNXdKSlFHeUpjZldCcU5tVXgtMy1PQ09wYkZMd05nUkJRbmRFZjN1ajRDMjY2bnFhN01sRmN4c0ZQQXpiNWJJcnktU2xFWEJHcnh6Z1VXWi1YMGFXVFNRbk5XdU42c2NDQzRUZTBCY0ZGR1pHWG5Rb2QtOXZLNVRkX2hWeDFoYjNzQTdwUDhGd1BQcVVnMkJtS2w2Z3BBQi1UVEh3R2U4Zw?oc=5",
-          "summary": "",
-          "source": "T-Online",
-          "published": "2026-08-19T06:09:23+00:00"
-        },
-        {
-          "title": "Psychologie: Mit dieser Reaktion nehmen Sie verbalen Angriffen überraschend die Macht",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnpqNXM1NjhmcDdqazJPTGV4M2xRZzFqM2ZNeWF1LXFSam9ncXFLdC1fLU50dDVxbkxMd2Y3Rkc3WkdUbkNmeEo0VEpENm5RcVJqZ19uVWQwNmtkWjN5MnRqazJXb21zb1hZeHUzb1IzUG5TTzMtSXJud1phX3RYSXpORWRGbFBPM0hIVU5LWkZLaVVwOTQ5ckJiaXBSV0N6VnB4XzNlbnFkZDhhRVZVWkppR3I3eV92U3JkYm5uUDZsNnFiUDlCZGR3Y05BaW1la3NMLXZlSmpBTVJsV2VUR2VxVlM0d3dFd0hMMXJlRQ?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-19T05:52:48+00:00"
-        },
-        {
-          "title": "Klimaanpassung an Schulen: Grüne Utopie, graue Finanzierungsaussichten",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMlZvVjJhcUhERmVScFI0MVJlSm0yOWJaUHkxeFlBdV9SNF9BQWl5YU5oOVBTcU9hdDFCWTdNMS0tYnZVQldMcFJSVGNxQ08wNllUZ1FaY29wWHc0alJj?oc=5",
-          "summary": "",
-          "source": "taz.de",
-          "published": "2026-08-19T05:12:39+00:00"
-        },
-        {
-          "title": "Astronomie: „Little red dot” auf James-Webb-Aufnahmen entpuppt sich als 660 Millionen Jahre alter „Schwarzes-Loch-Stern”",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORnJ0N0JUbGVHbWVlTEV1ZUhhTWdwNzc0OE1EaXFxRlBZQnJjMy1hS0R1ejlhQ2QtaEh2OE80M0F6UWlGcjMxY0Q5eUozd1hQb21NR25uR1NMTndCVXhxaE02UmpwdkJYZWJMWXU4REpBTExvN3c5bkRIaUYzX29TcWdvYjZkbVJFOWRKQVY0R01TVUs3QjBybk5FYWtySkRZLXk1TnhSN3NfZ0VuWUdqR2VVX1dLSnE4Tk1SOEUxLUp2Q055SkwtaVp6Y3hLUnN0VnBCNzFuR1ZQMTd6YjRKd2JkeFBsc2h0bkVCNHBTTzZqdG53RUJTTjRHQS1fLWxrSFZWUkRLMFBZdE9ic0pZa1dmYlF1Slh4Nk9ITDRSMA?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-19T05:06:00+00:00"
-        },
-        {
-          "title": "Neue Aal-Art dank TikTok-Video entdeckt",
-          "link": "https://wissenschaft.de/artikel/neue-aal-art-dank-tiktok-video-entdeckt",
-          "summary": "Ein TikTok-Video zeigte einen im Grundwasser lebenden Aal in Indien. Daraufhin haben sich Forschende auf die Suche begeben – und eine neue Art identifiziert.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-19T05:00:25+00:00"
-        },
-        {
-          "title": "Verschwundener Mega-Steilhang löst Rätsel der „großen Lücke“",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREVjcE13OG9VdzJCVmRmdjNoZjJZeEhHbnExekRhVFByT1dPQ25WX1V6aWJxc0EzTjJlc1d0WTVTX180YjZOSVM0TUpTaTVMU241LW1jQVYzU2pxb0pJOFQ3Wnl2TDFMekNPV0s3VlN3dUdVc0JnUXowTjRSd2ZOc0ZrdFVuVXA3d0NrWmFLaXhxeTloWWlLM1VpdERNdzNGcUNSVWFBQnMzSmJndWtsS1hsLVZwN05iSTNNZDI0dFlBVE1TY3pIcmRWWUE?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-19T04:57:00+00:00"
-        },
-        {
-          "title": "Mittelalterliches Schiff in Kellerdecke von 1244 entdeckt: „Wertvolles Zeugnis” für die Forschung",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObjQzdFAzWmJfMTViN0J5eWRCSHl1TXJVSmJIRl92a3dwcUpqREIxd0FnUkVnRjh1RHNFLVJTRUEwR2JfUDRLUy1BZ0VEME5BZkRLRThDaTR1WVp2X2thR2dRc3dxdVZqNERhZUh5OUF4VFpFMVhWQVZ2RVRYdHo0bXN2N0JkNldCamFmd1NpcUV5THlyRHV5eU5JVDc0QnRWUXhNcVpob3FEY2VqU1BTbGhRVnF2N1NGQWh5eXJnck1wOW1BOGNuS3VXdUtlTWZnMUREQ0tTdEVjOThTVVliUl9DQ0x4VDZIamZnQnRsMjNlNFA2OHpza1FGTEkzczh5dGc?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-19T04:51:00+00:00"
-        },
-        {
-          "title": "Künstliche Intelligenz: Wie KI-Agenten Gruppen bilden",
-          "link": "https://wissenschaft.de/artikel/kuenstliche-intelligenz-wie-ki-agenten-gruppen-bilden",
-          "summary": "KI-Agenten koordinieren sich in einer Gruppe nach ähnlichen Regeln wie wir Menschen – allerdings auf höherem Niveau, wie ein Experiment demonstriert.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-19T04:30:43+00:00"
-        },
-        {
-          "title": "Rhein-Dürre verhindert Deutschlands Chemie-Comeback",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaTdBVkNpenBtRHFkeUxELXozUl8takRzMmVnVy10LUpPRkI0cUY0eFIxZ1lyUDM1MnRyNkhRNjdkT3dSSi03SmpnZ1dCWDAwOFk3Q0dia210TW9WZHJ6Z2laWnRRZGtGRi1sMXhJc2lDQ3QybHJBTG0tc2tmbi1ELWlxRUhBR29STlAxdlpiSm5HdjZjWXY4anpPM0RGVEE1T3NrNXhDNWEwRWhTNnVSeWRuYkRqMUl6aXJOT3p4OXpJSFF2M0RF?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-19T04:21:00+00:00"
-        },
-        {
-          "title": "Debatte um „The 1 Percent“: Kann eine KI die besten Forschungsarbeiten krönen?",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43bjFHVlJUbTFQU2lmS2FveTBJLUlDa2M5TU50RzdHZW1Ud0llUC1WNnpLM2c5YVFlRjJ2T3hFVHhmUU44dVI4bGxJUWY5LVRJM1N3bkNRRUN0Y1M5ai1qOTZfZXB0d0ltT2JlVF9McmxaZUpnNzJkQUt0RDc?oc=5",
-          "summary": "",
-          "source": "t3n",
-          "published": "2026-08-19T04:00:00+00:00"
-        },
-        {
-          "title": "Letzte Mondfinsternis für lange Zeit: Schmales Zeitfenster am 28. August – und es ist mitten in der Nacht",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTV85MHVCQUdGb3k5QlpheXhBX3g5c1hPVHY4SVBucno0VTF3LWxSM0pONFREZmVTNnJpVDcyOWdva2lGZU1PNlRNTEQ5YWMzMmV4c0JWdklKYksxa2xPSTFxeWZTbEI0MnYyU1RldTF0MnRhM29QdUNuU1F6YklFOWhQQkhDa3hna3JDUTJjUU81WDFJT0piY0ZvdjBQbG43UzNGLWJJVGQ5bm1PR3c?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-19T02:49:00+00:00"
-        },
-        {
-          "title": "Astronomen entdecken durch Zufall 22 Schockwellen am Helix-Nebel – und blicken auf das Ende unserer Sonne",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZklxYlFGV2FTUkdheTB4YVpMakRUVldWS2lRVE5yeW5EQnBWVndnUGVBRmlJWFhRdU5uQ2ZQSzQ2MkpzdUdXa2VXSlNpbmEzYkhEUUVwUnJmTU5RVGZDbm4zTU9NLTlzdWltdk95U1kwMkVjNUQ1Ym80WjdPV3VOUXZ6ZUJIbkJ0dTd4WEVFTXhOTFlHcHlfWmxvSFNxX3BUUG1IUnhmYmFydw?oc=5",
-          "summary": "",
-          "source": "Merkur",
-          "published": "2026-08-19T02:47:00+00:00"
-        },
-        {
-          "title": "100%iger Erfolg – in 70 Tagen Querschnittslähmung geheilt!",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWtQanJFdWhMWjRqVDJIYWozVkVnWUQyZnFqVG5vM3BkSUI4ODFJejUydjN5OTFWZ04zZDRZTnlrQTZZZzJTT1JpZHJ1ZGVZcUhIdEFlR29JWkhMLVUtalV0WVhFUm1uck1IOFJkSVFETkNWYlZHOFVHSThSaTJzck4yTjRILS05RWk2SzVVM2FtcDNZVWVVaVViYURFZTRnbzhJbnR0WC0?oc=5",
-          "summary": "",
-          "source": "Wallstreet Online",
-          "published": "2026-08-18T21:09:11+00:00"
-        },
-        {
-          "title": "Berlin-Adlershof, die „wissenschaftliche Wüste“? Ein Widerspruch",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDA3WDB0d1RRSDd1eEJNWHVDR3daNzVnZnZzX1BXS2Qyb0ttWHhXVFo2UmJ3VFEzOTBrSkY3bjdFWXhXUkZfQ0EwaXJZOXdPRklFajNJcHl4eVFZUDFGbGlaTUFzS1FPb0Rmejk0a2lDdDV5aFJRbV9UVnFHM2pYdGI3X2NFNV82MFpQTlA3NE9meTRpTHBQdGdqU2JqT2N1azVmRnR2eWctSmh3dUhF?oc=5",
-          "summary": "",
-          "source": "Berliner Zeitung",
-          "published": "2026-08-18T19:53:41+00:00"
-        },
-        {
-          "title": "Longevity: Wie die Forschung das Altern immer besser versteht",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnNwZDFoeGREMmwtS2hlZk1JclB2MHVkbEZWaE5UdDAwcFk3SWpRSk9QYkdJN1lwSm9NWXV0VHd3YTdZRlg2THNwS2FQQUc2RHprZFlOQ1dFU1k1WTVhcXlpSHJJQ1dQNFNoRWJDZGRVYzBoekFtLS1fbEs0ZWxBM05tcndXWDVWQjA3cDlRQXNrUml6TkNETWZyRmJmVU1UOEdHaUdwbGs3Rmc?oc=5",
-          "summary": "",
-          "source": "STERN.de",
-          "published": "2026-08-18T18:46:00+00:00"
-        },
-        {
-          "title": "„Gönne mir eine Pause“: Gen-Z-Mutter zeigt, was sie in der Erziehung anders macht",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnNlc1Y2NlJlRWVLeGU3bjVJTk1sQnpWWThFYUVoeXVwVDFZU2xlWTlLUGtFQUdsOVdubjlWUTRiWjhjZWxTbzRleU9lYjc5TFhLeDFxTW1zaHE1UlFXWVIxMXRFQk9sVkNhSHJCdGMzY0RidE90dHlucFYzSkRHTVQ4WmhKSVFFMUVvbWEyOGkwTDkwWlk1MEdzNGFNdUJYSVBDTHdVM3JOenRXTDM3MUt3b0VSTkI0RkhGNA?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-18T17:43:13+00:00"
-        },
-        {
-          "title": "(S+) Warum sich das Feuer im Hohen Venn kaum löschen lässt",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGp1QnhsTjFhMVA4YTkzWlJSOGNTT1lheWxEWThLMGoxV1lLMEtqLXJfYnBXaGhjSmtHZnpDNkFrdVNmODdkSDBoWjlPLUVVMXdFbUJmdExROWQzbFlSbkw5VzM0YTNlZElvOFJBWXkwdGdycHIxZEs5ZmgwMkVkY0p1RFRCMnVfbUE3bC1XdFE2dzFoeFUwX1M5Mlp3U3BPVmFEcXZabkJCZmNWMmtBZy1CZS0zNW9kWG1sVFhUNHFmTzZGWG1SUTJ6aFc4WVAwRExpRnFlLTg?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-08-18T17:02:00+00:00"
-        },
-        {
           "title": "Norwegen: Bronzezeitgrab unter Wikingerbestattung entdeckt",
           "link": "https://www.spektrum.de/news/wikinger-bronzezeitgrab-unter-schiffsbestattung-entdeckt/2340294",
           "summary": "Ein Grabhügel im Südwesten Norwegens enthält die Reste einer Schiffsbestattung. So viel war klar zu Beginn der Ausgrabungen. Doch darunter warteten gleich zwei Überraschungen.",
@@ -1419,20 +1279,6 @@
           "summary": "Seit Jahren grübeln Forschende über Supraleitung in Graphen: Welcher Mechanismus führt dazu, dass sich die Elektronen reibungsfrei bewegen? Nun scheint es eine Antwort zu geben.",
           "source": "Spektrum",
           "published": "2026-08-18T16:00:00+00:00"
-        },
-        {
-          "title": "Spiegelbild-Bakterien: Das riskanteste Projekt der Synthetischen Biologie",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mYnhwV0xhdzR0T044REVHNjNCNTBMZnQtZWFwYUo3Q3FNMWZGeEtqZi1GVXpDUWtaUVA0NlVTT05IZHNycjVCcHc0eWNjV1NBZkREdi1USC0xdlNlNWw1Wk9UcUtjMTNCa3ZNSDI1cTJyX0hJcFBqQTZUeU8?oc=5",
-          "summary": "",
-          "source": "t3n",
-          "published": "2026-08-18T15:55:00+00:00"
-        },
-        {
-          "title": "Folgen der Trockenheit: aufgewühlte Seelenlandschaft",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXhuMUdIYlJyUmdyLUJ4THhxYS04dFhIcE1hZW5VanJ1eXBibkJCeFJZeGpiNHhKSzJnT3lPVGN2R2xWRTdNcG5KUWFJWlpNcUhPczVsQUx4ME10d21yTDRXMndxZ1AxM28ySXJsc0V2bjZENnY1Wkg2c0Y2bld6bXBXdHl6ZVUtRjZnZkxHQU9Bam5LeGFwRDdlOS16WDR1NDNR?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-18T15:48:31+00:00"
         },
         {
           "title": "Angst vor »Zombiefeuern«: Warum das Feuer im Hohen Venn so schwer zu löschen ist",
@@ -1449,20 +1295,6 @@
           "published": "2026-08-18T14:35:28+00:00"
         },
         {
-          "title": "Rettung in letzter Sekunde: So sicherte die Nasa das Überleben von Voyager 2",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMbVdjb2ctSkxlQlU4d1pWUkgwSTRJaTZ0S25PQ2NCTVlCcnlva2FDVmZhSEU3UzdHSVBmMk1MWE5rbmpTbDU1cjliNWNtb3JMcUN1NFhtR3IyOHBqcmdEdk1XcUpsSi1FMG5xU3BB?oc=5",
-          "summary": "",
-          "source": "t3n",
-          "published": "2026-08-18T14:15:03+00:00"
-        },
-        {
-          "title": "Resilienz bei Kindern: Warum Routinen so wichtig sind – laut Experten",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTmdGUVdRUGdSeHRSbjFTN2Q0M0hxandpQS1lbm1aQ2ZvN1JDM2lnOEVVdlpRUnBCYXU5R0lXNTk0eUhvLU82V3A4N2FZQ1N0NnM0dDFOdGxjZ051cmN0bXloZFZxellfeWJpWGwwdHR3YVJPLTBkTm1qNWh5clMtTXNLa1NETk5KVWg4TGlQYnk3STM2Y2x4Rk9tZUNOQmF5aWJleXQ3OS1yTEd1d0JmYkRNMF9scEx3YzJtMXVDZTZhOEpOSGc?oc=5",
-          "summary": "",
-          "source": "familie.de",
-          "published": "2026-08-18T14:12:21+00:00"
-        },
-        {
           "title": "Bilder der Woche: Infraroter Blick in den Tarantelnebel",
           "link": "https://www.spektrum.de/alias/bilder-der-woche/infraroter-blick-in-den-tarantelnebel/2340189",
           "summary": "Mit dem James-Webb-Teleskop und anderen Instrumenten gelang diese farbenfrohe Ansicht des Tarantelnebel in der Großen Magellanschen Wolke, einem Begleiter unserer Galaxis.",
@@ -1470,18 +1302,11 @@
           "published": "2026-08-18T14:00:00+00:00"
         },
         {
-          "title": "Veritasium und NASA: Youtuber zeigen die Sonnenfinsternis aus 28 Kilometern Höhe",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUERiWEhLa2l2bmtsYjhJRGNCcUpWSjdKUFZfN2tSSl9zLUZ6YkY5WGVLZUt3cE5mMERTZEoxaVVOb205d2trSzRSekdGNzJNUm95Wm5iSUpTOWp2enVqb1N0RFBzLVVnLWQ0azRIbUdnNG53aXViNmxqNnhOWnBFNnFEZThBbUMxOVpTcGw0VkplZXV2dVhwdk56QzFyWEZNdERxaUNSaDVkZjI2S2dGY21RX0g?oc=5",
-          "summary": "",
-          "source": "Golem",
-          "published": "2026-08-18T13:32:01+00:00"
-        },
-        {
           "title": "Marsmonde könnten aus kühlem Einschlagsschutt entstanden sein",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlFENEtoVExxR21xMG80TE1ILWo4aVZoSWZRT1pKSGpkZXRlWDU3NkwwNlR0ZmxBbWlXeXNuV0kxM3J0cF9vNzk2V0dtMjRPQlp5bkVxR25BcFpjTjdOU0MyRjdVaDJIYlNZUm13dFRDTGhZVUR1dXJxT1dDMmphSlEzRnVXOHBKYTlYMTB1dVhXdlEtalV3ODZIdnVBa3h5?oc=5",
-          "summary": "",
-          "source": "Scinexx",
-          "published": "2026-08-18T13:03:38+00:00"
+          "link": "https://www.scinexx.de/news/kosmos/marsmonde-koennten-aus-kuehlem-einschlagsschutt-entstanden-sein/",
+          "summary": "Phobos und Deimos könnten aus einer Trümmerscheibe entstanden sein, die ein gewaltiger Einschlag auf dem jungen Mars erzeugte. Neue Simulationen zeigen, dass dieses Material wesentlich kühler geblieben sein könnte als bisher angenommen.…",
+          "source": "scinexx",
+          "published": "2026-08-18T13:01:56+00:00"
         },
         {
           "title": "Jailbreaking: Wie sich Chatbots manipulieren lassen",
@@ -1496,41 +1321,6 @@
           "summary": "Nach langer Trockenheit bringt Tief Nora den lang ersehnten Regen. Auch Gewitter und Hagel sind möglich. Ist danach wieder Hitze in Sicht?",
           "source": "Spektrum",
           "published": "2026-08-18T12:45:00+00:00"
-        },
-        {
-          "title": "Gentechnisch verändertes Bakterium gewinnt Batteriemetalle und speichert CO2",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0JWYW5TaDR1dWtidVhJTkl6cHVSc0JFamNEem5hU0U0MDMzeVlROU9qdzVGbjRvb0dTV3BuRFNDMVRHZFhKakFzYjc1V0NfSkN5NzZhYzdYaExST3N0cnBMd3B3UkVDc2Zob19XNG5IRGpPS21tSGdnVVVrcGl1SFhuWWdHdHE4TUc1cHZ4cXVjZF85UHl4eUtkWWdxUm5LaVV0S1Fwb1ZtS2M2N0ZUWEhtQy1SLVYzQTFzTWJNUUtqa3cta0l6dzI3LTkxT0ZxNUswb1ZhanhrRk5Rdm1n?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-18T12:10:00+00:00"
-        },
-        {
-          "title": "Erdorbit: Wie SpaceX-Daten bei der Erforschung der Thermosphäre helfen",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEd3akIxbUVJUzBCdFlxZklPa2p1eXRudm1jTC1MeTZCbFFXQjhnUUFJQVVQTDM3am9PZ01IYmVoeUxJLXVaaWZfQ3Bza244aVU0eWpjS1RJT0wtRUQyVGJuZVhIRmp5bXg4VlNjdE02ek14THAwTG5lbkFhcmZOZ0ItWFZjVlNWcC1XNHV1S1lSRjFQdGtRd1BUZFg5eHYtTkR5VU5DbzhibzE4ajFjREZIMA?oc=5",
-          "summary": "",
-          "source": "Golem",
-          "published": "2026-08-18T11:57:02+00:00"
-        },
-        {
-          "title": "Artemis I: Wie hoch ist die Strahlenbelastung bei einem Marsflug?",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVEZ5VnMtRERWXzVIMlo1cm9YaFk5NDVnMXRCMkp6bDNscUZUT1RPaWNEVHBrTXRjVVZPUkJrVnlONTdwTzZ1NllsUG1hTHlMNUhXZGJacm9EVG9DZmlzcXU5V0ZhSVgwWnNBWGs3TkFjUDRXZU9qdG1mdDBsa2UwMHFsVU81Q28zYXQ3eHVBdzRFenh6V05KdHI4Z2t1MF9mUFlCZU52VWZLRWtLUWJBeHpVbVc5MlJUS1AwNnc5dlRhZnFGQVE?oc=5",
-          "summary": "",
-          "source": "FAZ",
-          "published": "2026-08-18T11:53:32+00:00"
-        },
-        {
-          "title": "Geist steuert Körper direkter als gedacht: Neue Studie verblüfft Immunologen weltweit",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHRjZWJtdlVHZjFFOUNfdERrUGJldDRoQzNKSEhZZk10aHJUcWtOOWxQMEExRng4U3pxWVBXMGJKQWlxS0FXeEN2TW82S1NmSjNiTHRJRjJJeTVRQ0Y3bUYwaEhaMzl6dlB2Z0prczdGdXk3U0lxb0t1SW5MOVR1d2NEMngwRHpsNnVDbVpfaExnV2RqakgtMUNlcDQ5d1BZaG5xVG45NA?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-18T11:48:08+00:00"
-        },
-        {
-          "title": "TikTok-Video führt zur Entdeckung eines völlig unbekannten Fisches",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUhUU2lnbmVMdmpWRzBKSzlEb1J0RlNlcTlJbmRkRk5MTllSSVA1WGpWRkxHQmtFcGpSYVBERE90RkMwakxQM2RGcFlEeEtQY0RCdU1zb1RBeDhmenJoY2ZWVFhIWTZZSndKbTFxNF9uVlhqaXlxMmNEeXFDblJOcUFTVFZjLUNEZkpLa0pVYzdGVWoxcFVrdm1nOFVIZU55MUc5NFp0TQ?oc=5",
-          "summary": "",
-          "source": "WEB.DE",
-          "published": "2026-08-18T11:25:42+00:00"
         },
         {
           "title": "UV-Strahlung hat in Europa deutlich zugenommen",
@@ -1554,27 +1344,6 @@
           "published": "2026-08-18T11:00:00+00:00"
         },
         {
-          "title": "Psyche: „Wenn ich bei Männern von Angst spreche, sind sie weg“",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjYxQk5CVDI4cmdiRlJ1dUpyRkw2UE5HMUppNjY3aWp0dXJTZUp6UDRqc3hlZmdZbXBVN1loT1QxWmZfbHdhTUxSa2k5V0xXRVFNcVRiWi1NQnk0aVJvWlQtSlNjdjI1T0Vib21FOEVNN1NwdXBqc2pYNnhweFZ6SzJyMVFxVGV6THpfUHJGUnlzRjItY01odEEtc3c5VUx3a29xR2RIZ3l4bkNWR2o1d1dDS0tlNHhrOUNNY0s5ZWQ3Q0xPcnB0MXN6ejl1TFBNblE?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-18T10:38:36+00:00"
-        },
-        {
-          "title": "Dicke Oberschenkel senken Blutdruck und Herzrisiko – was Forschende jetzt herausgefunden haben",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTFIVGVPcHFHOWRlNldhU1lncjlWa29jZ3c0dWVjV21NbWpxS0cwWmtUMVFGcnQyRFRHLW13UGpnYkpPMjhSTmw5LXRqY1pqaGRRM1RlWEZMRHZIRGNyWVV6c2dmQTk0TncyeTZZekRHRWk2MmFYR2poWUhkM01aXzRtSXJad21ySHFXSnJkajMyMXVOc3ZTSi1uMA?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-18T10:37:11+00:00"
-        },
-        {
-          "title": "Demenz: Auf diese 3 Risikofaktoren sollten Sie unbedingt achten",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOalhJazRvY01uQTZPdlF2WThSd0tteFpjZFIzYjBORzlIUUl4Z0dNWlhSN0xLelp5Q2JhemVFZ1E1Z3R3N3NQOXY2aGlJQ1g4b1hBVEZMWkx3UFV2dmZ5VTZ6V2JiRmRPai1xaXpqMGVlcmdDMjlJMHFoMUp1RVFKMTZSUnFfM2FlbTQ1OXRaQnE1UW9YQlpQSDhpeHdfamVNX01yaHNuQTllSDktOEhCVXpnUTRXQkZwZ0VRWTU2c0NNVHVSY1Z1cThB?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-18T10:36:38+00:00"
-        },
-        {
           "title": "Farne verdrängen Laubwald: Dieser urzeitliche Klimawandel war für Wälder katastrophal",
           "link": "https://www.spektrum.de/news/der-urzeitliche-klimawandel-war-fuer-den-wald-katastrophal/2340131",
           "summary": "Mit dem Anstieg des Kohlendioxids in der Atmosphäre vor 56 Millionen Jahren verschwanden riesige Waldflächen. Die aktuelle Situation zeigt Parallelen dazu.",
@@ -1582,32 +1351,11 @@
           "published": "2026-08-18T10:00:00+00:00"
         },
         {
-          "title": "„Bedeutende Entdeckung”: Forscher finden 2.400 Jahre altes Kistengrab in der Türkei",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdm9wNXpIQmM4U09IZmM2VDdIaWE1REdHeHFEZzNvWllPbno5QTJJSjF1UEowZGljLVlxbmZITWpaNjNCRlVfVndlOWpVcjZ6TnBSMDhEVk92VnRjeURpLW1WSENOV29VNWctRExnUlVjd2ZWQ0pOMDl3Y3c1Y0VWVGlSWUZfZUVRdkFla2NOeUJlZFpMU0t0SUR2NTNYaUJBYWg3SW5la2kxc08yUmNmLXlDdkF4VUlGcnJUbkdIeFVwY2F2UEVPaGhNS190LXVlbWtScHVIWFYxV2lhZUpacnBxMUU1UQ?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-18T09:46:00+00:00"
-        },
-        {
-          "title": "Bis zu 30 Liter möglich: Es regnet wieder in NRW – aber auch genug?",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG42Vlc4Q0pKODNHeExLbzNNQ2JWVnlHMjN6dTFIT05JM0RENzdUWl8xRXhfVUd3dEQySTNqTXdZd1Y4bTlHUHJCSDZzdDdfOURIeGtOX2c1QnlJZ1NnZnlURkRTc0FDRVdoMXA4MFQ5bmFCbmNzOVZQeVBpdS04YmZIVmZjLTlwcVhyY1psYjNsRThiLVp5ZS0zbERvbVZvQjcw?oc=5",
-          "summary": "",
-          "source": "RP Online",
-          "published": "2026-08-18T09:24:00+00:00"
-        },
-        {
           "title": "Ist Vapen wirklich besser als Rauchen?",
           "link": "https://www.spektrum.de/video/doktor-whatson-ist-vapen-wirklich-besser-als-rauchen/2339993",
           "summary": "Stimmt es wirklich, dass E-Zigaretten weniger schädlich sind als Zigaretten? Was im Aerosol einer E-Zigarette tatsächlich steckt und was die Forschung über die Risiken weiß.",
           "source": "Spektrum",
           "published": "2026-08-18T09:14:00+00:00"
-        },
-        {
-          "title": "Weltraumteleskop Hubble: Weitere historische Kollision der Milchstraße entdeckt",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDkyMDB4U3ZCTnhobXBnOEpLLXJ0SjVxRTdFRkdqenR3bGRPbDgtT2VjZ3diRVZDaDBGS0lmbUVqQVdqZVZlUVg3Mkg5TExrWXJ1Y3RFLUl0MVhMNmxCQ2tEX3ZZZWY5d2d6U2RuQzdkb2g3Q0xxbFFrN2o3QTlRUDVieWFNdUhmR1U4YjN4Q0RWS3hFMHU1WUc5ZVZPSERXeU10dS1VenBiOWFJdTBxclZHQjJNalN1VlBZ?oc=5",
-          "summary": "",
-          "source": "heise online",
-          "published": "2026-08-18T08:59:00+00:00"
         },
         {
           "title": "Über das Einmaleins hinaus: Ein Taschenrechner braucht nur zwei Tasten",
@@ -1624,88 +1372,11 @@
           "published": "2026-08-18T08:16:18+00:00"
         },
         {
-          "title": "Immer mehr junge Menschen ohne Job: Die meisten Betroffenen suchen laut Statistik gar keine Arbeit",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmZjbk1lOUNEbnd0c3RoN2JwTWdMT3hxamYtWHRSMDlXdXRIZkRXbHdEeGVya21WclZKSmNpc0RPWmlpZGVLMnlqdE56TGJOVDIxQmJ4cGIyX1Y5SHdlSEJvUGFRTjctbm1wYlBDSDFzbzd4X3BPOGhzNXZOTHlMWWNsRkNZTGY5N2RpdmVIc0t0VzVGWlIxckJHTjZpUFRXVnA5bXFVQlcyZkM5RGgwSGltX3U0NGk0dFprdUVFWjV1TGVORHp2dFpqck5SUjQ4Zkt3NFNvOFJRdi1rVXNv?oc=5",
-          "summary": "",
-          "source": "Berliner Zeitung",
-          "published": "2026-08-18T07:40:57+00:00"
-        },
-        {
-          "title": "Wie groß ist der rote Winkel?",
-          "link": "https://www.spektrum.de/raetsel/wie-gross-ist-der-winkel/2339519",
-          "summary": "Wie lässt sich die Größe des rot markierten Winkels ermitteln?",
-          "source": "Spektrum",
-          "published": "2026-08-18T07:10:00+00:00"
-        },
-        {
-          "title": "Faszination Universum: Planetarium Merseburg lockt mit neuen Sternenreisen – doch Voyager 1 verblüfft bis heute",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMFktT05xOVBVeElNRFg1MXY1SVBXRUhsb25rSFhYaXptR0g3eFc0bUsyMXpkeDl4akQxX2hUT2lWSUxNTDBQVVBlUWJXdjMyU0JPbnAzZlRJb2J0blE2TkNlclI0d3hzczhvUk9FaUNLSkdwSTR6eDg4LWRpTUlXX0d6RF9VcnNEcjZDbTFERy1RYl9UbFptYU93cjZ4SkJYdjBNVDJ0UTdOeHlsdWQyUFExcFk0MWU5YXRnYUtyY3NRN2dMcXc4?oc=5",
-          "summary": "",
-          "source": "Mitteldeutsche Zeitung",
-          "published": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "title": "Die Ökonomie des Erinnerns",
-          "link": "https://www.spektrum.de/rezension/buchkritik-zu-das-fuehlende-gedaechtnis/2340101",
-          "summary": "Unser Gedächtnis ist effizient, flexibel – und manchmal auch unzuverlässig. Ciara Greene und Gillian Murphy gehen seinen Geheimnissen auf den Grund. Eine Rezension",
-          "source": "Spektrum",
-          "published": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "title": "Der „Fluch der Mumie“ wirkt noch heute",
-          "link": "https://wissenschaft.de/artikel/der-fluch-der-mumie-wirkt-noch-heute",
-          "summary": "Mumien können gefährliche Pilze, Mikroben oder Schwermetalle enthalten. Dennoch werden Mumienteile heute ohne große Schutzmaßnahmen illegal online gehandelt.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-18T05:00:18+00:00"
-        },
-        {
-          "title": "Astronomen identifizieren größte Kollision der Milchstraße",
-          "link": "https://wissenschaft.de/artikel/astronomen-identifizieren-groesste-kollision-der-milchstrasse",
-          "summary": "Vor zwölf Milliarden Jahren erlebte die junge Milchstraße eine schwere Kollision – möglicherweise die größte ihrer Geschichte, wie Astronomen entdeckt haben.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-18T04:30:27+00:00"
-        },
-        {
-          "title": "Miozän: Riesenkrokodile erlegten tonnenschwere Huftiere",
-          "link": "https://wissenschaft.de/artikel/miozaen-riesenkrokodile-erlegten-selbst-tonnenschwere-huftiere",
-          "summary": "Vor zehn bis 15 Millionen Jahren könnten Riesenkrokodile die Top-Prädatoren Südamerikas gewesen sein. Sie töteten selbst tonnenschwere Huftiere durch Kopfbiss.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-18T04:30:18+00:00"
-        },
-        {
-          "title": "Arktis: Wie Tiefdruck-Serien das Meereis dezimieren",
-          "link": "https://wissenschaft.de/artikel/arktis-wie-tiefdruck-serien-das-meereis-dezimieren",
-          "summary": "Das arktische Meereis ist auch durch schnell aufeinanderfolgende Sturmtiefs bedroht . Sie zerstören die Eisflächen überproportional stark und nachhaltig.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-18T04:30:00+00:00"
-        },
-        {
-          "title": "Teilchen ohne Quarks: Wissenschafter finden Glueball, der nur aus Kraft besteht",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGRONUdXdUVLams4M1k4U3RHMUpFTEVEb0xrQnRBNWRFUnZiaUUybkpfV1RyVFNOQldsZmxIbENNbWdOeUFwZE1CMms5bDJKMng3blVnRHJSQkxiNU0yTzNTWDJORHhnaTg4VV9CQUNTakNiMUhJNURiUmhrOE1XY2QtVnhxakZXVTR1TnNIOW1BU2xNSktZM09YNWtIZ09GblJBV1pYQWZLQkMzMHpscU50ekYySkVNWkR5b1U1c0dSR2tC?oc=5",
-          "summary": "",
-          "source": "NZZ – Neue Zürcher Zeitung",
-          "published": "2026-08-18T03:30:00+00:00"
-        },
-        {
-          "title": "Kleinkinder brauchen liebevolle Zuwendung - auch wenn sie brüllen",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZmSFFnNkVkNTNRemdENmNJMWFqajh2NmFuSHVxaW9XbXMtWWlnTE9oUzhDWmdua2lpSThXXzY1MEx5dWdPRjNJLWkwLVVRMmtWbFdXbU0yWkpYVV9BZnVFMEkzLU1YQVhHUld4VF80aURKWnJhWElCUmk2cXRMUndSM3RSd0YyZGRTZEtrZTJiM3NxU1VwMk1PNWVVbnpHaEo5MjhfTjIzRlhn?oc=5",
-          "summary": "",
-          "source": "NZZ – Neue Zürcher Zeitung",
-          "published": "2026-08-18T03:30:00+00:00"
-        },
-        {
           "title": "Firmen erwarten durch KI sinkende Löhne, vor allem bei Berufseinsteigern",
           "link": "https://www.scinexx.de/news/gesellschaft/firmen-erwarten-durch-ki-sinkende-loehne-vor-allem-bei-berufseinsteigern/",
           "summary": "Künstliche Intelligenz verändert nicht nur Aufgaben und Personalbedarf, sondern könnte nach Einschätzung vieler Unternehmen auch die Lohnentwicklung verschieben. In einer ifo-Umfrage rechnet rund jedes zweite KI-nutzende Unternehmen bei…",
           "source": "scinexx",
           "published": "2026-08-17T18:01:56+00:00"
-        },
-        {
-          "title": "Weiße Haie im Mittelmeer? Forscher mit brisanter Prognose wegen Klimawandel: Das müssen Urlauber wissen",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01RNm15cmhRNllIYzlEZ2FuNkR5QXhLRTFjSmJ3UW5YS1YwcUJ1elo4RnRpV24yVjM4OFBya1pDeTFIUHlKanYxdDFUT0Q0VnVfUk11b2RwZ0J0YUtMZnJ3OHBvV0tESkVCOERndDR6YzBEYzE1X09Wd3BFa2xKc3IxeEYwY1VXalBEUjUyajBsY3JzSFpjNkotRjBsWnZtVTZ5Wmh3U2pMMnpBR2dmSWVaWWlPTGNqZ0dRczhtYmpjOUp1UnFN?oc=5",
-          "summary": "",
-          "source": "Merkur",
-          "published": "2026-08-17T16:55:00+00:00"
         },
         {
           "title": "Riesenkrokodil jagte offenbar große Pflanzenfresser im Miozän",
@@ -1715,39 +1386,11 @@
           "published": "2026-08-17T16:04:30+00:00"
         },
         {
-          "title": "„Geoid“: NASAs Gravitationsmodell lässt die Erde wie eine Kartoffel aussehen",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHJZQ0s1VjdxdTJvQnA2TTNFTTYwUXRtWjlmSkZNRjBwSE1PMVhyUWM1QklCc0xVdE5jNkx0d0Vua182WXlTTF9kNUtRalVHWHVtYTViZDk4TFNDOUM1WWtGNGFDZXh2WWNQV2JKZ3R0Rk10RW85VlFMa0NoWVZVWU9GTnhYclB5azRDQTR1c2QtSXoxanNQRlFaYU9QZ1pQcWhwZmxLZFkwQThzOFpOMExwaw?oc=5",
-          "summary": "",
-          "source": "Euronews",
-          "published": "2026-08-17T13:51:30+00:00"
-        },
-        {
-          "title": "Verschollener Forschungsfund aus der Arktis: Foto von 1948 führt zu überraschender Entdeckung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVjOEJvZTRWVU54d0hCUkNsa3BNRzRUX3B1Zk5sZmZWVWZLQkNBSXczdzFJc2N4cVdaLUtITEpRZmF0Tm5CNHEtWkgyTEQ2Z2prcXpFa2g2WkpEVEFWRERWVmhtOW8zb1p3WE5JS3lzMEJDaUk1Y3VITDlWNjNCZU5mdHVuaU5DSkV6cUdCZUVmazFSVWxOWEpHX1YzMGM4R1E?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-08-17T13:46:08+00:00"
-        },
-        {
           "title": "KI erkennt aktive Sonnenregionen rund neun Stunden früher",
           "link": "https://www.scinexx.de/news/kosmos/ki-erkennt-aktive-sonnenregionen-rund-neun-stunden-frueher/",
           "summary": "Aktive Regionen der Sonne sind Ausgangspunkte vieler Flares und koronaler Massenauswürfe, werden aber erst sichtbar, wenn sich die ersten Sonnenflecken bilden. Eine neue Künstliche Intelligenz (KI) erkennt subtile Vorläufersignale im…",
           "source": "scinexx",
           "published": "2026-08-17T13:21:39+00:00"
-        },
-        {
-          "title": "CO₂-Anstieg vor Jahrmillionen: Wälder wurden licht und braun",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0FBLVlIX0NRamJTNGVCYk50aFB3dWllVEhGOVRSTElqZ2wzLVF4RDJYTFZkY2pvUXFYYXJkVWhVX0UxdmwtbzNhdC16cHBHVHoxNG9kSUlJWF9DUXk3UHBVWmFJMG9nbXRUV2dXcWhrdEQ5aWh5N0k2QmRhN21ZQVhsU3BHUW5fYW51YmZucTMwaWUwMzFlbmpaSGRnZXo5NXRiSXpRRmZ2SEhK?oc=5",
-          "summary": "",
-          "source": "Tagesspiegel",
-          "published": "2026-08-17T12:03:14+00:00"
-        },
-        {
-          "title": "„Dann hören in der Regel auch die Verfolgungsträume auf“",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWFBUWRUSDBoR1RDY3h4V3gtdzlaUmFwUU1CUzMzU21jVldPNGdralc4c3NDbjNIcFNHTWZYRmR4eFBpQ3dsc0RMZHpFRUw1cnBUbzhJWFpsc0RZanE2Umhfc2R3cFU2VDVNUkE1N2FqZERwVDBwdHZSV1JTOXdmVmNiakJ4Q0taTTNSSUNkNV8zUk96RHZXNVpySjREU0NuX2ZFQkZuSzFTbHcyLUNiWjJjYUV3UTczSUEyWkt5QTFZX2VIS3VtTVhLbGc?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-17T11:55:58+00:00"
         },
         {
           "title": "Wie konnte eine winzige Gruppe Steinzeitbewohner tausend Jahre auf Malta bestehen?",
@@ -1757,20 +1400,6 @@
           "published": "2026-08-17T11:19:08+00:00"
         },
         {
-          "title": "Gefahr durch Sonnenstürme: KI-Modell sagt aktive Region auf Sonne früher vorher",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZC1iUkp4T0pCalMyd0VsTC1JZGpiRGVEYUsyY25ydmZXQmdrTHVzd25obU03MzgtN1pQQXhFVFI2NjJsX2d2S2RaTDVZUExvZi04eS1JX0VtT3plSzAwaFBtQ3RSXzYwXzdFQTBuNElrQ0toVFhTZThvU3NVSC0zM3dDRjNRTklwV0pRMGZoTjh0T2NGengtZG91WFZLMlZFMGtxWG5DNzY0aGJ3N3A5MnVfTjlHVXdub1ktNg?oc=5",
-          "summary": "",
-          "source": "heise online",
-          "published": "2026-08-17T10:51:00+00:00"
-        },
-        {
-          "title": "Perfekter Partner: Für jedes Paar der Welt – Mathematiker berechnet Formel für die perfekte Liebe",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmRZQldoQV9hd2xQWUUxcE0ydERzQWc5eEpxU1RMdDFkUV92clU3TXRINUpZOVpZMy0wNjZkY3Q3ejZWdTBsQXdORUJ4REVGeWtXU3FzQ0hMNlpvRFFlMnhrekF4Zks2MlNTelllcDFWTHEycmxaWDFTcHpZNm8xU29RbEo3Zko5cHlMRGVlTmFlZUFzdWE2OWFJcEJoTHAzNjljYmc4cnRCRXdZdjA0T1hCUjl6Q3Z1Ymh0ZVR3UEVNRlZ0cWhQeUxjZXBJVzExMXNtS2RrS29hMGJoWV9UT0prVnI2TWhFSm1BRmthUU5DT3g4QzBuNkNR?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-17T10:29:02+00:00"
-        },
-        {
           "title": "Kurze Sprints verursachen stärkere Blutreaktion als langes, moderates Training",
           "link": "https://www.scinexx.de/news/medizin/kurze-sprints-verursachen-staerkere-blutreaktion-als-langes-moderates-training/",
           "summary": "Kurze Sprints lösen im Blut eine deutlich breitere unmittelbare molekulare Reaktion aus als langes, moderates Radfahren. Nach sechs 30-Sekunden-Sprints veränderten sich 714 von 2.884 gemessenen Proteinen, nach 90 Minuten moderater…",
@@ -1778,137 +1407,11 @@
           "published": "2026-08-17T09:31:28+00:00"
         },
         {
-          "title": "Kritik ist keine Feindschaft | Cicero Online",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEUwa3VIQUttZGg3eGNSZTZLblhHMzE1V1hWZkVva0pTRk5JOHJ4Tnc5dHpST1Uyb0VnRWlDYml6SlNiQVQ1U1N2UEMyVkdydnpBb0lRQm90b2dsUUEyeDEwOW1GQ2hvUjVWdU1wTGQzaXVCNS1HTlU0OHdHMEVuWmwtb0ljU19lSHNZOUpjUWbSAZYBQVVfeXFMTlR4QzhXbFhjaU8zWDktTlBHMzZPUXN0MlBseU5GNEFlVU9DQi1sRlhwUFhlLWZWWGZZeGJtaWhqQ1VMYlB3NDdtaGExTDAxSjJTTVJjVlV4TFNBZ1BqMWd5ZTBzeGR2aUw0dGl1WmdjaVctVVhKeEVhaE4xNHF6RVhkNW1Udm1XdnBpQ2pRdlRONG5jMUln?oc=5",
-          "summary": "",
-          "source": "Cicero Online",
-          "published": "2026-08-17T09:18:47+00:00"
-        },
-        {
-          "title": "Psychologie: Ihr Körper sitzt den ganzen Tag in der Pose von Unsicherheit – Ihr Gehirn hält sie für echt",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcFUwalVZM0VqYWpVN2xXczRNelk3TEU3UndObDRUTGUxNkJkMjhkZnY5V2FyOW5rZEV4RmVmcE00SlFBMmhjN2Z4VjQ0TEV6VjRWTHloVlVzWm42QWctWnozTXhhR3RYRXBxYjlaU0djZXpBUGx5dHJVYjZQZTBBdFViMk5TSGRibmZ2UzE0WGdscnZuNm9GTjYta3VmTVdCdzF4UHFLVHVTck1tYVk2eXlOSFNvTlhRczNHSVg3THVza0tTdjhUSXFWN1VHS1pYUm1MUndzaU84ck5OZ1BEQ2UzdlJMbVh6b3E5T3pnSEUwUXh3VnVHVHpUVWNvZWtRVkxkbFJMNlkwQTAwQWlvd1lyakV4Zw?oc=5",
-          "summary": "",
-          "source": "FOCUS online",
-          "published": "2026-08-17T08:24:00+00:00"
-        },
-        {
           "title": "Wie viel CO₂ lässt sich durch einen frühen E-Auto-Wechsel sparen?",
           "link": "https://www.scinexx.de/news/energie/wie-viel-co%e2%82%82-laesst-sich-durch-einen-fruehen-e-auto-wechsel-sparen/",
           "summary": "Viele Menschen sind der Meinung, dass es klima- und ressourcenschonend ist, einen funktionierenden Verbrenner bis zum Ende seiner Lebensdauer zu fahren. Eine Lebenszyklusanalyse kommt für die Klimabilanz meist zu einem gegenteiligen…",
           "source": "scinexx",
           "published": "2026-08-17T07:17:53+00:00"
-        },
-        {
-          "title": "Erstes Serienauto fährt mit Natrium-Ionen-Batterie statt Lithium",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVzljWUh0eEp4V0pYVVVoVDlTeEVOdmptR19kYWx3ak5NdDZ5d0k2WXZuWTY2RE9wc3FFajhmeEFDcnQyUVdXSldyN2pDeC1nY3pOM1RqVHVENXJhRDhmZ3k2YWZkcE9yYnhRU0Jld0k0Q1lZc28zTENuTzdyQXdWTFpTeS1RcDlNajFVdnhTbmFLS0NpRFFCQnpmRzloNGU3eDlpRzlkSnRtWkY1RllDSWlZWlo1ay1udm5ZM1ZnYWg3MFJ1WFp5azZpMA?oc=5",
-          "summary": "",
-          "source": "Forschung und Wissen",
-          "published": "2026-08-17T07:08:32+00:00"
-        },
-        {
-          "title": "Nina Ruge wird 70: Diese Erkenntnisse haben ihr Leben verändert",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaG5Mb2pRa3lhWW1Oa1hzSWpMUmpEcm03cEFKNzFiMVhHa0JVdzFIbk91X2l4T29mbUVxNVUtVFB4RFQtSDUyMG9GNnBnSjJWdlJUbTdEY042SXN1TTc3UTBIcEFfTHk4dFpiakNTaGktVHNLaUZ4bDV5S1NkQlNUdFAwTUlzb216VjJkcUxBYjZBQ3pTUlc0bHBHNzVtWk5LVExQUU55Zk93WGxhaUFqRTRDOHRJdUh0VDByWkcyWElmc0VXT3ZOcA?oc=5",
-          "summary": "",
-          "source": "BILD",
-          "published": "2026-08-17T06:55:00+00:00"
-        },
-        {
-          "title": "Konstanz: Mittelalterliches Schiff in Kellerdecke entdeckt",
-          "link": "https://wissenschaft.de/artikel/konstanz-mittelalterliches-schiff-in-kellerdecke-entdeckt",
-          "summary": "Überraschung im Souterrain: In einem Konstanzer Keller haben Archäologen einen fast vollständigen mittelalterlichen Schiffsrumpf mit Bohlen, Planken und Kalfaterung entdeckt.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-17T05:41:38+00:00"
-        },
-        {
-          "title": "Archaeopteryx: Abheben mit Anlauf",
-          "link": "https://wissenschaft.de/artikel/archaeopteryx-abheben-mit-anlauf",
-          "summary": "Wie konnte sich der Urvogel mit nur rudimentärer Flugmuskulatur in die Lüfte erheben? Eine Studie legt nahe, dass er dazu mehrfach hüpfte.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-17T05:00:37+00:00"
-        },
-        {
-          "title": "Hybride Dachanlage liefert Strom, Wärme und Kühlung zugleich",
-          "link": "https://wissenschaft.de/artikel/hybride-dachanlage-liefert-strom-waerme-und-kuehlung-zugleich",
-          "summary": "Drei in einem: Eine neue Technik kann Kühlung, Solarstrom und Warmwasser vom Hausdach liefern – energiesparend und in nur einem platzsparenden Bauteil.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-17T04:31:43+00:00"
-        },
-        {
-          "title": "Wie man eine Boeing 737 hackt",
-          "link": "https://wissenschaft.de/artikel/wie-man-eine-boeing-737-hackt",
-          "summary": "60 Sekunden und ein handtellergroßes Gerät reichen, um ein Flugzeug zu hacken – beispielsweise eine Boeing 737, wie US-Forscher demonstrieren.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-17T04:31:27+00:00"
-        },
-        {
-          "title": "Hagens blödsinnigste Bushaltestelle: Die Logik der Schreibtischtäter",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWJubVZUZm1uOXpaVGxVdlFqTS13WWp3ZnlFUlZIaWZkT1FNdVlwenRibS1FbW9YWHZSSEhONndINVZOY0Q2LU4tV0N1cWFod2RkX0pBWC1ZU3ljbDZCajR5dkRhTUxQUmhkYUxqRm01TEJ1bzdia0hJUzl4ZmpKMnluXzFZQjcyS19VRlVqTmVGR3E2ZTBHZkhJWXpudkhicENtemVJVVJWR1FtbU9EaUt3OUVyZVpVRTdvSlplVW4?oc=5",
-          "summary": "",
-          "source": "WP | Westfalenpost",
-          "published": "2026-08-17T04:04:00+00:00"
-        },
-        {
-          "title": "Umfrage im Ländervergleich: So lange wollen die Deutschen leben",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2ZnSDFoUVU0TzdadHQzdFhFZlpxYm5idzYtNFVQbk1Ja09hOUkzMFNTZmNuYjN6cDBUUWZad0NzTFJLUlJaLV9DTVYzZ29HQVhmZmZPRnRMTDVwUHlwVWo4TjVIbDdKenVlcTktZjBOd0p2SkRxbzNwVHNrZUlwRVF3aE5IX2Z3Z1VSV21GNUdBZ3FpWkpCeEt2WnlQQQ?oc=5",
-          "summary": "",
-          "source": "RND.de",
-          "published": "2026-08-17T04:00:01+00:00"
-        },
-        {
-          "title": "Gehirn: Die Schokomousse passt doch noch rein",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0ZRVTdpQ1U5ZmpQTzlMSENtRko0c3JxV3EweHFBWnRQRklTZk5JWTIzQjlRbjJHbU52LTZyUHQzRTU3RlYzcWsxWndfRVpwc0RhVWQ0ZTBSTFdZNkllS1pTU2RSSzhudUpBN29FS3NIR1N5S2pXRWNqdHVOaGk1djFGZ1hNaHEtSHZNRw?oc=5",
-          "summary": "",
-          "source": "DIE ZEIT",
-          "published": "2026-08-16T17:35:55+00:00"
-        },
-        {
-          "title": "Psychotherapie in Berlin: Der Platz auf der Couch wird schmaler",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UcjYxLVZfRGZRR01yVkppTUdQa2JQQi00QXVaWTdPNTlnQnp6MC1lY2R6R2FDRmJnYkVOQ0N2R01CWjEwS3FwdENnT3FQRlhQY2szSC13SlRGNGo4YXc?oc=5",
-          "summary": "",
-          "source": "taz.de",
-          "published": "2026-08-16T13:44:27+00:00"
-        },
-        {
-          "title": "4000 Jahre alte Gräber – Archäologen rätseln über Tote, die ungewöhnlich bestattet wurden",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcXd5cUNJU2h5dUNjdjVZMEUwYkEwU2Q3MGxmOWd1Qzl5MVNsaE9UeFZGRzBQams1VUN0WGNUVmZBS2pMbTl6SkcxSW1jOVIzbFpDQ0RmcUw0WEx2X2liRUZVS1RYaEQwbXdLYThPOG1sWWxzTklhXzN6M2xyc2dIQ0ZQbHNoLWpWcDVQR0VJSUFsejhteWdfM3hQOGpEa21EWXZPU3N0b0l0SHFxWXIyOTlrZWJLaHltMWZDdXZwWXpHUXpzQXhJUWRVX0FDU2JEblktbGxjeklScHh4MXVVRlRGRkVrTTc5NEh5QXF6cHFVNTA?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-08-16T13:07:27+00:00"
-        },
-        {
-          "title": "Jason Ardays Tod löst Bestürzung und eine Rassismusdebatte aus",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamo4NGhJdEFkbmZSREwyTllNRDhWM1BhWEpEYXZkdEh2OWRDVkl4ZWRYRThHMlZYbHRXaWx0eGswa1ZvVEh5U25STzYtMWV4ek1NbkVqUHBqU01yRmZkYU53UF9CdFE2UmJKQ2ZVS3pScTJCNHltUHBiaGg1dmFrUXVTZGpXdXFGUTg2cmRNU1h2RkpUbXBKUTRCSW9HM25j?oc=5",
-          "summary": "",
-          "source": "SZ.de",
-          "published": "2026-08-16T11:51:10+00:00"
-        },
-        {
-          "title": "Ein Blick zurück – Totale Sonnenfinsternis Side/Türkei 2006",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTzhtRW1MTlpuMFZxR2hUelJjRVZSZ0N1MjdOUU9SalVWQ2ZobEpzbnl3VzRmbndvUXBGX2U3a0p2REU4NHlUWGF2eVpUWkNKSHp0azdPeXY1R0JEZzh0UVFKdGhzZ1UxYXFaUHVzdmlvRXB5Sm1wTjZnWS1uc1JYZVotRk1qSVhIMi1ySjVJSVNHOGxVNUl2MVhGVlVKdS04QXJycjVvOTdnNU5WRk40RVQ3MllzbEtu?oc=5",
-          "summary": "",
-          "source": "Spektrum der Wissenschaft",
-          "published": "2026-08-16T10:59:00+00:00"
-        },
-        {
-          "title": "Tipps für die Astropraxis: Wie fotografiere ich Kometen?",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDhoY3lXM2RBSy1aTmlDam5YV0t5eTBXdjdaX1V2ZGF6aVJYeGpiX1FPTWNMYXdicHRZbm11NDJLLXVieExNVXRUY2pfTFZHQm1oaUtONWhuTzRfYl96MWpJMDdaMGRUWFRqdVNvV2I2RG9WNXVVZktGQWlsM01nWUs5UFRZekFVc0tHTE9HTko5R25EWkNj?oc=5",
-          "summary": "",
-          "source": "Spektrum der Wissenschaft",
-          "published": "2026-08-16T10:00:00+00:00"
-        },
-        {
-          "title": "Schon wenige Minuten intensives Training nützen der Gesundheit",
-          "link": "https://wissenschaft.de/artikel/schon-wenige-minuten-intensives-training-nuetzen-der-gesundheit",
-          "summary": "Kurzes, intensives Training kann im Körper sogar mehr bewirken als 90 Minuten moderate Bewegung, zeigt eine Studie.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-14T05:00:06+00:00"
-        },
-        {
-          "title": "Physiker finden mysteriöse „Glueballs“",
-          "link": "https://wissenschaft.de/artikel/physiker-finden-mysterioese-glueballs",
-          "summary": "Physiker könnten die seit 50 Jahren vorhergesagten Glueballs nachgewiesen haben – Gebilde aus Gluonen, den Trägerteilchen der starken Kernkraft.",
-          "source": "wissenschaft.de",
-          "published": "2026-08-14T04:30:24+00:00"
         }
       ]
     }
