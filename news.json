@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T09:06:55.250355+00:00",
+  "generated": "2026-09-16T14:37:59.772530+00:00",
   "sections": [
     {
       "id": "deutschland",
@@ -987,32 +987,116 @@
       "days": 7,
       "items": [
         {
+          "title": "Hemmer und Meßner erzählen: Kleine Geschichte der vielleicht haltbarsten Erfindung der Welt",
+          "link": "https://www.spektrum.de/kolumne/hemmer-und-messner-erzaehlen-von-der-erfindung-der-konserven/2335416",
+          "summary": "Um 1800 entdeckte Nicolas Appert, wie man Speisen dauerhaft vor dem Verderben bewahrt. Unsere Kolumnisten erzählen von einer folgenschweren Entdeckung, die als Luxusgut begann.",
+          "source": "Spektrum",
+          "published": "2026-09-16T14:00:00+00:00"
+        },
+        {
+          "title": "Plasma und Strom wandeln CO₂ in wertvolle Chemikalien um",
+          "link": "https://www.scinexx.de/news/technik/plasma-und-strom-wandeln-co%e2%82%82-in-wertvolle-chemikalien-um/",
+          "summary": "Neue Reaktionswege für Kohlendioxid: Eine Kombination aus nichtthermischem Plasma und Elektrokatalyse lässt auf einer Kupferelektrode Stoffe wie Methanol und Butan entstehen, die bei reiner Elektrokatalyse nicht gebildet wurden. Zugleich…",
+          "source": "scinexx",
+          "published": "2026-09-16T13:49:00+00:00"
+        },
+        {
+          "title": "VST hat 47 mögliche Zwerggalaxien in einem Himmelsfeld entdeckt",
+          "link": "https://www.scinexx.de/news/kosmos/vst-hat-47-moegliche-zwerggalaxien-in-einem-himmelsfeld-entdeckt/",
+          "summary": "Extrem tiefe Aufnahmen mit dem VLT Survey Telescope (VST) haben 47 Kandidaten für Zwerggalaxien in einem Himmelsfeld um drei größere Galaxien sichtbar gemacht. Nur vier davon waren zuvor bekannt. Die schwachen Systeme könnten Satelliten…",
+          "source": "scinexx",
+          "published": "2026-09-16T13:45:00+00:00"
+        },
+        {
+          "title": "Great Salt Lake zeigt, wie schnell Süßwasser verschwinden kann",
+          "link": "https://www.scinexx.de/news/geowissen/great-salt-lake-zeigt-wie-schnell-suesswasser-verschwinden-kann/",
+          "summary": "Der Great Salt Lake war in den vergangenen rund 240.000 Jahren meist extrem salzig. Nur während zweier vergleichsweise kurzer Feuchtphasen am Ende von Kaltzeiten wuchs er zu einem riesigen, deutlich frischeren See an, wie ein neuer…",
+          "source": "scinexx",
+          "published": "2026-09-16T13:41:00+00:00"
+        },
+        {
+          "title": "Nachrichtenquellen für BDW 10/2026",
+          "link": "https://wissenschaft.de/artikel/nachrichtenquellen-fuer-bdw-10-2026",
+          "summary": "",
+          "source": "wissenschaft.de",
+          "published": "2026-09-16T13:28:54+00:00"
+        },
+        {
+          "title": "Smartphones können beim Gassigehen vom Hundekot ablenken",
+          "link": "https://www.scinexx.de/news/gesellschaft/smartphones-koennen-beim-gassigehen-vom-hundekot-ablenken/",
+          "summary": "Handy, Gespräche oder mehrere Hunde waren bei Beobachtungen wiederholt mit Situationen verbunden, in denen Halter Hundekot oder Störungen in sensiblen Lebensräumen übersahen. Eine britische Studie zeigt zugleich, dass die meisten Menschen…",
+          "source": "scinexx",
+          "published": "2026-09-16T12:46:00+00:00"
+        },
+        {
+          "title": "Deutscher Herzbericht: Weniger Todesfälle durch Herzinfarkte",
+          "link": "https://www.spektrum.de/news/herzbericht-weniger-todesfaelle-durch-herzinfarkte/2344926",
+          "summary": "Die Sterberate durch Herzinfarkte ist zuletzt deutlich gesunken. Was der aktuelle Herzbericht über Ursachen, Trends und Herausforderungen der Versorgung zeigt.",
+          "source": "Spektrum",
+          "published": "2026-09-16T12:30:00+00:00"
+        },
+        {
+          "title": "Neue Art eines 240 Millionen Jahre alten Dicynodonten in Tansania entdeckt",
+          "link": "https://www.scinexx.de/news/archaeologie/neue-art-eines-240-millionen-jahre-alten-dicynodonten-in-tansania-entdeckt/",
+          "summary": "Zeitreise mit Überraschung: Ein bislang unbekannter Dicynodont aus Tansania verbindet die berühmten Manda-Schichten mit gleich alten Fossillagen in Südamerika. Neue Altersdaten aus Südamerika sprechen deshalb dafür, dass Tansanias älteste…",
+          "source": "scinexx",
+          "published": "2026-09-16T12:00:00+00:00"
+        },
+        {
+          "title": "Tiefsee-Mikrobe wandelt mit hitzestabilem Enzym Stickstoff in Ammoniak um",
+          "link": "https://www.scinexx.de/news/biowissen/tiefsee-mikrobe-wandelt-mit-hitzestabilem-enzym-stickstoff-in-ammoniak-um/",
+          "summary": "Eine Nitrogenase aus dem Tiefsee-Archäon Methanocaldococcus infernus bleibt bis nahe an den Siedepunkt strukturell stabil. Bei Raumtemperatur ist das Enzymsystem praktisch inaktiv, bei 50 Grad Celsius bildet es dagegen messbar Ammoniak.…",
+          "source": "scinexx",
+          "published": "2026-09-16T11:58:00+00:00"
+        },
+        {
+          "title": "Kein Beleg, aber rätselhafter Befund bei außerkörperlichen Erfahrungen entdeckt",
+          "link": "https://www.scinexx.de/news/psychologie/kein-beleg-aber-raetselhafter-befund-bei-ausserkoerperlichen-erfahrungen-entdeckt/",
+          "summary": "Ein kontrollierter Versuch mit 21 erfahrenen Teilnehmern fand keine statistisch belastbare Übereinstimmung zwischen ihren Beschreibungen und versteckten Zielbildern. Zwei Personen schilderten jedoch ungefragt die Positionen und Tätigkeiten…",
+          "source": "scinexx",
+          "published": "2026-09-16T11:53:00+00:00"
+        },
+        {
+          "title": "Die großen Fragen der Wissenschaft: »Wir sind das erfolgreichste Säugetier des Planeten«",
+          "link": "https://www.spektrum.de/news/woher-kommt-der-mensch-johannes-krause/2341480",
+          "summary": "Vor 100 000 Jahren teilten sich unsere Vorfahren die Erde noch mit weiteren Menschenformen, darunter Neandertaler und Denisovaner. Warum sind nur wir übrig geblieben?",
+          "source": "Spektrum",
+          "published": "2026-09-16T11:00:00+00:00"
+        },
+        {
+          "title": "Afrikanische Wildhunde haben bisherigen Wanderrekord deutlich übertroffen",
+          "link": "https://www.scinexx.de/news/biowissen/afrikanische-wildhunde-haben-bisherigen-wanderrekord-deutlich-uebertroffen/",
+          "summary": "Afrikanische Wildhunde können auf der Suche nach Partnern und einem neuen Revier enorme Entfernungen überwinden. Drei junge Männchen aus Sambia legten nach ihrem Weggang vom Geburtsrudel 4.126 Kilometer zurück und zeigen damit zugleich,…",
+          "source": "scinexx",
+          "published": "2026-09-16T10:50:00+00:00"
+        },
+        {
+          "title": "Unsere Sonne könnte eine Supererde verschluckt haben",
+          "link": "https://www.scinexx.de/news/kosmos/unsere-sonne-koennte-eine-supererde-verschluckt-haben/",
+          "summary": "Die Sonne könnte in ihrer Jugend einen Planeten mit etwa fünf bis zehn Erdmassen aufgenommen haben. Neue Sternentwicklungsmodelle erklären mit diesem Szenario zugleich mehrere bekannte Abweichungen zwischen Standardmodellen und Messungen…",
+          "source": "scinexx",
+          "published": "2026-09-16T10:27:00+00:00"
+        },
+        {
+          "title": "Rätsel um Meretneiths Rang in Ägypten vor 5.000 Jahren entschlüsselt?",
+          "link": "https://www.scinexx.de/news/archaeologie/raetsel-um-meretneiths-rang-in-aegypten-vor-5-000-jahren-entschluesselt/",
+          "summary": "Königin, Regentin oder König: Seit Jahrzehnten ist umstritten, welchen Rang Meretneith vor mehr als 5.000 Jahren in Ägypten innehatte. Jetzt haben Forscher eine alte Aufnahme von Siegelabdrücken digital rekonstruiert. Die mittleren…",
+          "source": "scinexx",
+          "published": "2026-09-16T10:14:00+00:00"
+        },
+        {
+          "title": "Neue S3-Leitlinie zur Thromboseprophylaxe",
+          "link": "https://www.spektrum.de/podcast/springer-medizin-neue-s3-leitlinie-zur-thromboseprophylaxe/2344660",
+          "summary": "Die 2026 aktualisierte S3-Leitlinie zur Thromboseprophylaxe markiert einen Kurswechsel: weg vom »reflexartigen Griff zur Heparinspritze«, hin zum risikoadaptierten Vorgehen. 🎙️",
+          "source": "Spektrum",
+          "published": "2026-09-16T10:12:00+00:00"
+        },
+        {
           "title": "Demenz mit offenem Herzen begegnen",
           "link": "https://www.spektrum.de/leseprobe/leseprobe-verbunden-bleiben-bei-demenz-mit-offenem-herzen-begegnen/2344089",
           "summary": "Wie bleiben wir verbunden, wenn Worte fehlen, Erinnern brüchig wird und vertraute Rollen schwinden? Wie eine gute Beziehung zu Menschen mit Demenz im Alltag gelingen kann.",
           "source": "Spektrum",
           "published": "2026-09-16T09:00:00+00:00"
-        },
-        {
-          "title": "Gegen hohe Stromkosten und Hitzewellen: Experiment mit 340 weiß gestrichenen Dächern verblüfft",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFpjaEtScEN6MlNWMDZCLS02SGFmNkpublpzWUFFNncycFphYVlmMkMtQ2dVOERKMVUtS3otWU5XWVNUdTVSbVVQWjl2elpjN3hzZjk4TDhwNlFzOGl6NG1QU1d5MEhQVUlGXzhZTVAzRWp4a2x4VFVBWnR4ZFdDaEM2bEwtTEE3a3pGdWJiUmNlNWV4UHcza0locFpiYU9jYXJMNTdBRS1sRFptcl9WNlR5N2s?oc=5",
-          "summary": "",
-          "source": "Merkur",
-          "published": "2026-09-16T08:50:12+00:00"
-        },
-        {
-          "title": "Adaptiver Kristall fängt CO₂ und erkennt verwandte Moleküle",
-          "link": "https://www.scinexx.de/news/technik/adaptiver-kristall-faengt-co%e2%82%82-und-erkennt-verwandte-molekuele/",
-          "summary": "Ein neuartiger Schichtkristall kann Moleküle aufnehmen, die deutlich größer sind als seine nur 0,26 Nanometer breiten Poren. Entscheidend ist dabei nicht allein die Größe, sondern die elektrostatische Passung zwischen Kristalloberfläche…",
-          "source": "scinexx",
-          "published": "2026-09-16T08:50:00+00:00"
-        },
-        {
-          "title": "Brauner Zwerg in 20 Lichtjahren zeigt überraschend geordnetes Wetter",
-          "link": "https://www.scinexx.de/news/kosmos/brauner-zwerg-in-20-lichtjahren-zeigt-ueberraschend-geordnetes-wetter/",
-          "summary": "Wetter ohne Sonne: Auf dem rund 20 Lichtjahre entfernten Braunen Zwerg SIMP 0136 lassen sich die beobachteten Veränderungen offenbar auf nur zwei grundlegende Muster zurückführen. Sie passen zu Veränderungen der Temperaturstruktur und der…",
-          "source": "scinexx",
-          "published": "2026-09-16T08:16:00+00:00"
         },
         {
           "title": "Inside Math! Klausur SoSe 2026 Aufgabe 5",
@@ -1036,48 +1120,6 @@
           "published": "2026-09-16T08:00:00+00:00"
         },
         {
-          "title": "Ikonischer Langhals-Dino: Erstmals Fossil eines Diplodocus in Europa entdeckt",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcDRka3BDWFhFdmtSNVI0R0loRm9tbzVEYkhGa1hDZ2QzdzgzeUJ5Z0ZwM0ZJY3hwUUV6YnBWVHFrVVNBUGxueTRpRlBzV1g2VlVDWkJ6S2dCcXA1bVdTM1BuMzVCRk4zT0ltSVVmWFRvMUhpanpkb3NnMWl3N1pQMVFscUdBRE9SN2podWV4NVBBNWF0cjhDWkd1anJvTTVjLVZMeUlqN3NHaG40bng2TGg1T2xGNGw2M1lLTTc3RVNiUHY1WjdkdGs5NlMxODVBOWEzNWt0YXhTZ19sU1laV0kzTTdSNkNLMnp2TWtn?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-09-16T07:28:00+00:00"
-        },
-        {
-          "title": "Psychologie: Vagusnerv statt Psychotherapie – „Mein Nervensystem ist total dysreguliert“",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWlUQUJqbXF6ZVdYLUEtZ1FxcVptSzM4OUtSbDN2UWxhb2NMMnBzWG8ya05lQUJXTXVvVmFydEhFanlTU2EzbDFkNWJrY0kyS1hHVVR3Z29uTE1aSzhEejFsNlA3aXZLblM2SE5ZRmFHanBtLU4xeVZnN3VXQXo3dVdtUTRuSlUxRHN5MnFKWEt1UHNWMGcwZFJxdlJXZFlsN3hoY3pDaUNQOXMzMGItNW1kT1NlUWxTbHYzb0QtUFhXRTAzQWxWMVBSODdGRjFuQWFzU0QyMmFfQlBw?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-16T07:18:01+00:00"
-        },
-        {
-          "title": "Longevity: Laut Harvard-Studie hängt ein klarer Tagesrhythmus mit einem langsamerem biologischen Altern zusammen",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTkowWm1ESkNWMDF3ekZ1NGd4YTM3NGhNRy1WdS14RW91RjRYT0RaRE1NYVBuWm84aS05M0lFYXQ1NFpaNU05NzloLVE5TEpvRzhRaTVnLWZhRXlqUjdQODBGbXRNU01JY0JUU2oyQlB3Z3N1Q3NjMmlwM01qajFuVGpjWlBydVloLXl2ODdwTlRxejJUTFhMa2ZVQkNDVDNoMkNYUjUyOU93MmcydXdqbUR5OHg5Q2lUNXIyd21QZDZSejZjNl94eHNnX1VsWGZHRzdUUHRWX1JaQm9sNTNOUm51N1BLWDVmcVlnTkhTYWVSOUpsZXVQX3haRFRkU01WbXdFVTZKLU5TSjJTTEVfZUs5bmlnd0lROGdRQU9aekVPZw?oc=5",
-          "summary": "",
-          "source": "focus.de",
-          "published": "2026-09-16T07:15:00+00:00"
-        },
-        {
-          "title": "„Mein Kind hat keine Freunde“: Wann Eltern handeln sollten – und wann nicht",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdExHNTBDQUg3TEdFYS1OSEZzVHpEbmlMaFc5blE4bmo4MDNQdDd3eFJZbWdTUFhyaGtzMDVxVFg2R3lKS3VnV0lUSFNwb1JfYTVNcGYwQ3prNktMRTdLdEozNGdTM2tkTlNQaUMycTVSQzk2SGZIUnhsOTFxUmJ5dHpHQVVsU1p0SEdsd1RqcWE2WU5wdVdmTnhnMWRIc0laY0o1MER1dldrWnJNTVBnMWpiYUo?oc=5",
-          "summary": "",
-          "source": "STERN.de",
-          "published": "2026-09-16T07:10:00+00:00"
-        },
-        {
-          "title": "Neuartiges „Super-Eis“ ist so stabil wie Beton",
-          "link": "https://www.scinexx.de/news/physik/neuartiges-super-eis-ist-so-stabil-wie-beton/",
-          "summary": "Eis kann hohe Lasten tragen, versagt aber oft plötzlich, sobald sich ein Riss ausbreitet. Ein Verbund aus Eis, Cellulose-Nanokristallen und einem künstlich gekoppelten Protein erhöht die Druckfestigkeit im Labor auf etwa das Zehnfache von…",
-          "source": "scinexx",
-          "published": "2026-09-16T07:05:00+00:00"
-        },
-        {
-          "title": "KI hat Antibiotika-Kandidaten gegen resistente Pneumokokken entdeckt",
-          "link": "https://www.scinexx.de/news/medizin/ki-hat-antibiotika-kandidaten-gegen-resistente-pneumokokken-entdeckt/",
-          "summary": "Künstliche Intelligenz kann bekannte und experimentelle Wirkstoffe offenbar gezielt nach neuer Antibiotika-Wirkung durchsuchen. Drei unterschiedliche Modelltypen haben aus 6.747 Substanzen elf Kandidaten ausgewählt, von denen neun…",
-          "source": "scinexx",
-          "published": "2026-09-16T07:00:46+00:00"
-        },
-        {
           "title": "In 40 Kapiteln durchs Weltall",
           "link": "https://www.spektrum.de/rezension/buchkritik-zu-erstaunliches-universum/2344743",
           "summary": "Wer Kinder und Jugendliche ab zehn Jahren für die Astronomie begeistern möchte, ist hier an der richtigen Adresse. Ein Buch, das Wissen vermittelt und Neugier weckt. Eine Rezension",
@@ -1090,20 +1132,6 @@
           "summary": "In den 1660er-Jahren erklärte sich in Palästina ein jüdischer Mystiker zum Messias – und versetzte die Menschen in euphorischen Freudentaumel. Bis nach Europa. Was war geschehen?",
           "source": "Spektrum",
           "published": "2026-09-16T07:00:00+00:00"
-        },
-        {
-          "title": "War das römische Straßennetz wirklich so stark auf Rom ausgerichtet?",
-          "link": "https://www.scinexx.de/news/archaeologie/war-das-roemische-strassennetz-wirklich-so-stark-auf-rom-ausgerichtet/",
-          "summary": "Altes Verkehrsnetz neu vermessen: Eine Analyse von knapp 300.000 Kilometern römischer Straßen zeigt, dass Rom für den Landverkehr des Imperiums keineswegs der alles dominierende Knoten war. Provinzhauptstädte lagen häufig besonders…",
-          "source": "scinexx",
-          "published": "2026-09-16T06:37:00+00:00"
-        },
-        {
-          "title": "An diesen Stellen entstehen Gefäßablagerungen früher, als viele denken",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYXY0Sk55Njc0VHhGVzRTNnRUZ3RrRXZkNGJZdW43RXV6czFFd3Z0VE1GNXdZLUc5THpkejJycW44b2MtU1JMMDU0bFdyTFpDeWVMMUxiQmF1MHFxQ3psR2dLSzJzY2NwcFMtMHpHd3dSZmFrRlNQWTN2aWlKS0xxUUp0Q1Y2aENXcXozUXFfWTloZk5zS0FQSlJlQm13WUtfN0h0aTNZb2RWUS1mUG9ySFdtM2ZJVTBwZzhhQzlhVGxWa19Lbk05Zi1zQTRTMmRiU2FycDVadGhPUQ?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-16T06:35:09+00:00"
         },
         {
           "title": "Schlafstörungen behandeln – Was bei Insomnie wirklich hilft",
@@ -1120,55 +1148,6 @@
           "published": "2026-09-16T06:12:00+00:00"
         },
         {
-          "title": "Hygiene: Was Sie alles einatmen, wenn Sie die Toilette abspülen",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWpZVUNsZDNSUTBjVm9TZUZTQkVkNENmWmhaLUljM0pLZ0xRZWxhb2Jrd0c5SGkxazlFQ1NPUW5oYzlua3VzZm50MWdzQXZ1ZUtGMHFQWXpISjJ0MWg0YnYwZ0lQZTk2YVh4YUZmeVgtXzllMGZSdC1FTlJERjZuYmQwWllQeVlxd0FoWHVzeVhETE1od1NpRnJKTXVpcGQ2TWJZdnFXWVpQVEdQdUhpUnRYS3FMSVZMaktIUEFoT1JaZnJJTVRYaEJwbno?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-16T05:30:41+00:00"
-        },
-        {
-          "title": "Wetterprognosen sind in ärmeren Ländern deutlich ungenauer",
-          "link": "https://www.scinexx.de/news/geowissen/wetterprognosen-sind-in-aermeren-laendern-deutlich-ungenauer/",
-          "summary": "In Ländern mit niedrigem Einkommen sind Temperaturprognosen erheblich ungenauer als in reichen Staaten. Eine Sieben-Tage-Vorhersage in einem Land mit hohem Einkommen erreicht im Mittel etwa die Genauigkeit einer Ein-Tages-Prognose in einem…",
-          "source": "scinexx",
-          "published": "2026-09-16T05:23:00+00:00"
-        },
-        {
-          "title": "Überraschende Diagnose für monatelange Halluzinationen einer Frau entdeckt",
-          "link": "https://www.scinexx.de/news/medizin/ueberraschende-diagnose-fuer-monatelange-halluzinationen-einer-frau-entdeckt/",
-          "summary": "Vier Monate lang litt eine 52-jährige Frau auf den Philippinen unter Kopfschmerzen und visuellen Halluzinationen, später kamen ausgeprägte Sprachstörungen hinzu. Hirnaufnahmen zeigten schließlich zahlreiche Zysten mit Larven des…",
-          "source": "scinexx",
-          "published": "2026-09-16T05:05:00+00:00"
-        },
-        {
-          "title": "Fünf Gewohnheiten senken Demenzrisiko laut Forschenden um bis zu 40 Prozent",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV24xLUhvYU9BbG9HMlVLY3Nzb1pVQ29MeWtDMjJVSE5VLU5rU3VkSi1pbENfZm1zTzRHZEJjRTBreHB1RnJDUDQ4NWJHbTFuNG1GNzFKcFVVcTVmRE9nXy1kMzM0TXdfOENmS1F6enBPNW1VNVFWZVJUWjRHT3JCS2hBNjUwZkEweFEwSmF4ZlZUN0xnbkw2YlBYdFhkb2pmaURxd2l4M1EtUkIxTzQ1bU14VDdKUkVDVS1EMDVB?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-09-16T05:00:00+00:00"
-        },
-        {
-          "title": "Was ist teurer – Klimawandel oder Klimaschutz? Der Streit eskaliert",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTFdyN1JjcFctbVZzcV8zd2pxc2lVSEhKUjAxSVluM1F5bzc5RE9YaW5ZTHJiZUxLdXZwVlJjZlJodGtMUTRidHY0S19UT1NVckE5amdqc2hTN0hjdm9LcDFMUFBWbTg2YWtJQ2pNSUhxaXNJTGRIZkNqdzNjdlhaN1ZrVWppMUdDZkd3RDdXcFBKd2Q0T3o0QWFJN3RrbkdDcmNUZ1lMUFpZeUZYbURmSUZiVmhJZmQ1T3VpR1NVcmQ3ZFVpdjllWWZXekRsd3MydzUxMlE4eFJuNm8?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-16T04:58:34+00:00"
-        },
-        {
-          "title": "Neue chemische Recyclingmethode zerlegt kaum verwertbares Hartplastik",
-          "link": "https://www.scinexx.de/news/technik/neue-chemische-recyclingmethode-zerlegt-kaum-verwertbares-hartplastik/",
-          "summary": "Hart im Einsatz, bislang problematisch am Lebensende: Der Hochleistungskunststoff Polydicyclopentadien (pDCPD) lässt sich mit einem Ruthenium-Katalysator und einem vergleichsweise umweltfreundlichen Lösungsmittel chemisch zerlegen. Dabei…",
-          "source": "scinexx",
-          "published": "2026-09-16T04:55:00+00:00"
-        },
-        {
-          "title": "Historische ESA-Mission gestartet: Satelliten zeigen jetzt, wie gesund die Erde ist",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWUydjI5QjBPRkV0MGxickZRM0luTGJOWWxKZFpWOGdiOXE5cmdJeEpyNnpfbWNOYmtrZWEzSTRjNnhEcXVIQmpCeUFmUnJSd1lIX1VyMnVOY3BScDhBRUd4YXM2NUFJNjdFbW43Sm1KbWpkSkhZbFVldFJkMF9WXzZMbHNPdGFpdUtjR3BhSjZmV1VjdEVCOEdzMUdfSGVwOVg0LXBlajdZX2JucFRHTkFleFNDR2tsN2FrSVRKU2t4b091R1VPa3VHZUIycnctcHVJVzN3QjRzSW9kdlF6aVlFN1dkYXc?oc=5",
-          "summary": "",
-          "source": "BILD",
-          "published": "2026-09-16T04:48:34+00:00"
-        },
-        {
           "title": "Forscher erzeugen neuartiges “Super-Eis”",
           "link": "https://wissenschaft.de/artikel/forscher-erzeugen-neuartiges-super-eis",
           "summary": "Ein neu entwickeltes „Super-Eis“ ist zehnmal fester als normales Wassereis und kann 70-mal mehr Energie absorbieren, bevor es bricht.",
@@ -1183,81 +1162,11 @@
           "published": "2026-09-16T04:30:54+00:00"
         },
         {
-          "title": "Altern: Neue Studie zeigt überraschend individuelle Wege des Alterns",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQzE1bVpLLXV3U3FzeDZ1aExVZXBKMWVyejBHU01GVjJBMDdwOUdzZWF1dGdLT2J2OF9yRnF2Nzkzb001R1Rlc1p3QlFTdW14UDVhYTVkVTJZSnE3MkpwanRSd280VlFRSHFwTFYycTdPOU5UeFY1dUtyT1BwVFE0cDNITW5mREVmczA3bS04TTNObXF2YlBqc0lFMUlWYlZ0MnlJejlEMkRQTGtfUTVya1JlU0F6SmhrRkNIcXR6NGVoYkdwMFJWdWRPdXpzZUJkLXhaXw?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-15T21:45:00+00:00"
-        },
-        {
-          "title": "Gesellschaft: Unglücklich? Dann sind bestimmt Vater und Mutter schuld!",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON01Rb0RqeUFONVNKWHNzUjlYYjhKWmZWdnBWTHlhd0Z2TlZqeWlPTGJyNnlNOHJ6NWxBaUlVYXlTZkZmS2xKRzJFanFmbjJJY0E1NVRHTlY0S1BqdzRIQ05xNV9uSUJJSXNKVEVJeGxhb1p5V0ozSHZUSFpqeUdFNEtrMGJsOWhESjhTbUxoSGhYcmxLZWJoNHFBVGxGWE5FWjQzbDJZbl9RQ2lVOFc0bnBuajE4U09Fd3dzbjlZZEdSRHg0UEx0bA?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-15T19:57:08+00:00"
-        },
-        {
-          "title": "Subtile Nagelveränderung kann auf eine verborgene Krankheit hindeuten",
-          "link": "https://www.scinexx.de/news/medizin/subtile-nagelveraenderung-kann-auf-eine-verborgene-krankheit-hindeuten/",
-          "summary": "Die normalerweise weißen Halbmonde am Nagelansatz können sich bei verschiedenen Erkrankungen rot färben. Eine neue Übersicht verbindet solche roten Lunulae mit Herz-Kreislauf-, Leber-, Blut-, Haut- und rheumatischen Leiden, zeigt aber auch…",
-          "source": "scinexx",
-          "published": "2026-09-15T18:14:00+00:00"
-        },
-        {
-          "title": "Logik-Rätsel im Video: Diese Aufgabe ist für Fünftklässler – finden Sie die Lösung?",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTUpjNUhrSGQ4UzdvdUppVlFDWmRMOWJjVXBXZ1NGNkZjbzQ3Ym5zVmdIQ1VOSkZkVzJ4dHZkdm1zbXNPNFRLRW5iYVVlRUlaWWt4bjZsQ1Z2ZFlDT05iMThWR1JqeGp3TGl1bDFXbE1CVUNiNHFmZ0pMNi1ON1dTTjVjd2pjSW1tR05RajEwVkFKb19qRVNHOUV1alVoZFB5VTB1STZfNXV3MGFyVUdKVVN6eEN4OVY2OUp5bUl0TVNBSkJpU09keGtB?oc=5",
-          "summary": "",
-          "source": "T-Online",
-          "published": "2026-09-15T18:09:00+00:00"
-        },
-        {
-          "title": "Staub verschleiert den Einfluss eines Schwarzen Lochs auf seine Galaxie",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTBvWGU5TnNFcmVQT0tkb21SenlDSTNtSGtVcHZDQjFrN2dQQVQ2ckFJVDRHQW9HdHMzYllBcl9WNmthekVtNGtqbWJxUkNKN2VDTGJkOGY4T29NZG0wa3Jnd3ZwRzExakhLVDg2UXNaWXhPS3pGR2ZXeXRjazVNaGdMRUJvRFI1M3c3Skl0MUtJYXQ0SVJQb2pJa25zQ2VsRm5YUXI5NkJ5QjQ?oc=5",
-          "summary": "",
-          "source": "scinexx",
-          "published": "2026-09-15T17:37:38+00:00"
-        },
-        {
-          "title": "Nur wenige Atome dickes Quantenmaterial wird unter Spannung magnetisch",
-          "link": "https://www.scinexx.de/news/physik/nur-wenige-atome-dickes-quantenmaterial-wird-unter-spannung-magnetisch/",
-          "summary": "Rutheniumdioxid galt in massiver Form zuletzt eher als nichtmagnetisch, doch in einer nur wenige Atomlagen dünnen, verspannten Schicht fanden Forscher nun eine Spintextur, die eine gebrochene Zeitumkehrsymmetrie anzeigt. Das Muster passt…",
-          "source": "scinexx",
-          "published": "2026-09-15T17:29:00+00:00"
-        },
-        {
           "title": "Altes Rom: Drei verbreitete Irrtümer über römische Straßen",
           "link": "https://www.spektrum.de/news/drei-verbreitete-irrtuemer-ueber-roemische-strassen/2344688",
           "summary": "Verliefen antike Straßen stets gerade, und führte tatsächlich jede nach Rom? Mithilfe einer digitalen Karte des römischen Wegenetzes haben Archäologen alte Gewissheiten überprüft.",
           "source": "Spektrum",
           "published": "2026-09-15T17:00:00+00:00"
-        },
-        {
-          "title": "1997 wurden sieben Wapitis in einem alten Kohle-Tagebau ausgesetzt. Heute zählt die Herde 13.000 Tiere",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0NmQ2E1WWFRdi1lcmdOeEpENnRKR3dpcGxLVTFFdXVERjN6Z2R4NHRyOHF2MmkzWjhvdmhpRnBadU5JekYwcW8xSHNsNWl3VFFEdkVEMENmaTJIZHJGR0psZ0N4TS1HeXc1NFhkTzItc3JrQWhNYUk2YXNYY1RJRDQyYmZ4WDA?oc=5",
-          "summary": "",
-          "source": "GameStar",
-          "published": "2026-09-15T16:45:00+00:00"
-        },
-        {
-          "title": "Quantenphänomen: Higgs-Zerfall liefert Hinweise auf verschränkte Z-Bosonen",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVh4T0Q4LTMyOG5XcXBZQWdVb0ctR0ZWWS1yYjBORjNEaFpPMEpRNDlTdC0wbkJHY09od0ktaEs5NDluaC1uaVBKTktiQl9EZXZBX3d6eUZHcFQ5R2NGc1M0WHJRa3ZQcldpaFMzdHRsZERxOXFGSlZ0eTd3VWVXTFZ4R2pUV3plaUhiMEM0QkFySXFnY0ZORXdLLUYwaWJJSWZBbVhUNlpKRVp2aEVEbw?oc=5",
-          "summary": "",
-          "source": "scinexx",
-          "published": "2026-09-15T16:44:47+00:00"
-        },
-        {
-          "title": "Dieser Sensor zählt Fürze und soll der Darmforschung helfen",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3dhMmRfbEI1QjVFVEYyYWVUYlk2eUpDOHIxZkdpTVlTcHBYemtpZHRVeWtvdHRpSlRFRElxckFoaWVkbmZZVmpnaFdGZXdXamNibmRvSnNyNzVjbVZ4cDktcTlxSjJTVjRhYmFFWXFtR3E3Ukh4RGE2WUNqWVI5SjlYLUJzOEtmc0MtQ01DZHI3X2dvSDZWNFZ2V3N3MWF3TkRXWWM5Zy1pWTA5TVE?oc=5",
-          "summary": "",
-          "source": "Watson",
-          "published": "2026-09-15T14:46:05+00:00"
-        },
-        {
-          "title": "Studie zu unethischem Verhalten: Je reicher, desto fieser",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96dl9Wa1pzOVJKc3NkTF9Wb0VUZEtDUUZwX2ZHN1Z1dzhWU2NXcXZBUnBxRDMwWG1Dbko5VTg3MktkUHd4RldiWlNkd0pEZG1VQ3g1UElFaXBZY1B1d3NiSGJoODNrczQ?oc=5",
-          "summary": "",
-          "source": "taz.de",
-          "published": "2026-09-15T14:30:33+00:00"
         },
         {
           "title": "Szenenews: Historische Glashütte von Joseph von Fraunhofer öffnet wieder",
@@ -1274,13 +1183,6 @@
           "published": "2026-09-15T14:00:00+00:00"
         },
         {
-          "title": "Der weltweit stärkste Magnet hat die Kraft, einen Flugzeugträger anzuheben – tatsächlich soll er aber die Energieversorgung der Zukunft sichern",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0xtVlh5Nm5odHZ6RTRtelFrQjJkaDJhQlBXNmwwMHg4ZEZiMFFUUktRLVZVWmFpYXRLSFE4TjRtMmJFbGdpRDBDZXRZakxZSy1nSS00LUphXzlqcFkzZjdNendnYjBrM0dyb1dZQUFheXprRTZqVENYLUxFZV9vMXBCdk55X0xlTFo2dmxNeWd1enFvc1BIaEpZTmQ1Mmhrd09vUWhYQXlGXy1w?oc=5",
-          "summary": "",
-          "source": "GameStar",
-          "published": "2026-09-15T13:00:00+00:00"
-        },
-        {
           "title": "Neurodidaktik: Gesten verbinden Eltern- und Kindergehirn beim Lernen",
           "link": "https://www.spektrum.de/news/beim-lernen-verbinden-gesten-das-elterngehirn-mit-dem-kindergehirn/2344627",
           "summary": "Unterstützen Eltern ihre Erklärungen mit Handgesten, bleiben die Hirnaktivitäten von Elternteil und Kind besser aufeinander abgestimmt.",
@@ -1288,32 +1190,11 @@
           "published": "2026-09-15T13:00:00+00:00"
         },
         {
-          "title": "Wie sich der Spreewald mit kleineren Projekten ans Klima anpasst",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmhJTlBnQlBYVzlWZUdvRGxTQVZaU3pCQ0hwMWROSWZkVER0MVl6NG90TTNTcUxpSEh0WnVSdzN6dU1ocWlrV3JyVWUyeU9WcjNIUU5zcVhnN3oyOWN6endiRzVlR0FaVGFGV1JILV80S25kdmRzVFJkcUY0czhHbW1ndU83TEFPcm44Z3M4YnFZVnFaRHVXazBycWl6dkF4MTQ2a25JbENFUDAtUUE?oc=5",
-          "summary": "",
-          "source": "rbb24.de",
-          "published": "2026-09-15T12:07:10+00:00"
-        },
-        {
           "title": "Hitze, Dürre, Krankheiten: Wie ein Satellit Stress von Pflanzen sichtbar machen soll",
           "link": "https://www.spektrum.de/news/wie-satellit-flex-stress-von-pflanzen-sichtbar-machen-soll/2344616",
           "summary": "Pflanzen sind unverzichtbar für das Leben auf der Erde, doch der Klimawandel setzt ihnen zu. Ein schwaches Leuchten zeigt, wie es ihnen geht. Das soll ein Satellit nun messen.",
           "source": "Spektrum",
           "published": "2026-09-15T12:00:00+00:00"
-        },
-        {
-          "title": "Debatte um chinesischen Wirkstoff mit deutlich neuroprotektivem Effekt nach Schlaganfall – News",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2JCZVdlUzZqd1B2czU3MHZvemhOS3FDZFUxX0dGQzdBWFBUQi1JSldRa2trWFl6U09RVFJXTE9Gc0dwSFpmWl9EOUlaYl9TZFdFUlEzS2tGLUY0TW05bm9Jc01BY2xCc0NXUlcta0k5bGRPVmhCVjZVc2ZuRDRXeUNRM25ibEY1SGZrZW9lZVBQeXBXTFdadUtJUEE0ZjNiSGhCM0RicmpybzRudWc1MHUzazVvUF9TVExpRWNYVlV5Z0h6V05CeFdyMWprWHN2bWlUUVhTRUtiSmY4NjlPUFcyMnVUZ1gtUFlIS1ZR?oc=5",
-          "summary": "",
-          "source": "Deutsches Ärzteblatt",
-          "published": "2026-09-15T11:57:03+00:00"
-        },
-        {
-          "title": "Komet 450P/LONEOS: Wie ein Zentaur zum Schweifstern wird",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjNaRGVLNlo3bDlQdGJ1RDdlMGU3RzdDaFl0aVB1LUtYd3VKYkxJeWFyeXQwSW9nNnZSSnJpcHF2NHN1OW9hSUFtQ0pIbEd3dlMyQ1kyZjZQdGQtR3E4VXJKWU80YnZmRmNSV2Iwb2dMMjlJWkw3WkQ3M3ZiSUp0dFQyeVdFNjI2OTNrSWRRall3WktZLVBvU1BiRlZ4UTF1TEVPOFV3cGtWOVAyRl9RazVXWkREcFpnOWZj?oc=5",
-          "summary": "",
-          "source": "FAZ",
-          "published": "2026-09-15T11:10:34+00:00"
         },
         {
           "title": "Parkinson: Musik gegen Gangstörungen",
@@ -1330,67 +1211,11 @@
           "published": "2026-09-15T10:00:00+00:00"
         },
         {
-          "title": "„Wenig Erfahrung“: Fehler in der Kindheit macht Menschen zu unsicheren Erwachsenen",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVR1ZmljLXEyTHIzZi1fa013MWxaajFodlpvaHB0VWlEUTN6dzRCM1NCWUNZd1NQR3FnQUpucVUtRldZemRoVzFsbXhMdWdFQjZRUHdfOWM5a19lM2VUb1YxV01DaVE0YTlrcHV1STdtcGhmRVBBYXNad0VCQ3dRMmN1dmVGZnhZRGVReEtmRnU2MlVxajBLV3NRUnJ1Qy1xekxuWGxuWmRjYVRHdllFeHRCOUhDWFlETi0zdg?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-09-15T09:54:00+00:00"
-        },
-        {
-          "title": "Wetterphänomen: Mittelmeerstaaten droht ein Medicane",
-          "link": "https://www.spektrum.de/news/wetterphaenomen-mittelmeerstaaten-droht-ein-medicane/2344642",
-          "summary": "Medicanes sind die stärksten Stürme im Mittelmeer und können katastrophale Folgen haben. Das aufgeheizte Meer liefert reichlich Energie für das Wetterphänomen.",
-          "source": "Spektrum",
-          "published": "2026-09-15T09:30:00+00:00"
-        },
-        {
-          "title": "Schon lange zerstört? Kollision von Venus mit eigenem Mond wohl unausweichlich",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGhVcVE3Rm5NbzRBbWdxSm9ZQWdyQktFT2FGX2VCcEc0LW15V0ZlMTJhLXJpZi1KR2JHQUgxQlNpMnVLR283N2xmV0dOY3N6NW0tNndmYlpldGNYVHNrU3ZCeTFuSmloR0RJel9tNHlsSzRoZHZHVHdLNUpqa2Z1WW9GQkFSWXJYV2UxU0lkYkpOMjB4MExabHZYamtObG5jTXlNR1ptYkVBaUExZ3E5X1Q2WXNhNlpZd2l3?oc=5",
-          "summary": "",
-          "source": "heise online",
-          "published": "2026-09-15T08:53:00+00:00"
-        },
-        {
-          "title": "Unkontrollierbare Kettenreaktion droht: ESA warnt – Erdorbit könnte bald für alle unbenutzbar sein",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVVIdVR5TlV5ZUlxUkh4NHBhbG80SWd1R1RoOHVfSDVKd3pJMkl3TWRhNXhGbTRyOFhWajgzWmVpSERNNzEyMUswRXZaNE1TOXNRMDB3Q1VuNjI3YWhCSDVMUzBBLW1BMl9Vc2I4eUdBbklfbVVNazlxNE5iV1c0RFJwdUFGV0JUanJOaFFQekdTOWNaVTlpSjJrSXRiVmQ4MVNnY2UzOUhDMTdyVDhBemRn?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-09-15T08:42:28+00:00"
-        },
-        {
           "title": "Riesen-Dinosaurier: Erster Fund eines Diplodocus in Europa",
           "link": "https://wissenschaft.de/artikel/riesen-dinosaurier-erster-fund-eines-diplodocus-in-europa",
           "summary": "In Spanien haben Paläontologen das Fossil eines 25 Meter langen Langhalssauriers entdeckt. Es ist der erste Nachweis eines Diplodocus außerhalb von Nordamerika.",
           "source": "wissenschaft.de",
           "published": "2026-09-15T08:41:33+00:00"
-        },
-        {
-          "title": "Haustiere: Die Wahrheit über Katzen",
-          "link": "https://www.spektrum.de/news/haustiere-die-wahrheit-ueber-katzen/2138037",
-          "summary": "Missverstandene Schmusetiger oder die Soziopathen unter den Haustieren? Was Forscher in den vergangenen Jahren über Katzen entdeckt haben, stellt so einige Klischees auf den Kopf.",
-          "source": "Spektrum",
-          "published": "2026-09-15T08:30:00+00:00"
-        },
-        {
-          "title": "Von Newton bis Einstein – Rätsel und Methoden der Himmelsmechanik",
-          "link": "https://www.spektrum.de/video/urknall-weltall-und-das-leben-raetsel-und-methoden-der-himmelsmechanik/2344468",
-          "summary": "Alexander Krivov zeigt in diesem Video von »Urknall, Weltall und das Leben«, wie aus Newtons einfachen Grundgesetzen das komplexe Gebiet der Himmelsmechanik entstand.",
-          "source": "Spektrum",
-          "published": "2026-09-15T08:16:00+00:00"
-        },
-        {
-          "title": "Inside Math! Klausur SoSe 2026 Aufgabe 3",
-          "link": "https://www.spektrum.de/video/christian-spannagel-inside-math-klausur-sose-2026-aufgabe-3/2344465",
-          "summary": "Heutiges Thema im »Christian Spannagel«-Video: Inside Math! Klausurlösung.",
-          "source": "Spektrum",
-          "published": "2026-09-15T08:16:00+00:00"
-        },
-        {
-          "title": "Warum ein neues Narkolepsie-Medikament zur Hoffnung der Hirnforschung wird",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTEhlOGtCZ1NXLVE2dlhwWU1NbmlBLWFGdmxwQnN2N0w2ZEhYd2stYmltVWFFNHJTaW84M0pFQlBIdnJiRXUzb21iQ1hyQ3J3dk5tVFJVa2d4SkNrNDl2N2hfdUNzR251ZFNSc3JTSXpRT1AySXhYbFd1NlRCQzA1LW1Ib3oyRTVjdzBTNlpBbmVYaTBrNUtITlZyd0FpbjR5YnJRMDNRQ1NsSnFMdF9jb2ItY3VHU3Y5R3lJNWF6MGMyelBwWk1zejNidUhFNlNjWDR3WUNoOXh3dGlhTlFGakJB?oc=5",
-          "summary": "",
-          "source": "FAZ",
-          "published": "2026-09-15T07:59:42+00:00"
         },
         {
           "title": "Luftverschmutzung lässt die Sehkraft schwinden",
@@ -1414,146 +1239,6 @@
           "published": "2026-09-15T06:32:56+00:00"
         },
         {
-          "title": "Professorin der Psychologie verrät: Wie wir über das Alter denken, beeinflusst den eigenen Alterungsprozess",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ0c0d090c1hiUWwyQzNibFNVZlQxc2ZrRU9sbloyZE9wbUlBaW5RaFh4d3VtSzQ4bGJRT1FYaVZrejcyeXAxdDROZkpzS202SFIyRG1KTjBIZDhIQ1h1Nm4wd3BfZTNFby1XWTFOUkNDa3oxVU14S09yQ2xKbFVLVXlvRkxPU2tlSWFKZnNvdld2bklPSXVKblhSanpfMUxQb1FqczlNWkFMbXRXcVBWU1dRWVZ4NGZ6WkpMMy1xMjVwVFloa19iTzNsTWM5bkxBejFBUkEybmppZHpXZXl4U1BiWjhTb29Fbk5WZktYdGU2V3VFWHRCV1hXbDNncWItX095bGhSRkFiWWhtTHl4ME9zcm1qdGtDd3c?oc=5",
-          "summary": "",
-          "source": "focus.de",
-          "published": "2026-09-15T06:27:00+00:00"
-        },
-        {
-          "title": "„Man sieht nur noch getrockneten Schlamm“",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRW1MNkFlZmNTVmd2X2lqbDF3b1N3MjdITTlITUczWENwYlZVSXJZVnk3Q01QSVN5WndJM0wwVFptMFdzSWlzLWtRcGliMWRabTQ0ZE5xczMwQ3hpdWY1eA?oc=5",
-          "summary": "",
-          "source": "taz.de",
-          "published": "2026-09-15T05:23:24+00:00"
-        },
-        {
-          "title": "Psychotherapie: Menschen, die sich mit ihrer eigenen Psyche beschäftigen, verstehen ihre Gefühle und Verhaltensweisen besser.",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOaVR5SjA4aEtOWEw2Q0ZuV21ndDU5OFh2ZjVOaVV5WktSRF9MTVJvV0UxbUVPSzJpNEFhUjE2T0VyLXRNbnBsQ0ktOU1YRzBwMDZYLTlUbTR1djZBWVMwZDNCSFBzS1dfRHNmaTFvT011VEZmVmJhODBCU1FEYUFoMW1MemNycGVYXzFZMzZ6allsczFCVm9QYVo2S2Q3bzNVZ2RnTllkUDBfSFRlc3hUQWtuanhMSWt2dEhUTFRvV28wUGlKQmVhQm1JZ0lJbUpfa2JncVZ1a0pVSUpfRjFUb2cxV0pieXU3RjZ6cHNzNXhPX3BTeEs1TVBhYUo0RS14SWpqMVR5TUZGVjRqa3hrbW5XM2p4UUdzcFRDTGI0TmFHbFRndGJkcEIwdnF2OEE?oc=5",
-          "summary": "",
-          "source": "focus.de",
-          "published": "2026-09-15T05:16:00+00:00"
-        },
-        {
-          "title": "„Das Potenzial, uns alle zu töten“: Nächste dramatische Warnung von KI-Forscher",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkV3c1ZORm5XUkZRVDdyRF9LcFZaZ1QtTGtyTFptMkZxdGNob2FxWDFNcm5GdzJSWE5TTTdpZmRja2tzdENmcUs3c1U2Q2pRbzlyR0JyYktlb0pab2lnOEZiMXh4Yi1veVB1Z0NNM201M0xKV3VGa05vU0dIUlV4WTktNnBBNVB4aEJvNUE5Qm4wRWVBX1hyODVEYTY1UEdHNEVhRGZRbU9ETjdHamtHVnRNOE5IbU1Q?oc=5",
-          "summary": "",
-          "source": "heise online",
-          "published": "2026-09-15T05:03:00+00:00"
-        },
-        {
-          "title": "Kosmischer Kannibale: Spuren deuten auf verschluckte \"Supererde\" in der Sonne hin",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTEFNS0JhNl9TQVVFZEwwZWJsUjh0QmVMcm9keEZBNHdEWldwR09kdVh5clRXWFg2dDNBRzdUWlZpWXB0b3hSREdDWjRtbTRnb3JJVTRSUXhFUjlMRGRSc2ZscXpuU2VLempxTWJhV0N3ZVNEWVZ6b2RZS0djZVVwYnl6TkctZGZfWERvR1BsX2xFNmdxTTQzYlpLOVYwTEx2Z21WZVB5VWdsUDRJNWNVc0EyMXVnemVTZFFoag?oc=5",
-          "summary": "",
-          "source": "T-Online",
-          "published": "2026-09-15T04:57:42+00:00"
-        },
-        {
-          "title": "Acht Monate durchs arktische Eis: \"ISS der Arktis\" auf Expedition",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzYxeXliRjdBck1EVE5valZjN1k0RzRuUTVwbEw5a0gxSmxQS05fNl9uVFpfWURua1k0MHAxMW1Tb1JpNmhuSDh3RUZVSV9ZSTFRVjFFc0ZpTThuVjdmUDd1djJhazZtcXZWbldQTE1jZ3VzSUU1NF9XWndrc2FMYXc3VElBc0p6UTgyTWlsU2dpSVcteXg0eE9CZDZ6T0xjYXVNWXhnSjBLaWxMT3FJ?oc=5",
-          "summary": "",
-          "source": "WEB.DE",
-          "published": "2026-09-15T04:40:05+00:00"
-        },
-        {
-          "title": "Überraschung! In dieser Statistik liegt der FCM ganz vorne",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkh5QnhYZTFPQ3hIcmxiLVRHQXRCZTVQVjNLMnVVT09EMWYta1k4RzVOWHlNWFRWOUo3Y0RyS0NBdzZVaHMtM0pZcFUtWjlUOTZtSGRoUlpWeGh2U1NyVG5VY2VQS2otZXBVTklUbVpBbFBkeW5JRG1lZ3RvdjdoNVVEelBwZ2VxRDNDMmRNWE4?oc=5",
-          "summary": "",
-          "source": "Magdeburg Blau-Weiß",
-          "published": "2026-09-15T03:13:00+00:00"
-        },
-        {
-          "title": "Laut Psychologie: Clevere Menschen wirken in Gesprächen durch einen Kniff „sozial kompetenter“",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjhXdVJpc2ZNVWlJOGQ2RGRXZGtEUjRJejFqcTk4SjExR1lXTW1ZSVFzWFBlSTBEdm1JUGZGV0lQeE05b0t1eHJiWnpKVkUwSE1lVWhBSUZybjA5SThkQmFaM2NNN2VVM3QtbzNSYnRWaGR6VTVibVBuOUZVdS1jVlhmbW9qZjczZU10Zk5ONjJWWWdiREtnWG5jNHMwU29SS01zYWRvMnY3Uy1RdDNhcjl2MmN1VE1wTTQzUVZKVU1Ta2t6eW9xWFN6RS1XNkVuU1E?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-09-15T02:45:00+00:00"
-        },
-        {
-          "title": "„Vollkommen absurd“: Hunderttausende Fässer mit Atommüll in der Tiefsee entsorgt",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGNsZ0puLVpHUEF5WEMycWJjU0duSVRhcGxMcXJUNE9tbWhVb3NUUF9BQ3RVV0dVLV94T05odWR0MnhHSGNBUGNabEhBWUVDdEVjSzQyaWpGdzJvbnFDeUNqZDBfSUJHN1BXUUFfRHNHaElhanMxYTU3TnljZmhtQzZzZFZxVlFjWFYyWjdQMm1pdC1GZWlIaHVTc2cydk9yRkpuZENLaDloQQ?oc=5",
-          "summary": "",
-          "source": "Merkur",
-          "published": "2026-09-14T20:20:07+00:00"
-        },
-        {
-          "title": "Können Sie diese Mathe-Aufgabe mit nur einem Strich lösen? | Rätsel-Video",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHpIQTEzTjJrYmRpa0N5cXNhaFk5aGgwN3J3VE1PN3RmVDRid1ZuTVZxODFqc3V4ckwwNTBWam1EOHh1cFAxUmcySGJ3dTNYYi1GTUJtTFliY21fMERXTmtJLXZ0dlZIUGVSYmNtMXNyZkF2d2ZQMG5HRkt6WEUyMzB1WkFGVXVGUkhyNlJ3VkZ1WWxxaWRqeV9OdVNRdkdrdXNhdE5FMzluSk9DX0gxbXRCQXhxcHNNT2c?oc=5",
-          "summary": "",
-          "source": "T-Online",
-          "published": "2026-09-14T18:58:58+00:00"
-        },
-        {
-          "title": "Proteinarme Ernährung könnte der Schlüssel zu einem langen Leben sein",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDNEU2J1MmlSQ1pvdjlHckpmd3JwNTZFbVR0WWwxcENYVFFhNTQ5NFpUS0M0N3NwMjZfOElpemxGZXdia1lteVpHQ29IRE5WYWd4VG5ab0NIWEMzSkYxV3FXMUtQNXlKdHprajRJSWtQOFZ2Mk5vMVduT3ZMbDhLWFkyRnlSaDRPZkhyd3ZGdDEtV1luWHBnTFpyRU1ydHJGTVNQbG1LMGlSOEVxOVE?oc=5",
-          "summary": "",
-          "source": "scinexx",
-          "published": "2026-09-14T18:35:57+00:00"
-        },
-        {
-          "title": "Rätselhafte Radioquelle in der Milchstraße bleibt seit Jahrzehnten aktiv",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWZhU2l0U0hUUlRQOHBoTVgyR3h0cFpETUVNUEd4c1hRdkhKWk9WZmxuaU5HOGRfRUNjWHE5S2YtNDB4aUxLNklUek4xNGVIdEY2dUw3a1pQOHdXaGstR3h5Z1JNd19mWHNhRHpTRVZhYzJjMmU3SDBjc0lORGNTVnRuWmhEb1duWFByTWtDTXNOVmp3QzBubVdRY0NLLUtGLXFQQnVMV0F6SkhPREVZ?oc=5",
-          "summary": "",
-          "source": "scinexx",
-          "published": "2026-09-14T18:02:42+00:00"
-        },
-        {
-          "title": "1984 schickte die NASA 3.300 Bienen ins All – nach nur 7 Tagen flogen sie wieder sicher und bauten fast normale Waben",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFdzTGF0LXhsMS1qMVFFM2ZYNUktT0RYYjhFS014eUdlZ3BRYzV3MC1CRUpTdGJhUXRqblhzTDRtejRobDlza2t0NUlORUpZcjZhWm9jUUtDNThjOS1uS3VZdWVvdEl1R3liTXR6SVZ6dGRKZ0xHblRFTllSbHZZTERmQjhpNlV1M3ZWelVncw?oc=5",
-          "summary": "",
-          "source": "GameStar",
-          "published": "2026-09-14T17:15:00+00:00"
-        },
-        {
-          "title": "„Formbares Gehirn“: Fehler in der Kindheit macht Menschen zu unsicheren Erwachsenen",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSks2QnU4RlFhTXAzbEMxaUFmUnFzWWU2ZzZLMWFpR3VzeV9JNEFYd3A4bWo2WUNNUkVzWDZiWXJNRjFwMHpBNXJxX01MS2tkdXVXbGx5am9qbl9WSVZwVGh4dllEQ3puODJpcktaSHUtM2tWX1VuNFQ4VXZMcjZ3R2JGXzliMWFLWlhzY2xMUVJPX052Z0d0VHNZOE1WSG1pM3ZTcTdLQzJhV2JqelpiYU5jSEFzTmVuUUtqbVVqamlFWGVv?oc=5",
-          "summary": "",
-          "source": "Frankfurter Rundschau",
-          "published": "2026-09-14T14:47:18+00:00"
-        },
-        {
-          "title": "Kein frittiertes Essen in Schulen - warum die Idee gut ist",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV3B1Z2k0VmR4bkE1Ujlvb3dTNE1vd3IxbE90RTNXM245TFhxV25aa212N3lGRDJDZ3FzcEEwdzhEWDVnRUR0SzBCTTROMEpwMFFOb0ZVV0d1QzhoM253RTktVEZHTXZKZE5FSnBEWU12Y0pEUnZEcVA0X1FjV1F5R2Y2Yk9HZTF5UlpORHY5VU1QeFpXREljVDc5T3dXd3pMSVZTYVVjczhyWXBBWTVkQTItY200WDU2dHZaUtIBvAFBVV95cUxORE91NHppYVNpWEhYTE1Td2V1LWtWUzRId0FQUzhiOVpBemRwZWVkcVdFTVgtWE9kZkYzcGpnWHdoZXhFR0Flb0VJM0d6X2NKS0kya0JpRHIxY1NIUHpLTU9mbEhzZHNmZnl4VmpDQlZjSWFKNXN6WnpiVEJUNmUyS3BpT2RJRWo1b1hvVW5RbDdNTElJbWpnYmQ0VmxlNGlzdkRKQzNOVDB5Zy13YUNncnJUR2J5cl9yS0tVRA?oc=5",
-          "summary": "",
-          "source": "DW.com",
-          "published": "2026-09-14T14:14:05+00:00"
-        },
-        {
-          "title": "Batterieforschung: Höhere Energiedichte durch simple Zellarchitekturänderung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVNzSUdVSVdxZ202QlU5NjJwNjJMNVMzX0lELVFLbHVlaGlfVThQT3J5YmQ4NEhOTXlHeUhNOXl4MGNZalFVNDJZTzk3eWVmb1hjci10Q3ZEVF95TklPVllDeV9td0FQZy1tcHk2Zl9oVzBrR2VTM1dsOXZKWlBhSDByZXk5V3FxdUswQkZGaWt0d3hGdE9SQmlQeGFxdENIbGFxN29jWURNZl9fZ09z?oc=5",
-          "summary": "",
-          "source": "Golem.de",
-          "published": "2026-09-14T13:46:02+00:00"
-        },
-        {
-          "title": "Asteroid zieht 2029 näher an der Erde vorbei als unsere Wettersatelliten",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUG1DeVpyZFpkaGNxN1Z5c19nX3RxY2dMYi1JZWJpZFh1UWZydHpFZ3F5NE1ia1dBOTFsd3RwUExLNEozY05JbG1OUWFXeUJQS0R3WFhyNXpEWFlYM00xZXcxcm5DaHotZnVHM3pHOFFvejRNWFc1QVI5dVhqcGdLNy1LUFpnWmpwV2tNcUllcWRjMGlLR1QxWUswcw?oc=5",
-          "summary": "",
-          "source": "WEB.DE",
-          "published": "2026-09-14T10:50:49+00:00"
-        },
-        {
-          "title": "Warum selber Sammeln gut für die Psyche ist",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95YXhBaXZyUGlORlk2UWxJZncxdEhRWnhmSmFBTmtSVHVTdEhHWmNvNVNPMzN4azhxOFJRMjRBZWNGV2xHUkN6NkNvWUtQV2lERHRobk1GLVc5MUtnOEJrbWl6NjFCWFBneW1iNmllaC0tWHJrdnRiX1l3?oc=5",
-          "summary": "",
-          "source": "WEB.DE",
-          "published": "2026-09-14T10:26:37+00:00"
-        },
-        {
-          "title": "„Sie haben mein Leben zerstört“ – warum junge Menschen mit den Eltern brechen",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHI0TTllUkhkN3VNWERTdHdMRG5razJybmxHWFV5MkZnY0tFVDFXOHhrUEVjYVU4alcxR3Q2bU51V0M1aUJyYUoxbWNvc0lRUFZKMWwzMERrVVBDMmFSQS1obGRISERhSjdwbWRDQ3J6VFVuLTY1bEdKLTJPaEROZU1Hbm5KeHo1RHh0ZjRyVFJrcXB4VEV1bFpYUkN0LXZQZmpV?oc=5",
-          "summary": "",
-          "source": "SZ.de",
-          "published": "2026-09-14T09:03:18+00:00"
-        },
-        {
-          "title": "Forscherin sucht in einem Bach nach Fröschen. Dann entdeckt sie einen riesigen Zahn im Wasser",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObkxPbHBzajJYSlcydTk4ZlhUWjkwOXdYXzNaR0NzY0FETmVIWlB2QWpaaFM5eVVDYXdUSFNWd3NoYy03MXVWWF9YWktENjJDQ3Y3TzlQZTFqNXNlNU1FNVc0eXJ4Tlg5STc5MWVfdHYtSklBQ1lHZ3B0V0ZnbUlROWtvV0ctVkNQcW1wNkRodG4xRDEzU3hoUXI3NkpEY2NQd2RfUzBIWWZNeVZMbXNKci1saHdmOE5oTFBXUUxuSE1fdmFtUlZBcDVLclJ3UDBiTFpteXhWeUNaR01hRUZydUJYaVRtZ2htNFBfaV9hSlJrVVN2UUE?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-14T08:43:51+00:00"
-        },
-        {
           "title": "Extra-Geld für Mütter könnte Kindergesundheit fördern",
           "link": "https://wissenschaft.de/artikel/extra-geld-fuer-muetter-koennte-kindergesundheit-foerdern",
           "summary": "Ein US-Experiment zeigt: Erhalten einkommensschwache Mütter zusätzliche finanzielle Unterstützung, verlangsamt sich die epigenetische Alterung ihrer Kinder.",
@@ -1573,90 +1258,6 @@
           "summary": "Theoretisch müsste das All von Neutrinos vergangener Sternexplosionen erfüllt sein. Jetzt haben Physiker erste Indizien für diesen Neutrino-Hintergrund entdeckt.",
           "source": "wissenschaft.de",
           "published": "2026-09-14T08:39:10+00:00"
-        },
-        {
-          "title": "„Um Befriedigung zu erreichen, wird immer mehr und intensiver gearbeitet“",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkcxWWtVZGFHLUpoT3dRVWlST1ZEZlNid3k4cXFrQy1FRXE3dGxQdTRoWWswc001ZmlZWWoxd2I3ZmhHYlRHb0E0TkRpam1FNkNLR2wySWhkSHlUZk9rVjF0Y0tUYzR2NGhDRzJZNU5MalIySjB6Vm5TYlNUcTZXYUx5WmNIdndnNTloTkpKWHE5Q0RvTkdBUUhGLXd3WFM5V25Ja21zazZHU2wyZ0RrdG1iWTYwSHFGUnpMRGJQUklKM3Z4cVZqSFhPQ3NnREVxc0Vqbng1MDlaMlh0UHpCSEM3V0hadw?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-14T07:00:00+00:00"
-        },
-        {
-          "title": "„Niedrigste Ergebnisse, die jemals im Rahmen von Pisa in Deutschland gemessen wurden“",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdWt2ZEFTalBsZFlRb1RsQXVXUzZDTjlXamJ0R29GYVc2UlNic0VqcnVWSUZ5aE9UMmZabi16Y2ZBcnExSm5rZ0dfYUxjb0RvbXQwNG5pUkROUEJBdmVadXdITHlaQW5kZjJhWjdwLXhTTHRtbUtEVVd4MUEyemlKNXRpaUlmbS1UM3BvVGxzeHFaQW5EbUg3YllwRS1sakc1LXF6N3pISXVad3VmX1VYYVo5QlF5MklDQS1EUjdubzRJTXJLbkw1T2V3QmFRWmNTTnJ6RExVT2NRbGhtZ0w1MUN2S2VISkphTEZfZm01R01GTWxXRGJF?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-09-14T07:00:00+00:00"
-        },
-        {
-          "title": "Kernfusion: Ende des globalen Energiehungers oder unersättliches Investitions-Fass ohne Boden?",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1RVelprdFFxZy1zSEFTa3ZKb0RzNUhrTzZ4RUdGWDFVT2RFX1oxNDdVeEZ6bHE1WWt6QnZxaGV4ZHJuaVlLanhzVGpJQmFYbVZJcUdOaTNLd0JtRmtoUk5XTWR0Wk9qRzJjVWlHb3NTbFNOb3Q4Nl8zdmQydTgwRF9zMmFDaFR2MmhQcktySE9hX1FqY2c?oc=5",
-          "summary": "",
-          "source": "de.euronews.com",
-          "published": "2026-09-14T05:05:11+00:00"
-        },
-        {
-          "title": "Forscher optimieren Leichtbau mit 3D-Druck",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFVLMFpCOWkxMWdVS2pfWlR5UVhyX0lidm8yUmk3MFhKUE9EdzZURkt6Z1F2b0IxNk81NUVvT05MSzZmVmtoYmFOSjJSV2JRSk12OGhzTERIdUdQUGZzOWZ5UjF4RklWdmN5RFc1MkVBajU3YmVvazhjcFFIRUl6Rlg3NUxrYTdUSE5qUA?oc=5",
-          "summary": "",
-          "source": "futurezone.at",
-          "published": "2026-09-14T04:00:00+00:00"
-        },
-        {
-          "title": "Schneller altern: Diese 12 Dinge treiben Ihr biologisches Alter voran",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakhsU1gyeVVOU08xYXF2SVZyVlJmcXpuLXN1V0ZwcjBQR25iOF9Hd3BGRUpPeGJaazRTeVVteTg4TVJlYXNfTUtLb2lGVlJPbzk3T1RjeE5HbWZoUzVEek5IblpiOFhERVNOMGxTOXliZnl4anpGUGhfM2QwdDNfLXRtZ0x0eVlFNEhMVmtmT1BXQmc1bmJ4R2h4VXRaaE9zR2UtaHIzS2xlY2VUSXlKbTQ0N3ZveS1CRXRBNUdBNG1neXNx?oc=5",
-          "summary": "",
-          "source": "BILD",
-          "published": "2026-09-13T23:09:00+00:00"
-        },
-        {
-          "title": "North Dakota: Wo der Tyrannosaurus rex vor über 60 Millionen Jahren entlangstapfte",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN3R5ck4tZ3RHTDR6TTJ2WU96eU5rTU93b3Y2WUtUd0ZpX3pvN0l5VTdMTE1NQS1JQUFKTmFDalIzU3pyQjJodjFoMG1xbE5SbzRiamZaQkVVeVZkUHFfZFFSS081N2xlZTJoRVhiNE9xYnVVOFJMWkFraEI4YWluQjhYYzZKdC00ME11OGJCMllFdklOOWU5TGYwSkllUFhqbWRacEMtR2J1Z0J3Y3BUNnRxVGFvdzI5X0dXM2dBX3JyMnA1MUJwZXEwOGJiWW5oTWc4V3k3Wmw2cG5aZTFWcGZNYjFUYk5xdUI4NkFB?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-09-13T12:55:00+00:00"
-        },
-        {
-          "title": "Als in der Antarktis noch der Wald brannte",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEdVSmlNV3prN1hkOWRtdXQyZ1dLSGhsUkJPeEo3R1hFM1luc2Q3aTJGbmVZZWMtUWdrY0h3RktPQTk0d0pZcFJrMWM3ZklJSXlZNmlEanlucWk3VFZfX0szTVdJUnFxMmhOOWVMN2xYMHExU2V3aHFCOUlDZ0RyaDFLQWJhRXlmd2I4dHpMVVBuNWdqZklxUGRUQWxoelJB?oc=5",
-          "summary": "",
-          "source": "MDR.de",
-          "published": "2026-09-13T09:20:00+00:00"
-        },
-        {
-          "title": "Hochdruckforschung: Hexagonales superionisches Wassereis nachgewiesen",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYTdSaWQtbTFtcHhFdFJmRnZMdVZQRmxjTThDbnRFLVBnLVpxMEVKQ1hBemZtMGlWMkNlQjZKcHh0N3doZU5UZzVSS2NrRXVRc2F0TlZkT1hKd1FMZjBBVHg5alhuOFVWcy1QRTN1WFVRZkd1T2l2a3g0MHd3aVlpZnpxSl8zU1dWMF82c2ZSRWRCU3FiWVA4ak0zTUhoNzlYLS1MdDF3?oc=5",
-          "summary": "",
-          "source": "heise online",
-          "published": "2026-09-13T07:21:00+00:00"
-        },
-        {
-          "title": "Selbsttragende Erholung: Fünf positive Kipppunkte können die Welt retten",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYmNfUVQzMGpBY2ZsMUYwU1ZDLWRvRXFsTlNSVFB5WEZGdzdzWExBVmtONENTYWZRWUVzMTF1eDluSWJHX2JZcklCX0FJZm96TVY4d2tFdmV0S0g4S2p3NW44Nk5oSkpMdzR3VE0wc2JRMncwVHROVVRmZGNHSjhWSTFqRVl3Y2lSOVBDdURqTlBtMEdQMzktSERUS3p4VHg5UmZ0cWNWd1FwQQ?oc=5",
-          "summary": "",
-          "source": "de.euronews.com",
-          "published": "2026-09-12T05:05:36+00:00"
-        },
-        {
-          "title": "Geldzahlung an geringverdienende Mütter lässt Kinder langsamer altern",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONHFPXzRYNS16QmZobTdNVWlhWjdiLWw5NmltbGJMMGZFTVJfclF5Y3hXbS1FODUtTmE5NzRzY1BiTmVtOHp2REZCMC1iWlI1Ymd5eHFWeVhvbjl5T2R2d2pnZ0pPc1pPTnlsRDA5cWd1a0pSTVB5Z2NaN0xCN1hBZF9MWGtGUlZYdmV6WmtTSUNyM1BZMUJWMnEwS3JEUlNZMWFET1hhMURSeHI3RTF2N1NVcF9BRjlYY0FXUFhPSV9FUzBVamdSV3BxNE5SSUVUZ0hpZGN3TkNlR3FtTWhFckhHaVg?oc=5",
-          "summary": "",
-          "source": "MDR.de",
-          "published": "2026-09-12T03:00:00+00:00"
-        },
-        {
-          "title": "Warum die Antarktis in nur 22 Monaten um 695 Milliarden Tonnen Eis gewachsen ist",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWFMNnBmalB1dmcwSUF6NmJoTHZ6VmxtbTVQQ25CRFp5NzhTbDBGSEpDOFhvclJ5UW43dUdJRU1oUjdiOU96NnBQd1liTURZbjM1RHdEV01JeFRTV1FqYUszUEk0d2Y0Ymg3dFBZZS1nNUE2cHNGa3F6QlNsWjhhTHNaOG51NXhEMU1tMjFkVU02b1dSaTRldWpZcmRaZUtQTHVUNlptelFfNlVtRWxvb3NuOFExaExNY0VadEdFTUs3VDFCUEJCMy1pWWN6WlNvY04yOA?oc=5",
-          "summary": "",
-          "source": "BILD",
-          "published": "2026-09-11T18:30:00+00:00"
-        },
-        {
-          "title": "Mehr als 20 Kilometer verloren: Merkur schrumpft stärker als gedacht",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmpXci1qdFJCMVRCWUZVaVl2N0VMUUpna2VNb0RiSkliUWpEeGZpczVGZm9vUXA1VWMwRlNYTVV1Y1ZBWkx6WUpUd1lwNEZ3dHFrc3lTZVlMOVRuZlNOSEoyMlNJeDhHdkVOeDdxR3E0Uk93UDRLSXA2anF2cTlQOHBYMVk0cXc?oc=5",
-          "summary": "",
-          "source": "n-tv.de",
-          "published": "2026-09-11T10:01:27+00:00"
         },
         {
           "title": "Wie Musik Stress lindert",
@@ -1680,11 +1281,39 @@
           "published": "2026-09-11T04:30:54+00:00"
         },
         {
-          "title": "\"Doom\" läuft jetzt auch mit dem Hirn einer Fruchtfliege",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdUdGWWhwMW10LW1WbVVmWk02NDVYWlZMR3I0VV9rV20zRjMybTV4aXJHSURWWEVlWVhyTElqUUhIb3RYMFpZVnp0MFFvc0ZzUlNNMUFKZFpyN2xSMEVYcXlOMEk4X2dWRERCakZEb3ZrcGdIcEdFVXZ4Uy1EWTY4ekdqRU40SjVDQWd6YUhWQmNDTHVCdFZ2M2RwSWplb0E1ckRZ?oc=5",
-          "summary": "",
-          "source": "derStandard.de",
-          "published": "2026-09-11T03:00:00+00:00"
+          "title": "Datensicherheit und Prioritätsstreite (und ca. 40 Millionen Euro) [Mathlog]",
+          "link": "https://scienceblogs.de/mathlog/2026/09/10/datensicherheit-und-prioritaetsstreite-und-ca-40-millionen-euro/?utm_source=rss&utm_medium=rss&utm_campaign=datensicherheit-und-prioritaetsstreite-und-ca-40-millionen-euro",
+          "summary": "Vorgestern hat Open AI bekannt gegeben in nur 88 Stunden die Navier-Stokes-Vermutung – eines der mit 1 Million Dollar dotierten Milleniumproblem – durch ein Gegenbeispiel gelöst zu haben. Sie nutzten dafür eine interne Version, die…",
+          "source": "scienceblogs.de",
+          "published": "2026-09-10T14:12:59+00:00"
+        },
+        {
+          "title": "Wie Immunzellen im Fettgewebe das Abnehmen erschweren",
+          "link": "https://wissenschaft.de/artikel/wie-immunzellen-im-fettgewebe-das-abnehmen-erschweren",
+          "summary": "Zelluläres Gedächtnis: Bei Adipositas verändern sich die Makrophagen im Fettgewebe – und hemmen auch nach einer Ernährungsumstellung den Fettabbau.",
+          "source": "wissenschaft.de",
+          "published": "2026-09-10T05:00:54+00:00"
+        },
+        {
+          "title": "Schmelzende Gletscher setzen uraltes Methan frei",
+          "link": "https://wissenschaft.de/artikel/schmelzende-gletscher-setzen-uraltes-methan-frei",
+          "summary": "In Spitzbergen lösen schmelzende Gletscher uraltes Methan aus dem Gestein, zeigt eine Studie. Dies birgt die Gefahr einer Klimarückkopplungsschleife.",
+          "source": "wissenschaft.de",
+          "published": "2026-09-10T04:31:20+00:00"
+        },
+        {
+          "title": "Deepfakes: So könnten gefälschte Videos künftig besser erkannt werden",
+          "link": "https://wissenschaft.de/artikel/deepfakes-so-koennten-gefaelschte-videos-kuenftig-besser-erkannt-werden",
+          "summary": "Forscher haben einen KI-Detektor entwickelt, der Fake-Videos treffsicher aufspüren kann. Er sucht nach Abweichungen in der Sprechmimik und ist personalisiert.",
+          "source": "wissenschaft.de",
+          "published": "2026-09-10T04:31:11+00:00"
+        },
+        {
+          "title": "Verborgene Unterwelt: Pilze gedeihen noch in hunderten Meter Tiefe",
+          "link": "https://wissenschaft.de/artikel/verborgene-unterwelt-pilze-gedeihen-noch-in-hunderten-meter-tiefe-2",
+          "summary": "Hunderte Meter unter unseren Füßen existieren nicht nur einfache Bakterien, sondern auch überraschend viele Pilze, wie eine Studie enthüllt.",
+          "source": "wissenschaft.de",
+          "published": "2026-09-10T04:30:57+00:00"
         }
       ]
     }
