@@ -1,11 +1,18 @@
 {
-  "generated": "2026-10-24T22:55:23.829165+00:00",
+  "generated": "2026-10-25T00:52:52.237185+00:00",
   "sections": [
     {
       "id": "deutschland",
       "title": "Deutschland",
       "days": 3,
       "items": [
+        {
+          "title": "Umfrage: So würde Deutschland abstimmen, wenn am Sonntag Wahlen wären",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHB6d1hPUEFJS0Niak50SVZWOXFEZjJvLW9INGVJQjN6dFlSVy1sWFhsU21MV2h4dzZub21YVUpsWlF2NEVYcEhqLWx4QkRMRlRxdk1CbExJcHBuVkRoWm1SNWxDcUZQd3pJbV8tSFZSRDh5VHNPWjJ0d2cwUzgzdnlPSEctOFg0aFFYemh4dE1WWWFtME8xaHlrR1hIZ1pqcnhBMlBCd3hQeTFLcnZ6ZHRFNXU?oc=5",
+          "summary": "",
+          "source": "Jüdische Allgemeine",
+          "published": "2026-10-24T22:49:28+00:00"
+        },
         {
           "title": "Frankreich: Drei weitere Festnahmen nach tödlichen Schüssen nahe Paris",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWVsTWRENThxTXBXLVpIWDNOV0VvSG1iTnVMc0lRczktVXVqTV9Ka1lXZDU1T0VmOXBQUkxfUnJ0bmlGWDhaLUZkeWRwWlBsREpoanZYWFBQU1NDZndjaWVXLS04eHZJdnBtLUhnZks4OWdmeE9OX09NWmFqMV80WWtVME9qczhoNDVwVEVRZVZvOWJHTnU0Q0xLem1hbm05XzlpTDVBYVdLNkpfTHAtT3VGUDRjV0JxMUNj?oc=5",
@@ -28,13 +35,6 @@
           "published": "2026-10-24T18:59:00+00:00"
         },
         {
-          "title": "Emma Fernlund schämt sich für ihre AYTO-Sexszenen im TV",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEtPeHhHOFNMWFJNMjdPX1FmLW5xdnI1QVo3c0ZRUkx3YXd5U0p3QmNGWncxTUVYcFk3c0lEdDBoVVBFcjNqWFNHblktX3NhazlPaWN0bUJsekNfemdiT0lWZTFtcE40ZTg2MURyT2JzdnR6Nm9aLU1Uc2dKVWw0M2JEUm1fYVA0Y1dIZTI1aHdtRnBiMi1RY0RhT0ZXc1dGb2ZqSE9Idw?oc=5",
-          "summary": "",
-          "source": "Promiflash",
-          "published": "2026-10-24T18:30:00+00:00"
-        },
-        {
           "title": "Michelle hat sich die Haare abrasiert: „Hab jetzt quasi eine Glatze“",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTB6YU40NXkwOEV6eXVzblJzYkRCVlZVSWxWcGs4T1VmLW5HamZPY1lvNENFSGJFOE1zSlRlZVItS3dFXzNjdHk2S3A0aVVYb25MZWRzZlR0Rkw1cTJTOWFMeklnNENxeFRTUTVTMkJaU3lJUDdaWkdBcFdoay16WDRNN2F1dFZub3gzYkotQ01PdHlla3hKS3V2SE1CM29UWlkzUVVEUGNtLU8wa0t5Q3NJVFlrTm1USVNYQnpTYnJyNFVFaWdSbkpfUy1LbTA?oc=5",
           "summary": "",
@@ -49,25 +49,11 @@
           "published": "2026-10-24T17:12:51+00:00"
         },
         {
-          "title": "Königin Mette-Marit: Warum ihr Bruder verklagt wird",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlNKZFpJRzlpYV9EN09aN1NtV0RaSVR4bTZNQWZ5Tm54WHRHdW5JYmp3RGhZR0ZINlI1QjFjRzBkRmJTaHJWcE1UcWY5el9TU2k2SUVaZzlEa2ZvZFp3bnEteVVlWVlBNTVuT09ZVF90WTFka1lleF9UWWpKSmFlZlRUaDNaYXlqenRuNkdfNE9NTXcyc0VlYkN3bHVRdzFhYjFLelpR?oc=5",
-          "summary": "",
-          "source": "STERN.de",
-          "published": "2026-10-24T17:11:00+00:00"
-        },
-        {
           "title": "„Schlag den Star“: Das Duell der „Höhle der Löwen“-Stars",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUJ1Y0hxQlBjWXdRV3NLNGsyU01PTE9YNjZZdE1rek1tdElLN3A3ckk1R0J2N2FwaGRpdEZ2Wnp3Q1Jpa0JobFpua3pSN3pmV2tHOHpCQ29BMUhzRDlQZ0JPWk52ZWlsNnVOZ1BhM3JuMzluWlNPMjdNcVhzVk5UeXFSVzZ0aGpfcUc5MVZJek1keXhOWEpHOER1T05yTHl1UUVsc3FMV3B6SE9HVS1jQ0RfV05BVmlIVlBSX0t6bkduR3FRdGc?oc=5",
           "summary": "",
           "source": "BILD",
           "published": "2026-10-24T17:03:27+00:00"
-        },
-        {
-          "title": "Sonntagstrend: Schwarz-Rot legt plötzlich wieder zu",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEdINXhISnd1ZzdrOW41ZXVnQVlNQnNMMmRCdE4wdlEtWHlKZEIxUUJZa19BQmRZY01LZi1Fa085bUFWekR5VmxmNnA3MTdSWW5vV21SYkxUekMzOXFUYXJQa1MzSmQ1R0V2XzE5Yy1YOUVtV1dxeF9jLUVCQjVsT2w1OVBIdlNHY1VjSFVRQm9Dc0dac2lpRW5zMXVGQkpuM1JZNnFidTZ4MDFVYk5qQw?oc=5",
-          "summary": "",
-          "source": "BILD",
-          "published": "2026-10-24T17:03:12+00:00"
         },
         {
           "title": "Grand Theft Auto VI : Nicht Geld, sondern Erwartungen sind die Gefahr",
@@ -77,18 +63,18 @@
           "published": "2026-10-24T16:15:00+00:00"
         },
         {
-          "title": "\"Ich war geschockt\": Hoeneß mit offenen Worten über Kompany",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnlOZnhEdVQ5OUdZYlJ5bERoQVRsUW5ZbnpKTXQxWHhxYy1leGhGS2NZaXdmQXlSSkduQWliN0hRM19xelZjR3Q4LW96RG4wOUVHd2VUVnZmQktCOW11WXp1TGl5c1V0YjlURVIwWlhiUHBNdnJKLUpoOE94TDZITmxnWUV1TFgxcEdaMURfR2lSUHFwSEFVQ2pOLW8tdWZnekswdDBFNk5FbS1UUnFNYXZWNA?oc=5",
+          "title": "Herzogin Meghan: Wie das Verhältnis zu ihrem Vater zerbrach",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUdHdjlVNVJhMTFFWF82U0dzd1BNS3hlWEwzZEo0SnpaTmVabFNLd0x4SVhBV2o5aTVPNDBrdWhsT21sT2NtU3RScy0zbmJvM2k0dExxRk1ETUswWFAwNFhzdWlNMmdXTEZSNUZLQ09Ld1FkcnpTWTM5VFZIcGNHSk0zYng0NXloSVlGd1Z1TERuQ05qVUZiZ3UwYkFVLUhPbUlFQmN1cXNsLXAwdXFNcA?oc=5",
           "summary": "",
-          "source": "SPORT1",
-          "published": "2026-10-24T15:39:00+00:00"
+          "source": "STERN.de",
+          "published": "2026-10-24T16:00:00+00:00"
         },
         {
-          "title": "Herbststurm trifft auf den Norden: Sturmfluten und Orkanböen drohen",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblBMaTJFVmw1YUUySHQydU1HMVUyd20xZEVKTWRGQ2hnazlMMmxqUmJ4NEwzdXBEZlYxdC1pLTIzeTV5ams1Q0p1VEozajhMRlZJRkk4cXBRV2R2OGVIRmtNeGZxNmtZa0RpaEEwdlg3YktQUGdBSjBCVlpZcmV2TXY4RVpoelBtdV9VVHhDVVNVR3cwSjh2WVp1c2hEeDNmSXN3SGJHdGwtUQ?oc=5",
+          "title": "„Eine große Unbekannte“: Die Linke in Brasilien steht vor dem Abgrund",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYy1FZHljNWpmeklTVzhnU3d4ZUVraWlrM3lDRE5VLUtNZE5fZDRZMEZEektBZWJDMDhrX1dDTFV2blN0ZW5YaFg5V0d3WGtHcWF1Rk91X1AwNjJCT1F3TWtQZEoxbmNZLWw4OGpCNnlOYWNBWEJwOHBTcHRJVWJ5ZUM2Mnc1ME5XSDl6ZERmbDFSX1FWQ1hiMWNxTXZ2cWI0YWdMYjlWX1NCUkZMV0tYekZ5bGJIWVZRQ1pUUndFam80RkFQVlhKWHRuWURGV2xPbk5NcDRlVQ?oc=5",
           "summary": "",
-          "source": "NDR.de",
-          "published": "2026-10-24T15:17:18+00:00"
+          "source": "WELT",
+          "published": "2026-10-24T15:35:04+00:00"
         },
         {
           "title": "Auto mit Leiche angezündet: Mann soll Ehefrau mit Pfeilen getötet haben",
@@ -96,6 +82,20 @@
           "summary": "",
           "source": "TAG24",
           "published": "2026-10-24T15:00:02+00:00"
+        },
+        {
+          "title": "Millionen Menschen tragen dieses Virus in sich – nach einem Herzinfarkt könnte es gefährlich werden",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEdvZ3VDb2ZWdGpURkt6bmhCOU5vMHRBVGQ0Sk9GbHRVUUMxX1BPbUtVdnhQb01DdUNTb21acmpUanRITWR6RjRtYWhMWEk5YTJFWkhMNzMtRlQyRmQ2M0h0dzBJV2ozbjlYZHJhTVIwSENEZ3N4dXdCZnBpV1FJYUdfTVZ1VC0wTVNZZ3lCUThsN1dKWWVJSFJnNkJLZlhuQ0JYWXVPNXYzZ1VWQUZjaVBIRQ?oc=5",
+          "summary": "",
+          "source": "Frankfurter Rundschau",
+          "published": "2026-10-24T14:56:43+00:00"
+        },
+        {
+          "title": "Sturmböen von mehr als 100 km/h möglich: Tief Manja bringt kräftigen Regen",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVpyYVZ6cXpNWXktTU1GUFR6MWhkU243aXBMVFJMQndPRXNXTjUtUGZZNXJVRTFSWncyNjNRM1NDSVpXT0hDc0xYOGVIcnp4YUtkb01LRkM3SkctY3NFYnZnM1haaFFfZUNsZEdGLXlBN0dqNG1BaFZtbms4TjByWU1ULXF6RjVRTUxiMkg0V0ZvY1NDSkltaUNHb2tzbTlzaERuV04xeGpJWjdTUV9JWVRubml0aWs1WjhKYmRYV0ZqRVhmY2tESDU3QktGc2VhWjRURQ?oc=5",
+          "summary": "",
+          "source": "hessenschau.de",
+          "published": "2026-10-24T14:47:51+00:00"
         },
         {
           "title": "Vorfall in Berliner Hotel eskaliert: 17-Jähriger schlägt Polizisten mit Bierdose ins Gesicht",
@@ -126,11 +126,11 @@
           "published": "2026-10-24T13:18:26+00:00"
         },
         {
-          "title": "»Netanyahu war ein großartiger Anführer, aber er ist schon viel zu lange an der Macht«",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGYwRmtvR0daR0xyalJ1bkgwcXVabkF6cFJBUUE5X0ludTVoa1VPbnZqRHUzREM1TjJxMGJRR1liZTh5UU96cExjbmhyRUNQOFZZZ2d3NmZsWVFLTExzelJGdWpKQm5heTdqWTJhMFdjV2xRUVdGcTdTdUpGanVza3BHSTFqWWZQMURqU3BNWFdOajhjRnlJRlFJSXFua2xFYm9nNEczaURRTjlwcDNBV2JMOGwxblV3N2RxeXpnWUU0MGduVnMzVVg0WXdOZw?oc=5",
+          "title": "Sportmediziner zum Kollaps von Vincent Kompany „Man kann nicht erwarten, dass jemand nach zwei Tagen wieder an der Linie steht“",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYVFBQ1owbmN0ZkgzMTBKRWFvR0VSQXBMZUU1WkVQSHNfTlNEZlJ2U284R0c2WC1uSV9xdkE0M182REVYZkxmeEYwdFA2a056SlRYNThIdU9LQVBkUndhQ3Npa2JmUE9sLVBuc1E4dUp1Qk8yYlJTOEMxeFZRX3E2WHZWR0Jtd0dvQnVsaFg5Qlotd2FkbnlQaUdLWkswSlFWM0YwU05ub0hiLVVVRVByaUJUWDc4VGdGajY2U3pUSXlZX1hjdGpzWTVRdE9GUUlTXzJUQ1lxdmRkR0JjcDhfaDR1YWVjVFVTLWZBWVFQUkl0ZVFma0tSU09hTVI?oc=5",
           "summary": "",
-          "source": "Spiegel",
-          "published": "2026-10-24T12:39:00+00:00"
+          "source": "Tagesspiegel",
+          "published": "2026-10-24T12:40:00+00:00"
         },
         {
           "title": "„Das ist ein Witz“ – Nur vier Asylbewerber nach Italien und Griechenland zurückgeführt",
@@ -147,6 +147,20 @@
           "published": "2026-10-24T12:14:26+00:00"
         },
         {
+          "title": "Kreis Diepholz: Amtliche Warnung vor stürmischen Böen in der Nacht",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2oza0tqb2ZFTW9JbnhaYldxbzQydVUwQm5WNEpYNDBCbEZzRHRvS002OGhJU1IxeV9iaF9rbDdHcndTdWw1N0lXcjFxV2FpWHFxZFlhWEFqb3FmTjZTdXppbzZ6Yy1INlNQM1V3VmgwUmYwQjNxYnhvSUZha0xYMm5KTkxJZTRScGJSeVNNeVloWEJEeVc0Y3hnQmRkMi0zSzdlNHh6bHFQTkhORVBHQjZBSnRNNVRYalJ6UnFCMjFqSzFL?oc=5",
+          "summary": "",
+          "source": "Kreiszeitung",
+          "published": "2026-10-24T11:58:00+00:00"
+        },
+        {
+          "title": "Rheinbahn und Polizei kontrollieren Tausende Fahrgäste – Streit um DB-Fahrkarten",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbnROUWx6Z2w4NmUxQ3h2S0QyOHNIaGJhajU3dl9ia2hhOTh1SVJCNWVfSzdiSVNWc1JkU3ZtLVBOdHUtY3lRZ0RpWTV5a2pCUF9rVHlmekpsZXJfUi1XME1vV01QbE1aOHNFdm9GWXdRQTBVaFFQUTBQc2xZano1UzJfQV9CM0ZSSHcyajFBNWUyOFdCM2pGVktSczhWVUJiend2S0Z6Z1Q1QkNwTmd6d3k2SG4?oc=5",
+          "summary": "",
+          "source": "Lokalbüro Düsseldorf",
+          "published": "2026-10-24T11:41:07+00:00"
+        },
+        {
           "title": "Sachsen: Suff-Fahrerin mit lebensgefährlichem Promille-Wert aus Verkehr gezogen",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1A3OTRKVjZ4TmIwNzRJZUhGT0NiaGtBcnY4QjRyZUo2RnpPb3VLdy1kRnhZX1R1VXdGMjgwc1NBTzN5RnNCYnpOUVoxSG5JeHlVQ2U0M1M4VG1tYXg4OUtyZWdGcl96RTBGTnZTU2JtR2hybHEtWmJONkE5X3FaNG9URXhYRS1QOWFsTlpoOW9lM0x4OUFVSThxYXc1TzZFLTRMNWlqLWVLTlRSVnhWRFBKNFo2U3V3RzVCTTRYbEI?oc=5",
           "summary": "",
@@ -161,6 +175,13 @@
           "published": "2026-10-24T11:34:08+00:00"
         },
         {
+          "title": "Polizei macht schrecklichen Fund in Wohnung: Frau festgenommen",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0JTWHFXa1VKLUF6b29HeWgzSWxjalE0UjlZSlNGWkRNX012eGVyOHVLWmhTblRiNkxha0FCeHJWU002SGFDNVg2bGFrRGRKdEFjN3kycVlOWlJZVExPQURtcjIySU0xcHdIWFN0Tll0bnZvWVE2WFZEbjRMRDRmTzZUMHZ4YnRFSVpqNWNnS1RQUEhLWlplT3Q4WDBIbUI0bFNiRDRHS3BobjZwQ3ZF?oc=5",
+          "summary": "",
+          "source": "TAG24",
+          "published": "2026-10-24T11:30:00+00:00"
+        },
+        {
           "title": "Weil sie nicht in die Bar kamen: Trio schlägt Frau und verletzt Helfer mit Messer",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMGRTcWNrbWdtNVNRTDJYM0tDazdsRWFkVEJPLVE1ZmpPRlUzanJDaHFONlRXcVh4U0dTeFB5aVJyNnZrR3pxZl9UTThLZlNjQzlaM2Q4UEFhcF9oQUVUS0FGN2tIQ2NOTG1kdVFDcUtKUk15amk2SjUwRmtyN1k1UWxpV1JUclVDN0hMbmQ2R1g0RUlFWnpONzNuZ2tDQ2lycFFjNVVaS0k4dU1tdUtnTmowcUdmWXd3T1VSU1lDbk1CTlFaQmtLcG9YbWtHS1FaaEE?oc=5",
           "summary": "",
@@ -168,8 +189,8 @@
           "published": "2026-10-24T11:04:51+00:00"
         },
         {
-          "title": "Volkswagen: Bis 2030 sollen weitere 12.000 Stellen abgebaut werden",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNE5sLWZ2eHYtWlg4YlFnYlN2Rmo0d3otUEQ1RGZIaGR0eTVLbFBkN1gwVFExYXhITWRCWHV3QVdZLUU2d3BJYXhUWjRXeEJvTUFRWFRGMmhHdmJiR0VQcVpST0stYjB1S0ktaU03bk9jdkJUUGpxbUFGXzJCUXRENlhXeGw5akJ1V3lSMmpfTy1uQUdmcTg0NmlHRDVOREFUY2xIZllQLVJVX3YwUjZLSFlPdFVUMHY1MGtBQlcwMmpDSmJacXRLQzlRSzY4ZWEwN3ZGczZaWDBRZVBOWkFkX05VT3E?oc=5",
+          "title": "Volkswagen: VW will weitere 12.000 Stellen abbauen",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFMxb05TQ3diUWhWMjFJNWJHUTdBVVZuMW5CN2RlYWZRRGcyNG1TTmF3dFFJaWZmbW1lcUw4eU9BcklOaW1mMTRUei1XYkViR1NUeEsyMHBJcC1kZ01Ca1JrREdscHhpNnFDelp5aHNWN3lvZmhDcTVkUHRiR2hVSGVacEV2ZThhZ05EekJtc21nRmlvXy03M213TV91Q29KUHE0OWs3aVVEVFo2dmVnWU1BeDJyakthR3pac0h3WFJad3d6T2pSMGh4Rm4zckk?oc=5",
           "summary": "",
           "source": "Spiegel",
           "published": "2026-10-24T11:04:00+00:00"
@@ -229,13 +250,6 @@
           "summary": "",
           "source": "T-Online",
           "published": "2026-10-24T08:04:27+00:00"
-        },
-        {
-          "title": "Auftritt in „NDR Talk Show“: Wenn Hendrik Wüst nachts auf das Schlafsofa umzieht",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1BLUS1lRk1BWlJlb2JxRlpEMUw4NFVHSlI4OVBNUXJpSWZqODc3RHM1RG1WUXc1REpVZTFOemY0aUZtU2F3NzZKX01KdzdjREpERmJ4aVNad2t4cUlPSVd1YTNMaEJPenVpdGxNUXdhN01RVVlTXy02SnJXT3JZUlA5MDRVZTRNSFNxTTRNSUJqTDMydUxSWGtjdTJRWlk?oc=5",
-          "summary": "",
-          "source": "RP Online",
-          "published": "2026-10-24T07:57:00+00:00"
         },
         {
           "title": "Sturm in Südwesten: 71 Einsätze in der Rhein-Neckar-Region (mit Fotogalerie)",
@@ -329,6 +343,13 @@
           "published": "2026-10-24T03:11:00+00:00"
         },
         {
+          "title": "Hebron: Israel riegelt Gebiete im Westjordanland ab",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUkwQ2J3YThnUUJJN0FTbFZjRVFlenZzS2dSOVhNaUF0WnVNY25oWlpJcE5qYjlyUUFSZTNSbE4tQnJEUWxvRm4zTWVyYjRWX1NSdEU2ZktaM1RlclpwUUNjZ1ZaUWotbU53YjFTaEUtZ3FCaDZfQ2dVTnNmZThyVGRUVjA1XzA5UmhfZ0h2MjFzTDg0dmNMUm1TUnZKSXlBdVA5R1daTQ?oc=5",
+          "summary": "",
+          "source": "DIE ZEIT",
+          "published": "2026-10-24T02:18:01+00:00"
+        },
+        {
           "title": "Chemieindustrie: Land sichert Stilllegung von Leuna Polyamid ab",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUN1SEs1Z3Y0U0VHWGI2NEVWZ1doR0NzSTEwTFluQmdiSVlzaHJxUEdzOS1NZGFSMVJxdFZPNzR1YjM1QzlCczI0VE1TSEtLNzB5NjN6Zkc5dGtMUk00RE9UVmpOYVAyZjFCMlI5dDRWWUVVSTJHQzNWUWUwQlY2M0h4d3JzMUlQdUE?oc=5",
           "summary": "",
@@ -341,13 +362,6 @@
           "summary": "",
           "source": "Deutschlandfunk",
           "published": "2026-10-23T21:24:32+00:00"
-        },
-        {
-          "title": "Kellerbrand in Mehrfamilienhaus in Eschwege: sechs Menschen verletzt",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWF5dEp2N3FXeEFlSU01WjlvTnNaRGNDZkVGODJ3ajA4UHQtU05FYS1BdzNjc1hFSEpPMjB0MzF1N0RyYURBSFVUYnZXTmFad0g3Vl9ELXNMckdIWFRiWWt6NUpteU9FdmRGMTlfakQwN0NsNFBtYXBJb0FzXzFJa0hBNFBsRkZSWm4yVllxUjV4YTlnQW0xb3E4RWRpeE1acEtJVWxDcWI2TWU4ZVlBaElScGZnNnFOc3FzN1Z5NWs2T1lmWXJoRklISTgzSlRSLUd0Sg?oc=5",
-          "summary": "",
-          "source": "HNA",
-          "published": "2026-10-23T19:59:00+00:00"
         },
         {
           "title": "Schwerer Unfall auf Nastätter Oktobermarkt: Zwei Besucher verletzt – 72-Jähriger in kritischem Zustand",
@@ -371,13 +385,6 @@
           "published": "2026-10-23T17:30:00+00:00"
         },
         {
-          "title": "Kreis Diepholz: Sturmböen ziehen auf – DWD gibt Warnung für die Nacht heraus",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmdfVzZFencyQU80MkhTUHB6d0pEcnowUzVvVUxsLTFobEoxOTdGeUN0cEVCZjhDTHdJMVpUOWVYWHJ1VDRCQ2JIdndEQ3Iybzdmd2xPWUJVUzljX0RjYVk4NVFzaTU0QkZfekMxMXV0cUlhSmZPakNHMnBYZ1l4a0FqcnhqM3VuVG5xN3BMWldMM2JmVHM2YU5lTU5TZi1tRGJjOVVuWURTZV84blktLUFhYWlMREs4bzBWZEgybTZMa2VoNmJMd29xa2hyV1E?oc=5",
-          "summary": "",
-          "source": "Kreiszeitung",
-          "published": "2026-10-23T17:28:45+00:00"
-        },
-        {
           "title": "Personenschutz-Kommando nach Einsatz in US-Botschaft aufgelöst",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFFkX0M1RkhOYWNKT0JfaS1lV2FzTm1uYk5FQUpWYjU2RnRrc3M5WjhiR24tQmtsMW9CbGd0a3kyZ1ZxTmw2X3hDU2wtME1BRF83aDRxTVFTb1p6NXRXaGV4X3BBb1U0aWJUTWE2M1J5Zk82b0R0XzRUcklTckc5U2E3QUlzNER1cGR5ZGxzcm5xdDJsSENlMnpNYTJ5RnFS?oc=5",
           "summary": "",
@@ -397,13 +404,6 @@
           "summary": "",
           "source": "Tagesspiegel",
           "published": "2026-10-23T16:28:48+00:00"
-        },
-        {
-          "title": "Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5",
-          "summary": "",
-          "source": "Deutsches Ärzteblatt",
-          "published": "2026-10-23T15:54:50+00:00"
         },
         {
           "title": "Nicht nur bei Schockemöhle – Pferderipper in der Altmark und Ostwestfalen",
@@ -490,6 +490,20 @@
           "published": "2026-10-23T09:00:59+00:00"
         },
         {
+          "title": "RTX 5090: China ordert 6 Millionen Chips, Spieler gehen leer aus",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSU9fMDFSWHRHM2pzb0IzdGhrRXhzellKU3o0V250TEFmd0xzLW5jb3o5WFlwVUt3dTNZamtuampqb3hXZUNnWGdMYzNHMXMzZWUwVUdFMUZSWllnNG5mNWZ4SklYbTdMUm9sQTdTdGlYN3BZaVZxYjV5YTZSWl80R3ZMbDM0TmN6bW53WlJOWmczaU1WX1RwU1pYaFFiSWltdUsyTkRjWWUyTklfaHhVVnZzQ0JrdE1tNk1XcVFGeUs?oc=5",
+          "summary": "",
+          "source": "PCGH",
+          "published": "2026-10-23T08:15:00+00:00"
+        },
+        {
+          "title": "Bombenzyklon wütet über Deutschland: DWD-Wetter-Warnungen in diesen Regionen",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRjBRN2lJb1Y2ZnpySGZTSFZUQUxDNDdSMUpURlhtV2xqSmZjSHNmUTRTM0hkc1IyNkZHMDFrOHkwZVlQMkUtMldoOWUzVzRXeU9fRG5Rdl9pbG1JdHRrdGpzX2ZRN3Y1emJOcUdacEdYNFI1OW5JOFpnb0tDTFdESnlSRFR6cElveXR6Sml1UXF6QW5BNnl5bEJCY045OVhDdUxldV9mUS1jT0tUNnAtNkFTSTZpM1lRLWM4SUs2OG9OVkxhSDlzeDdtLU9PVzJlOEFv?oc=5",
+          "summary": "",
+          "source": "T-Online",
+          "published": "2026-10-23T07:12:49+00:00"
+        },
+        {
           "title": "Gummersbach: Brummis pfeifen auf Schutzmaßnahmen für marode A4-Brücke - Jetzt gibt's Konsequenzen",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXFfb25PTWR6ZjRBamNkSGxpWkpqNFlvOXd4ektSYWV2d1B1bTljdk94WGtybTBHbnhjMTBzeE5PeGItOHg3TDdMVXhuNHJCZnpEUHl2S1o5UmNqcXI0djhCRkZZM2pldFU5WWJfMXlYSmlkaVNQV1ZpMzRnaHlpb0VmMGx3aXhVSmkzWTB6RlBpdWcyM0FDdlFIWkFBa2ZGR1B3MmQwVFY3RTB0VFNPcnRzRFo2UGpJcEhjdk8tSUo2c3NmQ0E?oc=5",
           "summary": "",
@@ -509,13 +523,6 @@
           "summary": "",
           "source": "AD HOC NEWS",
           "published": "2026-10-23T03:30:24+00:00"
-        },
-        {
-          "title": "Bombenzyklon fegt über Bremen und Niedersachsen: Wetterdienst warnt amtlich",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjRWM1RGQk0yckxBWTNJcXhqM2RISzdHY2xZWjdUeUp1MzREaGJkVkZ2Z2hINHhEQjFQWnY1Y3lFcXFaYVlneVhYN0JnS1hwSUREVGl2ZURXWjRHWEVucmVkNk13LUN4YWlMVFQxNlJXSWllaWY1UENTVWJ2bWk3TUJRV2pLbzV5aWtRdTNENGF2dXRXTy00NHc1NG4yaV9RVDVTMlg0c3M5X093QjBvbGVmM3lERkEweTFPSm9XdWRURFpoWHA3Zm9R?oc=5",
-          "summary": "",
-          "source": "t-online – Bremen",
-          "published": "2026-10-23T00:17:34+00:00"
         }
       ]
     },
@@ -525,18 +532,11 @@
       "days": 3,
       "items": [
         {
-          "title": "\"Mein Kampf\", Koran und Bibel bei Pariser Attentäter gefunden",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkVjUW1Fdzh3Y2pmZEM3OE9vd04xeWFPbWpuTnQ2RTVtSS0zVFlIdFdpVnlZSjdCY3hNUXRLZmx6eWREbFJFQU1XeWNsYlFpYnRBQ2l1ckdoNlUtT0hlcndDcDE0M2lYc18xOXlUb0RaMTJzZldZNUFxTEFSQ0hmNzdnVlNNU01FeVhwTlRLTnlfeXdrZXJ4elAzNDdBNVh5WVNWN2lB?oc=5",
+          "title": "Frankreich: Drei weitere Festnahmen nach tödlichen Schüssen nahe Paris",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWVsTWRENThxTXBXLVpIWDNOV0VvSG1iTnVMc0lRczktVXVqTV9Ka1lXZDU1T0VmOXBQUkxfUnJ0bmlGWDhaLUZkeWRwWlBsREpoanZYWFBQU1NDZndjaWVXLS04eHZJdnBtLUhnZks4OWdmeE9OX09NWmFqMV80WWtVME9qczhoNDVwVEVRZVZvOWJHTnU0Q0xLem1hbm05XzlpTDVBYVdLNkpfTHAtT3VGUDRjV0JxMUNj?oc=5",
           "summary": "",
-          "source": "n-tv.de",
-          "published": "2026-10-24T21:01:15+00:00"
-        },
-        {
-          "title": "Papst Leo XIV. sagt Teilnahme am Friedenstreffen in Assisi ab",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODBfejJ2Vjdlc2JobkIwM296Q1RlTG9WUUVZYkJTUTBxNm94ZTdDNzNtMGFYX0NiT3hfUHYzQ3lRYW5NY1FRaTR3S0E0VDFHS0wwczBxbVNpa2J5QVNHZllldzZjZG1qbzEtVEYxUWlaalFDNXZZLWNRMmZmN1lRNUhvWmEzcHo4a3RfZ1pFV1hxRlpMZXJTcGlLX2UzU0RaV0FfT2ctbjBYU0tNX3NEU250VVdyMEE?oc=5",
-          "summary": "",
-          "source": "Vatican News",
-          "published": "2026-10-24T20:37:39+00:00"
+          "source": "DIE ZEIT",
+          "published": "2026-10-24T20:42:16+00:00"
         },
         {
           "title": "„Keine Reue, keine Schuldgefühle“: Mutter lässt Kinder für Gipfeltour zurück – Wanderer schreiten ein",
@@ -546,18 +546,18 @@
           "published": "2026-10-24T19:33:33+00:00"
         },
         {
+          "title": "Laut Memo: Iran plant offenbar gezielte Angriffe auf US-Bürger",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaElNYmRPcEJUaFpPZm9XMXQ3eEE3V3JvVFNuQllseUYzZURTZU9MRXh6SENXbXRfY0wtbnpwdTJNeHczc1ZBSHdIeHRvM1l1djZxSy1Lcm1BUVgwU1d0VHpoNF8yZ2R4enE1TVN2M1BzXzBNUy1BUW8zN3ctdElWazZFTV9Ccl95ajJtdGtTNzZtWC1UWW4tcExFWF9PcUhGaEV3emJwZk5MQXJJTC05emowc2RzX3VMVnI0d0QtRQ?oc=5",
+          "summary": "",
+          "source": "RP Online",
+          "published": "2026-10-24T17:38:00+00:00"
+        },
+        {
           "title": "Argentinien: Mädchen (10) von Stiefvater missbraucht und geschwängert",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYWl1UFdxVklyaWl4NnJQY3FxMkFoRWMwSnN5bVIwYzY5cU05NVBJOUxWTEVmOFRNOWc3ZjRlMXRSS0hZWmphZWxPeUxFdE1wYldiYy1YRWVsU2xTRWJxQThyQ1hqazdseU4xbVhEdWtNSWlfYlgzWHVLaEl4Z0ZUZ3lBQld6azBsV09ibEhlOFdFRDIyTTdFZFBYcFB5anZ5a2s4OFFCdzU2NGs5Y0doanFpOTRpUUEyR3dsNVlGRFl0VGJD?oc=5",
           "summary": "",
           "source": "BILD",
           "published": "2026-10-24T17:36:27+00:00"
-        },
-        {
-          "title": "Königin Mette-Marit: Warum ihr Bruder verklagt wird",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlNKZFpJRzlpYV9EN09aN1NtV0RaSVR4bTZNQWZ5Tm54WHRHdW5JYmp3RGhZR0ZINlI1QjFjRzBkRmJTaHJWcE1UcWY5el9TU2k2SUVaZzlEa2ZvZFp3bnEteVVlWVlBNTVuT09ZVF90WTFka1lleF9UWWpKSmFlZlRUaDNaYXlqenRuNkdfNE9NTXcyc0VlYkN3bHVRdzFhYjFLelpR?oc=5",
-          "summary": "",
-          "source": "STERN.de",
-          "published": "2026-10-24T17:11:00+00:00"
         },
         {
           "title": "„Eine große Unbekannte“: Die Linke in Brasilien steht vor dem Abgrund",
@@ -567,6 +567,13 @@
           "published": "2026-10-24T15:35:04+00:00"
         },
         {
+          "title": "„Überall sind Zäune“",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ETjhGZVBqNWNES3NLMk5pZmxIRlJUNmNOa1RCWnRKRDAzNmNnSUFnZC02NHY3MkdtTlVIdWZIcEY2ell3TkNBM0hFczNKd2hYMUNUOTI0bW9FcGZBaGZ6dGY1aVQ?oc=5",
+          "summary": "",
+          "source": "taz.de",
+          "published": "2026-10-24T15:16:24+00:00"
+        },
+        {
           "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUFtcWlzR29jb2NfbFU5bnRVTy1SbmNEVDFpMEhDTHU0enZHWGh1bVBNVk9yUWYzWVZzdU1vTjZ0ZjBBR3lDSi1YRl9YODhIY0NONlpFQ0dOUVpHNmFDNTVMcC1kS3ZQaGxkVTgxTlBOTXZxdExKUlliYkV6bFBWMy1BTQ?oc=5",
           "summary": "",
@@ -574,18 +581,18 @@
           "published": "2026-10-24T13:47:00+00:00"
         },
         {
-          "title": "»Netanyahu war ein großartiger Anführer, aber er ist schon viel zu lange an der Macht«",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGYwRmtvR0daR0xyalJ1bkgwcXVabkF6cFJBUUE5X0ludTVoa1VPbnZqRHUzREM1TjJxMGJRR1liZTh5UU96cExjbmhyRUNQOFZZZ2d3NmZsWVFLTExzelJGdWpKQm5heTdqWTJhMFdjV2xRUVdGcTdTdUpGanVza3BHSTFqWWZQMURqU3BNWFdOajhjRnlJRlFJSXFua2xFYm9nNEczaURRTjlwcDNBV2JMOGwxblV3N2RxeXpnWUU0MGduVnMzVVg0WXdOZw?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-10-24T12:39:00+00:00"
-        },
-        {
           "title": "Harald Lesch und die Kernkraft – oder Physik in Deutschland contra Physik im Rest der Welt",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeC1sMVlWQzFTTVFNZ3R2cEZfZGUzaUp2ZFRYd3IyVVNSNnNzRjFObHNyR01SQjdhVFZsaHZEU3JsQmhONHltSThIdzI5b3VYaG9TVlljM2ZmSFM4eDlnNDdGVGcwSzVXZk9pQkI4a3Y0RUxCY2NxdUhRcXgxVHBZTHRoUDVWdkZ4QUdnZA?oc=5",
           "summary": "",
           "source": "Tichys Einblick",
           "published": "2026-10-24T12:29:31+00:00"
+        },
+        {
+          "title": "Neue Sorgen für Mette-Marit: Jetzt kämpft ihre Familie mit der nächsten Klage",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVG9Hcl9MQ0JESzJEdDdnZVYyclRCVm9ycVFvWVFrMEJXblR4aUE0cFp0VW1DTG82ZnEyYjI0dm0zdWplclFvOXYwa0pQRF9MXzdNUHdNR2RuemFRUUhHNklPcDM2aUVhUDU4aTJFTzZxZ2hCNWU0dkVhNHZwRFhDdWpVZkRFaEhEOGZ5SzBjTXpHM1NUaUdsbW1ncWlKc0NDYzcyalFtdVJSemN6b040ZG1TRmhEaHAxd2drajZESXBPQ2o5ekdORw?oc=5",
+          "summary": "",
+          "source": "TAG24",
+          "published": "2026-10-24T12:28:00+00:00"
         },
         {
           "title": "Korruption und Schlägertrupps: Studenten könnten Vučićs System bei Wahlsieg auffliegen lassen",
@@ -609,6 +616,13 @@
           "published": "2026-10-24T10:43:04+00:00"
         },
         {
+          "title": "Offensive im Westjordanland: Netanjahu kündigt „große Überraschung“ für Autonomiebehörde an",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zWFU1eGc2YVJsbG1mRFpfb2FpaGpCcV9adTkzQkZDXy1ETnV6WmgzQTNjRzNaQ1FKX0VtNWlzOWdRR09CWWE3Y3BNUThibFZVNEhzZm91VTZ2eWs0ajVmR3N3?oc=5",
+          "summary": "",
+          "source": "taz.de",
+          "published": "2026-10-24T10:39:14+00:00"
+        },
+        {
           "title": "Kronprinzessin Ingrid Alexandra weint bei Haakons Rede",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzhhR0J2SzlXYzMycmRybS1iOExWMEZrWjBmcmRfUVAwcWxhVE42N0FPc215QS13M0x4dktFX2RSTWFWaTRQX3B6dDZRVFRWWFR0c1U5dXE4ZEl0eFRpVzVtQ3pkVklWSG53a0E4OWlQVkxMOS1JYTZINnZUbG1lVUs1cXo2RTNqUFgxS0dWQTlORG1EOEhWZEhkeHJlLWVJY2VySV82MVg?oc=5",
           "summary": "",
@@ -630,6 +644,13 @@
           "published": "2026-10-24T10:00:00+00:00"
         },
         {
+          "title": "Kim Jong-un: Nordkoreas Machthaber Kim Jong-un überraschend in China eingetroffen",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3pqMmhudXNrSzF0ZFRLOVRBelRSSFFjMG1QVndGN3pQRVJpWmd3VVA1MWxucFNpWW1mUW1Zd3R0UmJqQ21neUtycm92c0JHZDMtNHpRWHJFcllyNm5jSDNHZHZPWG5EQVVENDBlbXZYUWFWVkFMVXczM3ZPTC1OUW1MeWRPcjFYSkhQTFhBaWwyc1YxWWVQNQ?oc=5",
+          "summary": "",
+          "source": "DIE ZEIT",
+          "published": "2026-10-24T08:56:38+00:00"
+        },
+        {
           "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk5ra1VoeDI1ZzJlYzI0aTd5RW9ZbGZPVUpORXV1VXJscHZ0NEFEeFdidmRyWTJRVTVUMFM4RGs2ck9lVXl5eVFQTVpuQmdhZWFEamZlX0FaaWxWZ3Z6LUhUOTdrcmF2cWVLaThsbjJDYTJaTlE0OUwtb3RFMllQWG10ZFJWbmxqRDduZU1JQ1ZkOHhuMFBF?oc=5",
           "summary": "",
@@ -637,25 +658,11 @@
           "published": "2026-10-24T08:27:00+00:00"
         },
         {
-          "title": "Nordkorea: Kim Jong-un zu überraschendem Besuch in China eingetroffen",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZUkwVE1nU2FYRHhlbnBMX3dYWlpkSlRTbTZtQlNEQWZaQ2lnLXlSYjJwYldYemFxcDB6OVFmYjlUOWVteFYyMUxJQWtnckRNcjVEMktmWHhVRmsxeERabUd2YUdCQUhrT1BncFhHUUJEcDdERFp3YU55dzR3a1N4TDhMbjU1ZXlyYUhDVDcyYmQ5elQzY2trNjVHQkJvSm9yZEZ2WG9BYVlzQThmeFpocVlSQ0ZEakNaaGQ0RGJ4RXhJTXVZRmlKQU5lM2RFSWM?oc=5",
+          "title": "„Ich bin nicht der stärkste Mensch der Welt“",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdzJHX1AxSkEwS0lFcFhnZ2VSSExIbkYzTFFwZnRPaTJGbFc3NGlLZFl0QmxobE5NMHY3ZVI3cDhwVkxtaldneUQ3SnpXOGcyRE5jZU56cU9OMUVIdUtmcERZTDNwdHpfdE1Dazh2c3FyaExZQXFFcjAtQWdMWGR1a2NHQm9Xek5JSzhtNi1JQ1pjU0lRVUdBSVJkb2NNbjVGWklCZHNnWEpPSzRaQ3BOVExiNmY3R2xxaXBLQ3Y4Z0VaZ0hvbmZFQU84RjlaeGZsOTh6OXpmYjNiaE5Qd09KTUlLTUtCSlpVUGxORHZmLVZEZw?oc=5",
           "summary": "",
-          "source": "WELT",
-          "published": "2026-10-24T08:02:50+00:00"
-        },
-        {
-          "title": "Behörden-Ärger wegen eines Bindestrichs: Baby hat seit Wochen keinen Namen",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVFSZ190VlZkMFVvUVpqVGNIMHQ1eHdPUENSSXhNVnV6NVJTbV9RTkdBcWI3NWw4LS1xM3k0aWlzdWlLMEN0aXhCWkpsalVFTjB1NjFnNXVtUmRIeEFRLTdMM0lzel9GZzBpSi16ZHNoblJxcGY2X3hUQUtVR1hVcEJidGtpbkg2N0RhbVFZTEFMWDIxblVfNG53TWl2T2Q4RWswV3JlelR6Z2FUZWpoQ1EtQURLY29BbW1nMWRtd0JoU09FWTBXRzdxTUdNZGstN05F?oc=5",
-          "summary": "",
-          "source": "TAG24",
-          "published": "2026-10-24T07:46:00+00:00"
-        },
-        {
-          "title": "Huthi-Miliz: Explosionen in Riad – Saudi-Arabien fängt Rakete und Drohne ab",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekc5N0NjTDEySVQ2X2kxcDFacy1DQmZLMFNBVVdiMmdaTnY2bU5GRkhrMXF6VkRSTTVHQ29mUTEzU1RsNWJWS2dLNnRmblFXUWFZOTlpUi1VdlFPWlF6LXRqdURvUkl5RV9fNUpvTTVmVlFqMC1FbHRoQnRndmx3bjA4M3c2VUZzUjFnMDRybVVsZ0NMWnNOT2VCcHJ6bVdrVUx2X0k5c00xNkc4WGk0LURwVV9IcnVfSGp1VDNZZ3Q1aF9UNU5ZUlNFY1ZEcDhHSzRneXA2SWZSUkxKUW9v?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-10-24T06:40:30+00:00"
+          "source": "BILD",
+          "published": "2026-10-24T07:29:25+00:00"
         },
         {
           "title": "Diese Schwestern teilen alles – auch den Mann",
@@ -665,18 +672,25 @@
           "published": "2026-10-23T18:02:00+00:00"
         },
         {
-          "title": "US-Midterms: Mehr als 20 Millionen US-Bürger haben schon gewählt",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUFzUE9Qakl0QWtzZVppd0tTQmpudFAwQU5IdjVpc05ERW5oWWVUTkZFNUF3REgyQ0tYYS1Vc192RGtuSjl0cXNQNGJRakpwYm9TNFNaaEtLVG5TWjNhTmdkZmJ4YW52WEMwVjBDYWZTVzZJU252cU1OeTBKRjFVdzI5YTlMZURIUkEtUmxkQ3FvaXEwMTIxalM1LXJKYnAwWDF6ai12cXA5dEM0akE?oc=5",
-          "summary": "",
-          "source": "DIE ZEIT",
-          "published": "2026-10-23T15:37:24+00:00"
-        },
-        {
           "title": "Mitochondrien: Wenn die Kraftwerke der Zellen stottern",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlRfaW1ELXhEcWptTmk4YXRsbHZfTk9udUpCNW5Ib0ZhbWZ0TkV5TWZIdG1XSU1LSWhIMng5NFVfU2FfQzN4SjdDVkJ5cUJ1WkhjRU9EYllwYUNsdkVJb0V0RzZMV0lLQlNreXBCTlUxM05SM1o3dTBMRVRxM2I3LWJwaEY2T0RfR191b1Fpa0VCZVFv?oc=5",
           "summary": "",
           "source": "Spektrum der Wissenschaft",
           "published": "2026-10-23T13:00:00+00:00"
+        },
+        {
+          "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pMFNYVUFTLWk0ZmlwS3BENlplc0g5UFI2TjZpZFR2V0RrM1h0czFKdGNGVnNVbGhvSk1aZkN3cTZzWGhwa2o4aVFGRG5ZRzl1M1ZhaDk2LUdlT0R3TnMtTVlWb1F1emxTRm1jRE9HZU56VE85?oc=5",
+          "summary": "",
+          "source": "tagesschau.de",
+          "published": "2026-10-23T12:55:00+00:00"
+        },
+        {
+          "title": "Papst Leo XIV. sagt Teilnahme am Friedenstreffen in Assisi ab",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODBfejJ2Vjdlc2JobkIwM296Q1RlTG9WUUVZYkJTUTBxNm94ZTdDNzNtMGFYX0NiT3hfUHYzQ3lRYW5NY1FRaTR3S0E0VDFHS0wwczBxbVNpa2J5QVNHZllldzZjZG1qbzEtVEYxUWlaalFDNXZZLWNRMmZmN1lRNUhvWmEzcHo4a3RfZ1pFV1hxRlpMZXJTcGlLX2UzU0RaV0FfT2ctbjBYU0tNX3NEU250VVdyMEE?oc=5",
+          "summary": "",
+          "source": "Vatican News",
+          "published": "2026-10-23T11:25:46+00:00"
         },
         {
           "title": "Russland verhaftet deutschen Ukraine-Kämpfer Michael F.: Wer ist der Mann?",
@@ -691,6 +705,13 @@
           "summary": "",
           "source": "T-Online",
           "published": "2026-10-23T08:25:00+00:00"
+        },
+        {
+          "title": "Was bedeutet der Super-El-Niño für Europa?",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1E2VjNGZEp3VnJXV3B1eFZNa2tZMGZIU0MtNVdmeTh2WVk3NFg4MU9oY0hRaW4yNDgtT0ZWejRMNkJoUHFaUnlTNF9pNmxzdVItYURBOWs4ZndCZzNxR3l5QlUtcF9xWTRRYktHaXctZVJHVnA0UnFvMXA0b2c5VFZGR2FhaTdDS2hualRKaTR4b0hNM2JVVHJzYlJkQ09WcEtlTk1nVXA?oc=5",
+          "summary": "",
+          "source": "Spektrum der Wissenschaft",
+          "published": "2026-10-23T08:15:09+00:00"
         },
         {
           "title": "Gescheiterte Exekution in den USA Justizmitarbeiter sollen schon während der Hinrichtung von Christa Pike gewarnt haben",
@@ -714,11 +735,11 @@
           "published": "2026-10-23T04:00:02+00:00"
         },
         {
-          "title": "Milliardenverluste: Wegen Klimakrise sinken Steuereinnahmen um 2,9 Prozent",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYU96dGo3Zlg2TkstZG14cHdzcnVwTVlzbGpqaF9wSzl6bS1OOEdIYjAtNmllVEJBblZQWDRkV01DUzVWbHR5blNVdWdlODIwdVUyY0pKYlA0SDRuZWtEU2RERU54UUxNMHVBWTJEVExEVVFUdnktd2h3c2pHSHZ3OU9FMzRFX0hKVzNRUmd4Z2hId1BLMEhKTEc3MXhpTzFpMktsXzE1djJnQW5qeXI0Yy1CVlhmY1hGdUFZ?oc=5",
+          "title": "Geburtsurkunde fehlt – Wegen Bindestrich! Mädchen hat seit Wochen keinen Namen",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWU9WZDNfclB3azk5cTFScG1rSHBRSlJZOVdPUnk5cml0SE9MeU44ako1d0F1UHhjVUtlbVJZYVpKWk9OOU9mLVN3enM1MnJHdTlwZW5vODd2bld3amJNUzBmellVVnUzQ25kVlJJbXRGV0NuZFp4SFB2bE9ucFV1MlF5SVN1OHltbUZIMC11aTJPUQ?oc=5",
           "summary": "",
-          "source": "derStandard.de",
-          "published": "2026-10-23T03:00:00+00:00"
+          "source": "Heute",
+          "published": "2026-10-23T03:30:00+00:00"
         },
         {
           "title": "Sex-Gesten in Ägypten: Influencerin Malévola Alves wegen Erotik-Posts im Urlaub festgenommen",
@@ -757,17 +778,10 @@
         },
         {
           "title": "Berlin, News, Regional: Scharfe Schusswaffe in Spandau beschlagnahmt - tixio",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yY2xpbUdqeXVhcmxDODJyb3lfT0xFaFFzN3p1S2VEc0tnZEhXbWNMZzljOGMzQ3hxUmVRRnpNbU5uQ09ubHc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR28tc3hKZElfY21sZnZpRVJ3elBpYUc5aXFheW5uNzJndGFBWnJJdm9lQmpFeFRFODNxQ2otM3lGVWxjTDRBVk5oYlZ4YmgxekNLM25WR1N3cmY3Uy1UajlKeGM2OUlqY2dQZFN6bjUxWG4tUVNsYnNSSHIxbHJoR3pHOWg?oc=5",
           "summary": "",
           "source": "tixio - Nachrichten",
-          "published": "2026-10-23T11:36:51+00:00"
-        },
-        {
-          "title": "Scharfe Schusswaffe in Berlin Spandau beschlagnahmt!",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWdkN0hEY2FPcU9GZjBDTDRnMl9adWprZU5KWWxXMmZyWHd0Qm55TTdLU3NIMUstcTU4NUtmUFE0RjNwMTZHVlNyQmdjOTlnS1ItMUtpekl2ZGRwRnc2czJtRi0tYUF5RHdJaTdGUXN4N01GblJnZ0MyUUxmUEhfVXBGaTZDUGRGeVVvWmJ0czRZM2kxTVJKQmZWX19EdlBNYy05NnM3V3pGcVdqa2c?oc=5",
-          "summary": "",
-          "source": "Berliner-Sonntagsblatt",
-          "published": "2026-10-23T11:30:00+00:00"
+          "published": "2026-10-23T11:36:32+00:00"
         },
         {
           "title": "Polizei-News Berlin-Spandau, 23.10.2026: Scharfe Schusswaffe nach Flucht vor der Polizei beschlagnahmt",
@@ -775,20 +789,6 @@
           "summary": "",
           "source": "News.de",
           "published": "2026-10-23T10:51:02+00:00"
-        },
-        {
-          "title": "Eintracht Falkensee",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDRwZmFtWjhRWmNQOHdIYk9DSjExN2VXX1k5eDJ3bDNMcHN0ZW1mUHByUUp0Z3N1ZzBld0JJd2wwMDRmM0VXUXN3c3pvNHZPTkQ4OVpMWWhIREZrbWpQZjI5R0gxTTBlQlpDZFNpeEhuQTZ6a3dmY0twZGFtZDE5MWdYakQzT2Rl?oc=5",
-          "summary": "",
-          "source": "Transfermarkt",
-          "published": "2026-10-23T04:33:17+00:00"
-        },
-        {
-          "title": "Insektenhotel am Lindenweiher fertiggestellt",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS05lSnNjRmJ0RnhPVTN2dEJUdktTRi1DMG55VnJWY3BHdGNtYXR6QkRxV29aNkQ5eE5sLVBYOTdGcWdOWmlXRWFpR2poQXVreXBYRTNYQmtrSVM1bXNxWkRoVzEwZlk5UU51bDdKQUdfQWIxaFdpdlhmR2xHaGxLQTVDdzdxUkRjU3BoLVMwaExiMC0tS2RZR1MwOWJDa3ZlWnEw?oc=5",
-          "summary": "",
-          "source": "Stadt Falkensee",
-          "published": "2026-10-22T12:41:56+00:00"
         },
         {
           "title": "Noch schnell zur 26. Falkenseer Angerweihnacht anmelden",
@@ -847,8 +847,15 @@
           "published": "2026-10-21T12:16:05+00:00"
         },
         {
-          "title": "\"Unbedingter Siegeswille und ein gemeinsames Ziel zeichnet uns aus\"",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzFmWEFtY1BBRS04YTF5b0JHMjhpUWZ6bVhDa3lqSmllVGYtSWc4WmNxcXlGSHctdU9hX1BnYS1VVFVoUzA0ZWpCR2hKajgtN3hrZGNuWkp2TjBQUUFPSkNSdTVVaHphTWE4UjRVVXdMdXVJV010blhNZUZ1bVpLXzBnMEdSTnBoM3FvWW91Wnhma2xkQUlNdHR5WEVjcjM4?oc=5",
+          "title": "Verfolgerduell in Wittenberge: Golm und der FSV suchen die Antwort",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSFV1eDlMR1VmcUJQTzQ3UHBTQlNuS1hRMGs1TnR1aDhGUE9NUkF1NlVzRXJCcEJIVXpJYTI5Z1VpUzBHZHAxNWRqYXRLaVF3d2wtRXA0UE9CMTdjakJab0NuMlRBTVBTdWt4NVJ6Z1RoWWJ4cE4tdTN2UHhUS0llSGlBSENIM2M3Mmo4aUFocnZyV3hZaHY1SU5tbVdPa0FK?oc=5",
+          "summary": "",
+          "source": "FuPa ⚽️",
+          "published": "2026-10-21T06:47:00+00:00"
+        },
+        {
+          "title": "Viererpack von Eberswaldes De Mello – Strausberg überrascht Bernau",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0lPVmFrMlhTUS1UZ0tid1pmQUpDTlpPTkZLZU13eUJoUF9fZFRfOGVjV1oxNFBYaWZmMFNoUmFjUlVhcG1VckFuRUNRQTd3aXZuZG9KdXg0bWZpV184bjBhU2dVdHdsa09aTFhvRkRsd2dIaEJyR05VbkJGQzdoOG45eVh1MmpIcU9SQ0JGQThLUC1CckZ5dnREbTR2NXh1?oc=5",
           "summary": "",
           "source": "FuPa ⚽️",
           "published": "2026-10-21T06:47:00+00:00"
@@ -873,27 +880,6 @@
           "summary": "",
           "source": "AOL.com",
           "published": "2026-10-20T15:06:15+00:00"
-        },
-        {
-          "title": "Versuchter Diebstahl von Baustrahlern",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0tDemw2a1ZtamVuOElibXg3a2J6akU1VnBvM2pHYmItVU9RTHdKOThwT1RieFNvQk43Z1JvdTc5RldDeS1vbHFtSlJUdHVncnoybERLZmtrMWJFVWlKRzB5UXlsT3lZbVRQXzZzMXdQUEJ1eFVUbDdWc3l3aVZCWEszcUthQkJadXQ3OTRELUJNMWlX?oc=5",
-          "summary": "",
-          "source": "Polizei Brandenburg",
-          "published": "2026-10-20T07:00:02+00:00"
-        },
-        {
-          "title": "Dune: Part Three im ALA Falkensee",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ERTZxZnhvWXBjamFEdXE5VVpaVWJvc09obDkwR1AtY1dPQ3h2aEdscXpXeFpBc2c4WDdKQlN1d0wwWV9nd2lGUXhvSFQ4Y2tZVW5aNElnWWgyMGw3TjZ2bjgzOUk0WjNyeWpWcmhnaFJQQzk2bDF4NGg3OXJRZw?oc=5",
-          "summary": "",
-          "source": "www.cineplex.de",
-          "published": "2026-10-20T06:38:22+00:00"
-        },
-        {
-          "title": "Mit E-Scooter vor Polizei geflohen + Augenklinik in Falkensee + E-Autofahren im Selbsttest",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSVRJRXVoZ3VucjZ1MlViU1RRcHNrcXVuSWZZR05nWEV3Z2QyODZsZDItOUxKcE9qZEdWa3N5b3REM0RkTzlzUUJyeTg3UzFMODRWUkZ2TEJidjFBYk1EYXRLZDZ6V2w1NDlDWVNfd2Z1dVN0VlFnYTh3eURwOS1ESWFSVGhMRHg3VlJzbUwtaVFvbTNUajQ0aFdOeDV2cnlRVW5lb09UZjhRQVVoMXZBQlRfQ0hULWU4aE5QcVdSMVY5MFRUMzVtZjduYVFvZ1BoVmZDQmV0SW1fUE9fS3VNZmhNelhKRGdqelZDYTlIcldOalhi0gGQAkFVX3lxTE05cHZ5QTRKdDhSTC1HYlI2LXpOYzJDelNDWEwxNmF6SHdXM3hnbGZ2QWxlb0tDQ3ZmVHoyRHhLZlBFSXNpc3pJekEzQVNvLXZDMjFZU19uWUlkSFlzMUs3b19HNEFtUUtOc3NUNWZ5VmZpSkd4TnhabVRMZXFrS0c1Zm1ndDdYb3lYQ0psQ05sV2FjelhKSVFBYXRFS0V1djNBbjZZQmoyMTlxUEtTcWpsd3lZRHFlWW5qNzlPczV0YWFQZUFVbklBTV8wdUZySHp3OFB0akhTdFFULV9qbkZOUWdyT0o5bmExR2hfUGM3RG9pREVsbU1IR1hhSFdrUTUwUm1nVkM3bmdUclZadTR1?oc=5",
-          "summary": "",
-          "source": "Märkische Allgemeine Zeitung",
-          "published": "2026-10-20T02:50:09+00:00"
         },
         {
           "title": "Tödlicher Kreuzungs-Crash in Spandau: Ehepaar überlebt schweren Unfall nicht",
@@ -943,13 +929,6 @@
           "summary": "",
           "source": "Berliner-Sonntagsblatt",
           "published": "2026-10-19T10:35:00+00:00"
-        },
-        {
-          "title": "Steiner trifft dreifach, Golm bleibt gegen Falkensee stecken",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjVVeTZXV3AxbDZVMkdBZFNCMEN2b0c5VmEyaUJSSTYwSkhVVElsd1J5X05kYUV3WXVUaUE3LXEtM0dtazZaeDJlRDM1b1NvMUxrREZiSkk3dWMzQllDN0tOME4weXV4WWIzQmhVcVFPN002bTE1aHJhLUl3SzExYk1IN28zeFgtT2U0YVNWMzNWQUN5NDhtMg?oc=5",
-          "summary": "",
-          "source": "FuPa ⚽️",
-          "published": "2026-10-19T06:30:00+00:00"
         },
         {
           "title": "Stammtisch Deutsche Gebärdensprache",
@@ -1005,7 +984,14 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTFZRi0wRk8wUkRkVTZ2MUUzbURJT00zWWdiOUNyU0tQSi10MmlBMkk4cDcyaE10b1ByUU1VcUtjMG1OSktMdDFRbktHZW9BdFgxaEVhc2s3X3ZqZHExeFpCc25NU19VNDFWZGtpcERHSnNKSjBSV1VLMVlHc3NUdkdJUHltUzhFa0w4RzBxNVl0TTRWRkluR29jamp3VFlqbU5EQzFPQlFlOGhyNEQwRXpmWU1vMExXOFpRdnBpZDY4Ymd0MVlNU0tIazVVZw?oc=5",
           "summary": "",
           "source": "WELT",
-          "published": "2026-10-24T22:38:31+00:00"
+          "published": "2026-10-24T23:44:59+00:00"
+        },
+        {
+          "title": "Versicherungen warnen vor Klimarisiken – doch ihre eigenen Zahlen erzählen eine andere Geschichte",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRmNiN2VGc3pTQ1Q0UVJETVB3Y2tRZnRuRUFMYm9sNzlXeTlvdUx1b2FJVUlaVl91bGRVQ3JHQWFFU2NQaE5mVUhSUVowYUYwdUZwb3NMaXlQQ2pBR0VRWjBiY1JYc2VvbXZGREY0QVlUQmdxZTBTMGc5NmN0aG5QLURYaExheTg2T0RWbXUxcEZfLUpCS1BrUWdpMzdrYUdFdlRrRkJWUXltR0c1c2dCb1pmNDVCTVBsbUt5OGZpZExnWS1hY2VGNUpnWFVJTjU3RUdmV29EWFJuLWR0dk1aTDgzdmpiY3VYakViM2RYNXV6YzJiTS1HaXN6TTVsRk5LMHRlQ2Jn?oc=5",
+          "summary": "",
+          "source": "WELT",
+          "published": "2026-10-24T23:25:46+00:00"
         },
         {
           "title": "„Es hat Schuppen!“ – Rätsel um 99 Millionen Jahre alten Bernstein-Fund gelöst",
@@ -1013,13 +999,6 @@
           "summary": "",
           "source": "WELT",
           "published": "2026-10-24T22:19:22+00:00"
-        },
-        {
-          "title": "Versicherungen warnen vor Klimarisiken – doch ihre eigenen Zahlen erzählen eine andere Geschichte",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRmNiN2VGc3pTQ1Q0UVJETVB3Y2tRZnRuRUFMYm9sNzlXeTlvdUx1b2FJVUlaVl91bGRVQ3JHQWFFU2NQaE5mVUhSUVowYUYwdUZwb3NMaXlQQ2pBR0VRWjBiY1JYc2VvbXZGREY0QVlUQmdxZTBTMGc5NmN0aG5QLURYaExheTg2T0RWbXUxcEZfLUpCS1BrUWdpMzdrYUdFdlRrRkJWUXltR0c1c2dCb1pmNDVCTVBsbUt5OGZpZExnWS1hY2VGNUpnWFVJTjU3RUdmV29EWFJuLWR0dk1aTDgzdmpiY3VYakViM2RYNXV6YzJiTS1HaXN6TTVsRk5LMHRlQ2Jn?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-10-24T20:18:49+00:00"
         },
         {
           "title": "Pazifikzustand ermöglicht El-Niño-Prognosen zwölf Monate im Voraus",
@@ -1323,6 +1302,20 @@
           "published": "2026-10-23T13:14:00+00:00"
         },
         {
+          "title": "Koma-Patienten: Forscher entdecken verborgenes Bewusstsein und machen es erstmals nutzbar",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNGdtbzR2Z3hCNnB0cDBpS2dibVFOMHF2V2k0LUJ3a3ZTRmxKU09mT3cxeVk5Z2x4WV9pc3loWHZZdDlWU01LcmhLTlUyd3FTMmRSOEhKY3E4SDYzdTlYX01IQm5BbGZEcE1xQWd5bjVleXZOMUV3ekcwNjJrZEN1MUIxOHFNams0S3loVlJPLU8wS1hyUDNrSmhSZ2tsMXZVeC1DVmVJTmwxYWVUNHBEMjdJVW9xN09VSFpnNDRaYzRsMzliVkpDVEN0TWs5OHVtZWpwRkp5NXl3d29oMWlsVkU1a0NlWkZJdU1wQQ?oc=5",
+          "summary": "",
+          "source": "WELT",
+          "published": "2026-10-23T11:55:39+00:00"
+        },
+        {
+          "title": "Die Übersterblichkeit des Hitzesommers Wo in Europa die meisten Menschen wegen des Klimawandels starben",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUzZnWV9HUnJTc01MVmxHSk9hU1NtaWVneUQtcXA1XzFuczNpUHZxek45ZHlmUDdOTlRuVEY0R0tmN2xNT3VZU2lHYTFWa1psSDRXSTVEZlNNbUJWOEhfcm5ScVNiLWdjOVJXdzRWbXk5M2t3SkVhMXVyOHpvWVVob2g0NnhidWcwMkNWOUN4bXFPTzM5ZlVpUGhRdnlUZHFYTHFhSFVnV0dOVGsxSklfdGpHaU82UDR2b284WUt2ZFY5M1JJeEFnWkFWOFJVaW1sMVY4Y2FZb1FpQUpqY2V2WncydTlLU0ZQcFpmRA?oc=5",
+          "summary": "",
+          "source": "Tagesspiegel",
+          "published": "2026-10-23T11:52:03+00:00"
+        },
+        {
           "title": "Hirnentwicklung: Diese fünf Phasen durchläuft das Gehirn im Lauf des Lebens",
           "link": "https://www.spektrum.de/news/diese-fuenf-phasen-durchlaeuft-ihr-gehirn-im-lauf-des-lebens/2297824",
           "summary": "Wenn wir älter werden, macht unser Hirn typische Veränderungen durch. Nun haben Forscher fünf zentrale Wendepunkte identifiziert.",
@@ -1435,27 +1428,6 @@
           "published": "2026-10-23T03:00:00+00:00"
         },
         {
-          "title": "Klimawandel: Forschende schätzen mehr als 50.000 Hitzetote in Europa im Sommer 2026",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjNUOUtBZjd3ZDFRTVc5MWYzYjJoLWYxXzdkU3d2YjNiNENiRnJ4STJBOFo4cXNmX0pOdnFRTG1MekllTHpsN3k4enEyekdXWGhVMkpZczRmWThEVDhTQldrUk13V3Q0NEZDbHNWTGVXV0ZZM1hZMjBDLVJjWmlSLUgxd2E5N1ZN?oc=5",
-          "summary": "",
-          "source": "DIE ZEIT",
-          "published": "2026-10-23T00:36:27+00:00"
-        },
-        {
-          "title": "Zwei Käferliebhaber und ein wissenschaftlicher Durchbruch",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnd1em9OSV90TWUwR2NmUHlwbFFDdDBkTmRwSW1XeFFoY1N1cVYtNDZYdi1XcEFaOEptUjVoUU1JSnYtZENzT3kwSVIwRHkwT0xRWkU3WUtrM3hGR3Zld2tjQW1NRkd3TjNhY3dxRVYtbzA2SzMyczJxb0JzWTBhRzJ1dTBzbzcyOVp2VzJ0RlhqSWlBQ3c?oc=5",
-          "summary": "",
-          "source": "WEB.DE",
-          "published": "2026-10-22T16:37:07+00:00"
-        },
-        {
-          "title": "Bereits nach kurzem Training gelang es den Menschen im Koma, gezielte Signale zu senden",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDhMZ29jZDFrLTNYRVlkSUVfeWpjRFVpcEtxbWQzVFpjWTQ2NlFGSGVwZ2xtbWZWSmE1WGVHd0RBV0NiOGF1b3pVZWQyQ0NqR2xNdmVKbFR0Tmp2Vmd4UHNzZE9IZXN0b2dEeWNUUnZBTEFMYy1yN3ktSWp0UUNVU3NmWnZ3MTdSWkNHbzN0TWd5UWxhT1BQSnJvbjhhLXZzdjhLREwtdGlZLVR4MF94aFljdWZFejVRMG5mYnFqUGVGRHpnVFF3bldVNWgwUHNTZngwamxpeHFlQzRVVHVWc2dEalBYTDFfU2k2N2NZaw?oc=5",
-          "summary": "",
-          "source": "WELT",
-          "published": "2026-10-22T15:32:01+00:00"
-        },
-        {
           "title": "Start-up verwandelt Quecksilber in echtes Gold",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWo1WUJONTJ5TGpYQmtNS2xka0ZrNTZDbGFTNE8yenBSZi1FSUttRXMxQTVzWUpzZlgxS1pkUVVtbGlkMmRxbkh4b09mVklFTTMzYldKQUtqd1JlQ21IcV90bUw2Vnd1eWM0amR6enIwNE9ZYnRUcVAtdTBBTExZSExEZkhua1VfLU5LQm80c2Vla3ptVHhNaGVPNkxONWJHX3pkU19YaTdkNlRjZWtyNThueEV1TEk?oc=5",
           "summary": "",
@@ -1491,18 +1463,18 @@
           "published": "2026-10-22T12:52:44+00:00"
         },
         {
-          "title": "Positron: Forscher fangen Antimaterie ein (und die Welt ist gar nicht untergegangen)",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSUpQV2tMdVJDLTNTWWRRRlVKTEZBWV9WNGI4RU5uaXcyNG5YeVA1QnlIblpmMC1NSjM5R29aVnhUNG45d2wxNzF2UE1reDFZQW9ORmh1cHRvcjZDbUprVTJiSF9MTlRJUFhJd1djSzhsQ09tVXdZUVR2UjBENTk2U0w5RFlkQmEyeUpFSWt5THo2c0x4bnhUOUxWZnN0c1l6N21nbUkwMmI3UGhXSHFfVzNtdGhFYkF3aW0ySTFjZWFFTGU5aGtwMTB4cWFVbjJNOE1FR0lXcWVIUDY1YUxURQ?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-10-22T09:41:00+00:00"
-        },
-        {
           "title": "Archäologen finden mittelalterliche Brotbackschaufel mit überraschendem Detail aus dem 11. Jahrhundert",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS2ppbHZaQ3l1QjAtZVhXbmlJSkY2V05KS3o1VlRkRC1PbmV6LXAtZlJzRWpwSmNHY3pVN3FDN0w2RE9jd3dkMHhwdWVjQTNwMXNfUFRaVzVYVDdQTEZldnJlY0MySEx3alBwVTFjZ3RZYlBDU2Z5T1lhdkZuM18tWkdoZFhIN25sN1hXd09IR2xFTDhiNDIwNXF6MktYenBDSnBXbm5RcnFmdVNOdjA2S0dwYU9EMjVNOE5NSEJrZ25LRXpnYjljbXVfY2ppMEJGcHJ5UERpUi1XM3o3ODNFQXVjUHlYMVpJVWpUaVFpcG1hc090VGlzRkt5Y0tmbmd2RV84R1BjRmQ1Q3hk?oc=5",
           "summary": "",
           "source": "FOCUS online",
           "published": "2026-10-22T09:33:00+00:00"
+        },
+        {
+          "title": "Frankreich meldet erstmals Shamonda-Virus bei einem Menschen - Patient gestorben",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZEt4S3cweFpQRjBkRGhKME5GX3ZXdlBwdi1WYUhOVVFkUXlhVmNrYXVCeWVPMFZJSUZ3ZVA0b19LZWJkMGJhaDhMSUk2Nlpubkx6dENiSmQ0SW9pbHJ5a2dHUHBVbGxQeE5NOWo5WFA4RVlmeGJEQjNpNkx4emdmZWFIRkZXSE9kdGd3OURCZnVzOVlTMGtHMWJGZm9DX3o5LXhuNXpjWHd1Qjhsc2hqT2dyR081N1JrSnVGOGkyNGljU3RvUU5WTFRJQllTSjBkbTY1c2pMWlhieG5ZVm5iZVNFV0pIOXBN?oc=5",
+          "summary": "",
+          "source": "Spiegel",
+          "published": "2026-10-22T08:43:00+00:00"
         },
         {
           "title": "Länger Leben: Forscher entdecken entscheidendes Kälte-Molekül",
@@ -1575,6 +1547,13 @@
           "published": "2026-10-22T02:59:00+00:00"
         },
         {
+          "title": "Positron: Forscher fangen Antimaterie ein (und die Welt ist gar nicht untergegangen)",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU0p0RDdaT0Q2YzhsNHY0bUNqWjhxa3lnb0JFQi1oQUNLbHRRY0FYYkJhLTZXcUxyMGpPMk5vaWFFUjZXcll1OHhkMHRiTHROQUtpNldPMVBRb0NsMW8tUEtHak5zOEdQVGZoNkNiMkFkUEEzeklyVGRMWmplZjExUFVlLWV3a0l3dlhHS24wYXVEcEJmbl9kdkltTkJPbDVFQXdpYlVmT2hqdHFLS0kyZnhaSVlmUXRnZmNwTjFxM1JXNFB2cWlJNTZuMHBoYmJjanAyeHI4WHZkOW9DaU9XN2dDVDBnc1QyTWNmMA?oc=5",
+          "summary": "",
+          "source": "Spiegel",
+          "published": "2026-10-21T15:31:00+00:00"
+        },
+        {
           "title": "Die Orioniden-Sternschnuppen erreichen ihren Höhepunkt",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2FCMkxxZkdaX19qN215RDlEQkFvRHVTVjJ5MHJRdnMtWFR3NnFpV19mSldWR05CRE5Fal9LaEtENE5WQUEtZVdsZHFIbEhWX3Y3OHJiR05aX1FkTEl6ZzJsRkFOSjVvcUJIckFybXdpNzRwRkVBaE1pUk5RbmJQQVhudks3MzgyV3dHQjVVcEFhcG1iNEpPeGZRblY1SkpyeGVlTTRZQktjSFVYTnNFem5mbHRwQjR3LWdmMzN2VWs?oc=5",
           "summary": "",
@@ -1608,13 +1587,6 @@
           "summary": "",
           "source": "FOCUS online",
           "published": "2026-10-21T09:41:00+00:00"
-        },
-        {
-          "title": "Erde erwärmt sich stärker als befürchtet – Uno sieht USA als Treiber",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVqUmFDOVEwVGxPcnFGemRBQzRyVnFVN1M0QkdNVWpSRDJIT3JHQkQ2dFdjTHFkeGNtbWswZHBBVmJSaG5TSlB4ZXVGZEdnVkZPZ3Z1S09yMkw1WDF0SE4wS3J6M1QxQzQzdi1lT3pKQzc4S2JYTjZ5UXhXLXh4T3NJbHdwU2xRS1dobHRsOU5JWi10YmVFUktoRTRqeWRqdnpFdTlIcmZuNUgzTUtMRDNYalA2ZWRjVDlvMGJVMkpoMWhPTzVPc3ZHa1RyRVo4Z2trWi1BQzNFZXdvN3lPT1V5WjBSRzk4ME5IWmt2NF9IME52ekp1eXpXOA?oc=5",
-          "summary": "",
-          "source": "Spiegel",
-          "published": "2026-10-21T07:48:00+00:00"
         },
         {
           "title": "Schlaganfall: Bei einer Altersgruppe sind frühe Warnzeichen besonders deutlich",
@@ -1699,6 +1671,13 @@
           "summary": "",
           "source": "Handelsblatt",
           "published": "2026-10-19T14:24:00+00:00"
+        },
+        {
+          "title": "„Unser Traum ist genauso groß oder größer als der von Musk“",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjBzR1ItWHhDQW1VaTZvd252WVgzVHlCNzZJNFpmc3l4Vm04clZBUG5uVHEyQlhHVTZJbUxHY3kzMmN4aEVCeVo0Q3dPM28zSmQxNThMX29IcEpack9RbW9penpkNkQ4R2VqSDdCWXctMTlYdDhEODJDbEF2bi1GanFiV1A2aEZBYzcyVlVmRWo1bWxXZGs3VjAxb0xmcFVfMmc5Z2xVZUNCYkxibnRvMUVSeHkxYVdQajZacnR2YmJhc29lbjZ6aHV6dUh1NEpNNHd3dGc3cjFxb1JzUkZLU2pEUEM0bWs?oc=5",
+          "summary": "",
+          "source": "Handelsblatt",
+          "published": "2026-10-19T14:20:00+00:00"
         }
       ]
     }
